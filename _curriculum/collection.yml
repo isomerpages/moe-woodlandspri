@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Languages, Math and Science/.keep
       - Physical Education, Art and Music.md
       - Programme for Active Learning (PAL).md
       - Assessment Matters.md
