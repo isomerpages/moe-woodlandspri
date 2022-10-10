@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - For Parents/For Parents.md
       - "For Parents/P1 Registration: Parent Volunteer Scheme.md"
       - For Parents/Calender of Events.md
       - For Parents/Circulars.md
