@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Alumni.md
       - School Based Student Care Centre.md
