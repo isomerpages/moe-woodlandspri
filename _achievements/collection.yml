@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Singapore Youth Festival (SYF)/2012.md
       - Singapore Youth Festival (SYF)/2014.md
       - Singapore Youth Festival (SYF)/2016.md
       - Singapore Youth Festival (SYF)/Singapore Youth Festival (SYF) Arts
