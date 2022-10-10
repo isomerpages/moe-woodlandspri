@@ -3,7 +3,7 @@ url: https://woodlandsprimarysch.sg
 favicon: /images/sch logo.png
 colors:
   primary-color: "#640f24"
-  secondary-color: "#feda00"
+  secondary-color: "#640f24"
   media-colors:
     - title: media-color-one
       color: "#49759a"
