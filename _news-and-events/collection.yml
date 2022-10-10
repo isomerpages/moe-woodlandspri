@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - P4 Leadership Fiesta 2022.md
       - P3 Cultural Camp 2022.md
       - Hari Raya 2022.md
       - Prefects Investiture 2022.md
