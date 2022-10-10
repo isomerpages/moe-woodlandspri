@@ -2,4 +2,5 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CCA/Clubs.md
       - CCA/.keep
