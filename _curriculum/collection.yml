@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Physical Education, Art and Music.md
       - Programme for Active Learning (PAL).md
       - Assessment Matters.md
