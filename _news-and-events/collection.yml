@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Chinese New Year 2022.md
       - Meet the Parents Session 2022.md
       - Games Day 2021.md
       - P5 Camp 2021.md
