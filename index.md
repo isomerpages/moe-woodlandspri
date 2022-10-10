@@ -26,7 +26,7 @@ sections:
         holistic development of pupils, and sportsmen must possess sound values
         and character.
       button: Learn More
-      url: /wdp-curriculum/llp/
+      url: /curriculum/llp/
       image: /images/wdp llp.jpg
       alt: Image alt text
   - infopic:
@@ -36,7 +36,7 @@ sections:
         Tongue Language.It strengthens the impact of Woodlanders' Joy of
         learning languages.
       button: Learn More
-      url: /wdp-curriculum/alp/
+      url: /curriculum/alp/
       image: /images/wdp alp.png
       alt: Image alt text
 ---
