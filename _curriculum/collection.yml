@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Languages, Math and Science/English Language.md
       - Languages, Math and Science/Mother Tongue Languages.md
