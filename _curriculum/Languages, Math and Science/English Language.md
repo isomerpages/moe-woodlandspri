@@ -23,11 +23,15 @@ Our P1 and P2 pupils develop their self-confidence and presentation skills throu
 
 <img src="/images/english3.jpg" style="width:80%">
 
+<img src="/images/english4.jpg" style="width:80%">
+
 Once a week, pupils go to the library for storytelling sessions by their teachers and enjoy Aesop’s Fables, fairy tales and picture books which entertain and educate.
 
 They also look forward to Fridays as these are days when pupils play English language games and build their knowledge about grammar and vocabulary, with attractive tokens to be won.
 
-<img src="/images/english4.jpg" style="width:80%">
+<img src="/images/english5.jpg" style="width:80%">
+
+<br>
 
 *   **Middle Primary Learning Experiences (Library Lessons, Oracy Task and What’s Up Newspaper)**
 
@@ -44,13 +48,11 @@ Our P5 and P6 pupils are exposed to global issues and current affairs through th
 
 Every term, there is a school-wide assembly book talk. In Term 1, we feature teachers telling their favourite stories. In Term 2, we invite a NLB Librarian to introduce a variety of book genres for each level and to recommend book titles which pupils would enjoy. In Term 3, pupils tell stories to their peers. For example, they learnt about traditional forms of storytelling and were treated to student librarians using ‘kamishibai’, a traditional Japanese storytelling art, to tell stories from Japan, Indonesia and Singapore. To round off, we also invite authors to give book talks and share tips on writing in Term 4.
 
-<img src="/images/english5.jpg" style="width:80%">
-
 <img src="/images/english6.jpg" style="width:80%">
 
-A highlight of the year is the annual EL Reading Fest. In 2021, our theme was “Fact and Fiction” and we led pupils to explore the themes of fairy tales and mystery stories through a variety of activities and board displays.
-
 <img src="/images/english7.jpg" style="width:80%">
+
+A highlight of the year is the annual EL Reading Fest. In 2021, our theme was “Fact and Fiction” and we led pupils to explore the themes of fairy tales and mystery stories through a variety of activities and board displays.
 
 <img src="/images/english8.jpg" style="width:80%">
 
