@@ -10,7 +10,7 @@ third_nav_title: Staff
 
 |  |  |
 |---|---|
-| LEAD Teacher – English Language | Mdm Chan Siew Li Doreen |
+| **LEAD Teacher – English Language** | Mdm Chan Siew Li Doreen |
 |
 
 #### **Senior Teachers**
@@ -26,5 +26,3 @@ third_nav_title: Staff
 | **Senior Teacher – Mathematics** | Mdm Marcia Koh |
 | **Senior Teacher – Physical Education (PE)** | Ms Mishon Lew |
 |
-
-
