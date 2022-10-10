@@ -2,6 +2,7 @@ collections:
   wdp-information:
     output: true
     order:
+      - Identity.md
       - WDP Rules and Regulations.md
       - WDP Staff/.keep
       - WDP Achievements/.keep
