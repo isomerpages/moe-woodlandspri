@@ -2,17 +2,17 @@ collections:
   achievements:
     output: true
     order:
+      - Singapore Youth Festival (SYF)/.keep
       - Singapore Youth Festival (SYF)/Singapore Youth Festival (SYF) Arts
-        Presentations Results 2010.md
-      - Singapore Youth Festival (SYF)/Singapore Youth Festival (SYF) Arts
-        Presentations Results 2012.md
-      - Singapore Youth Festival (SYF)/Singapore Youth Festival (SYF) Arts
-        Presentations Results 2014.md
+        Presentations Results 2018.md
       - Singapore Youth Festival (SYF)/Singapore Youth Festival (SYF) Arts
         Presentations Results 2016.md
       - Singapore Youth Festival (SYF)/Singapore Youth Festival (SYF) Arts
-        Presentations Results 2018.md
-      - Singapore Youth Festival (SYF)/.keep
+        Presentations Results 2014.md
+      - Singapore Youth Festival (SYF)/Singapore Youth Festival (SYF) Arts
+        Presentations Results 2012.md
+      - Singapore Youth Festival (SYF)/Singapore Youth Festival (SYF) Arts
+        Presentations Results 2010.md
       - School Awards.md
       - CCA Results.md
       - Competitions.md
