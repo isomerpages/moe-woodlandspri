@@ -4,30 +4,39 @@ title: Woodlands Primary School
 description: Brief site description here
 image: /images/sch logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Woodlands Primary School
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: News & Events
+          description: ""
+          url: /news-and-events/
+        - title: Contact Information
+          description: ""
+          url: /wdp-information/contact-information/
+        - title: Quick Links
+          description: ""
+          url: /quick-links/for-parents/
+  - infopic:
+      title: Learning For Life Programme
+      subtitle: Woodlands Primary School
+      description: Developing Character through Sports is an important component of
+        holistic development of pupils, and sportsmen must possess sound values
+        and character.
+      button: Learn More
+      url: /wdp-curriculum/llp/
+      image: /images/wdp llp.jpg
+      alt: Image alt text
+  - infopic:
+      title: Applied Learning Programme
+      subtitle: Woodlands Primary School
+      description: ALP is a six-year programme that integrates English and Mother
+        Tongue Language.It strengthens the impact of Woodlanders' Joy of
+        learning languages.
+      button: Learn More
+      url: /wdp-curriculum/alp/
+      image: /images/wdp alp.png
+      alt: Image alt text
 ---
-
-
