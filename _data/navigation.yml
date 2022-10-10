@@ -18,14 +18,48 @@ links:
       - title: Contact Information
         url: /wdp-information/contact-information/
   - title: Curriculum
-    url: /wdp-curriculum/
-    sublinks: []
+    url: /curriculum/cce/
+    sublinks:
+      - title: Character & Citizenship Edu
+        url: /curriculum/cce/
+      - title: Applied Learning Programme
+        url: /curriculum/alp/
+      - title: Learning for Life Programme
+        url: /curriculum/llp/
+      - title: Languages,Math & Science
+        url: /curriculum/languages-math-and-science/
+      - title: Physical Education,Art & Music
+        url: /curriculum/pe-art-and-music/
+      - title: Programme for Active Learning
+        url: /curriculum/pal/
+      - title: ICT
+        url: /curriculum/ict/
+      - title: Assessment Matters
+        url: /curriculum/assessment-matters/
   - title: Co-Curriculum
-    url: /co-curriculum/
-    sublinks: []
+    url: /co-curriculum/student-leadership/
+    sublinks:
+      - title: Student Leadership
+        url: /co-curriculum/student-leadership/
+      - title: CCA
+        url: /co-curriculum/cca/
   - title: Partners
-    url: /partners/
-    sublinks: []
+    url: /partners/school-advisory-committee/
+    sublinks:
+      - title: School Advisory Committee
+        url: /partners/school-advisory-committee/
+      - title: Parent Support Group
+        url: /partners/psg/
+      - title: Alumni
+        url: /partners/alumni/
+      - title: School-Based Student Care
+        url: /partners/school-based-student-care-centre/
   - title: Quick Links
     url: /quick-links/for-parents/
-    sublinks: []
+    sublinks:
+      - title: For Parents
+        url: /quick-links/for-parents/
+      - title: For Students
+        url: /quick-links/for-students/
+      - title: For Staff
+        url: /quick-links/for-staff/
