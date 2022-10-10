@@ -13,8 +13,7 @@ description: ""
 <figure>
 <img src="/images/identity2.jpg" style="width:25%">
 
-The School Colours : Red, Yellow and Orange
-
+The School Colours : Red, Yellow and Orange<br><br>
 The symbols on the crest:<br>
 LION’s HEAD is synonymous with our Lion City<br>
 WDP stands for Woodlands Primary School<br>
