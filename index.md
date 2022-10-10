@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: News & Events
           description: ""
-          url: /news-and-events/
+          url: /news-and-events/p4-storytelling-coding-workshop-2022/
         - title: Contact Information
           description: ""
           url: /wdp-information/contact-information/
