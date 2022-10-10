@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Character & Citizenship Education.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Languages, Math and Science/English Language.md
