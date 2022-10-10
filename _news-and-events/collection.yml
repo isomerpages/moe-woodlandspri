@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - P4 Storytelling Coding Workshop 2022.md
       - National Day Celebration 2022.md
       - P5 NE Show 2022.md
       - GLEE Fest 2022.md
