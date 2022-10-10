@@ -2,4 +2,5 @@ collections:
   curriculum:
     output: true
     order:
+      - Programme for Active Learning (PAL).md
       - Assessment Matters.md
