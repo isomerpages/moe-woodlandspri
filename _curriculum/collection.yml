@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Languages, Math and Science/Mathematics.md
       - Languages, Math and Science/Science.md
       - Languages, Math and Science/.keep
       - Physical Education, Art and Music.md
