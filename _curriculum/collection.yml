@@ -2,16 +2,16 @@ collections:
   curriculum:
     output: true
     order:
-      - ICT.md
       - Character & Citizenship Education.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
+      - Languages, Math and Science/.keep
       - Languages, Math and Science/Languages, Math and Science.md
       - Languages, Math and Science/English Language.md
       - Languages, Math and Science/Mother Tongue Languages.md
       - Languages, Math and Science/Mathematics.md
       - Languages, Math and Science/Science.md
-      - Languages, Math and Science/.keep
       - Physical Education, Art and Music.md
       - Programme for Active Learning (PAL).md
+      - ICT.md
       - Assessment Matters.md
