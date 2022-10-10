@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group/PSG Exco Members.md
       - Parent Support Group/PSG Activities.md
       - Parent Support Group/PSG Registration Form.md
       - Parent Support Group/PSG Contact.md
