@@ -107,5 +107,11 @@ Pupils are exposed to the different facets of the language, with modules such as
 * Scrabble competitions
 
 <img src="/images/english17.jpg" style="width:80%">
+
 <img src="/images/english18.jpg" style="width:80%">
+
 <img src="/images/english19.jpg" style="width:80%">
+
+#### **Useful links:**
+*   **MOE Website for Primary School Subjects**<br>[https://www.moe.gov.sg/primary/curriculum/syllabus](https://www.moe.gov.sg/primary/curriculum/syllabus)
+*   **NLB Reading Resources: discoveReads - Children and Teens Service**<br>[https://childrenandteens.nlb.gov.sg/](https://childrenandteens.nlb.gov.sg/)
