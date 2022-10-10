@@ -4,4 +4,14 @@ permalink: /wdp-information/achievements/syf-art-presentation-results/2010/
 description: ""
 third_nav_title: Singapore Youth Festival (SYF)
 ---
+### **Singapore Youth Festival (SYF) Arts Presentations Results 2010**
 
+|  |  |
+|---|---|
+| **Choir:** | SYF Gold |
+| **Malay Dance:** | SYF Gold |
+| **Indian Dance:** | SYF Silver |
+| **Chinese Dance:** | SYF Silver |
+| **Chinese Orchestra:** | SYF Gold |
+| **Handbell:** | SYF Silver |
+|
