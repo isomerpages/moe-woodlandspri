@@ -2,4 +2,5 @@ collections:
   news-and-events:
     output: true
     order:
+      - Games Day 2021.md
       - P5 Camp 2021.md
