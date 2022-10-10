@@ -8,7 +8,7 @@ description: ""
 
 <img src="/images/identity1.jpg" style="width:45%">
 
-#### *School Crest**
+#### **School Crest**
 
 <figure>
 <img src="/images/identity2.jpg" style="width:25%">
@@ -23,4 +23,3 @@ TORCH represents a burning desire for knowledge
 <figcaption>  Our students had fun participating in the RHD  
  </figcaption>
 </figure>
-
