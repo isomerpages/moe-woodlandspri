@@ -2,4 +2,5 @@ collections:
   achievements:
     output: true
     order:
+      - CCA Results.md
       - Competitions.md
