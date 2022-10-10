@@ -1,6 +1,16 @@
 logo: /images/sch logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: WDP Information
+    url: /wdp-information/
+  - title: Curriculum
+    url: /wdp-curriculum/
+    sublinks: []
+  - title: Co-Curriculum
+    url: /co-curriculum/
+    sublinks: []
+  - title: Partners
+    url: /partners/
+    sublinks: []
+  - title: Quick Links
+    url: /quick-links/for-parents/
+    sublinks: []
