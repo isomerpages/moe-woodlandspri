@@ -23,4 +23,4 @@ Pri 6 Inn 1 YAP KANG MENG ALFRED – Credit
 ##### **Outstanding All Rounder Student Award (School Level) 2015**
 The North West CDC organises the OARS Award to reward students who have achieved all-round excellence in school. The OARS Award aims to recognise students studying in schools within the North West District who had achieved good academic results and are active in CCA, community service and student leadership roles.
 
-<img src="/images/competitions.jpg" style="width:65%">
+<img src="/images/competitions.jpg" style="width:85%">
