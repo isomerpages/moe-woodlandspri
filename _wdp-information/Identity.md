@@ -6,7 +6,7 @@ description: ""
 ### **WDP Identity**
 #### **Compass**
 
-<img src="/images/identity1.jpg" style="width:45%">
+<img src="/images/identity1.jpg" style="width:65%">
 
 #### **School Crest**
 
