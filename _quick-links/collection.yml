@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - For Students/Leave of Absence (LOA) Scheme.md
       - For Students/HBL Info.md
       - For Students/Student Learning Space (SLS).md
       - For Students/.keep
