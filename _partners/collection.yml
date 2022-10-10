@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Parent Support Group/.keep
       - Alumni.md
       - School Based Student Care Centre.md
