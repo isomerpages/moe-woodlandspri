@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Singapore Youth Festival (SYF) Arts Presentations Results.md
       - CCA Results.md
       - Competitions.md
