@@ -12,11 +12,11 @@ Pupils who are Singapore citizens must sing the National Anthem and take the Ple
 1\) Pupils are to wear the prescribed school uniform and modification to the uniform is not allowed.<br>
 2\) The Boy’s Uniform – The shorts should not be too tight.
 
-<img src="/images/attire1.jpg" style="width:65%">
+<img src="/images/attire1.jpg" style="width:45%">
 
 3\) The Girl’s Uniform – The skirt length should cover the knee.
 
-<img src="/images/attire2.jpg" style="width:65%">
+<img src="/images/attire2.jpg" style="width:45%">
 
 4\) All pupils are to wear **white shoes** without any colored markings, stripes or logos.
 
