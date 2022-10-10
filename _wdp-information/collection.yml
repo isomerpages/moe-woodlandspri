@@ -1,0 +1,4 @@
+collections:
+  wdp-information:
+    output: true
+    order: []
