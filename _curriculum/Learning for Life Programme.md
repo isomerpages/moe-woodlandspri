@@ -22,7 +22,7 @@ P3: Fun Sports / Lower Primary Games Carnival**
 <img align="left" style="width:51.5%" src="/images/llp3.jpg">
 <img align="right" style="width:46%" src="/images/llp4.png">
 
-<br clear="left"><br>
+<br clear="left">
 
 <img style="width:65%" src="/images/llp5.png">
 
