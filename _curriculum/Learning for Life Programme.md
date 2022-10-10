@@ -25,7 +25,6 @@ P3: Fun Sports / Lower Primary Games Carnival**
 <br clear="left">
 
 <img style="width:65%" src="/images/llp5.png">
-
 <img style="width:65%" src="/images/llp6.png">
 
 #### **Pervasiveness of programme<br>SPACE (Experience): Sports for all pupils**
