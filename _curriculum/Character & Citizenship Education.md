@@ -6,7 +6,7 @@ description: ""
 ### **Character & Citizenship Education**
 #### **CCE Framework**
 
-<img src="/images/cce1.jpg" style="width:35%">
+<img src="/images/cce1.jpg" style="width:30%">
 
 The WDP’s core values are the heartbeat of the WDP CCE framework, injecting life and meaning into our CCE programmes. Driven by Social and Emotional Learning (SEL) competencies, our programmes focus on the head, heart and hands of every pupil, allowing each pupil to learn and grow into active citizens of good character. These efforts aim to achieve primarily, pupils bettering social and emotional skills while also having as secondary outcomes, pupils pursuing learning on their own and striving for excellence in the enriching environment of WDP.
 
