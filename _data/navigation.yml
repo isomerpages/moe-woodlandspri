@@ -1,7 +1,22 @@
 logo: /images/sch logo.png
 links:
   - title: WDP Information
-    url: /wdp-information/
+    url: /wdp-information/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /wdp-information/principals-message/
+      - title: History
+        url: /wdp-information/history/
+      - title: Identity
+        url: /wdp-information/identity/
+      - title: Rules & Regulations
+        url: /wdp-information/rules-and-regulations/
+      - title: Staff
+        url: /wdp-information/staff/
+      - title: Achievements
+        url: /wdp-information/achievements/
+      - title: Contact Information
+        url: /wdp-information/contact-information/
   - title: Curriculum
     url: /wdp-curriculum/
     sublinks: []
