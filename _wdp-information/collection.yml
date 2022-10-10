@@ -2,5 +2,6 @@ collections:
   wdp-information:
     output: true
     order:
+      - WDP Staff/.keep
       - WDP Achievements/.keep
       - Contact Information.md
