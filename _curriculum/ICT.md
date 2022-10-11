@@ -7,7 +7,7 @@ description: ""
 #### **ICT Framework**
 At Woodlands Primary, we adopt the 6-E approach to harness technology. All pupils in Woodlands Primary School go through ICT enhanced lessons that aim to enrich their learning. ICT modules are developed to equip pupils with basic ICT skills, enabling our pupils to use the knowledge and skills to create and develop innovative projects. In their learning, all pupils leverage on the Learning Management System (LMS) to supplement and enhance their learning. Teachers further develop interesting lessons employing technology to engage pupils in their lessons.
 
-<img src="/images/ict1.jpg" style="width:75%">
+<img src="/images/ict1.jpg" style="width:65%">
 
 #### **Digital Art**
 At Woodlands Primary, all pupils from Primary 1 – Primary 5 are exposed to Digital Art programmes as part of their Art Curriculum.
@@ -22,4 +22,4 @@ The Media Studio is equipped with audio video studio equipment that allow live s
 #### **Garage Band**
 P3 and P4 pupils will be taught how to use the various instruments on the iPad Garageband, and compose their very own original song by the end of the course.
 
-<img src="/images/ict4.jpg" style="width:65%">
+<img src="/images/ict4.jpg" style="width:60%">
