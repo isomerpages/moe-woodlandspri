@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Student Leadership.md
+      - CCA/CCA.md
       - CCA/Sports and Games.md
       - CCA/Performing Arts.md
       - CCA/Uniformed Group.md
