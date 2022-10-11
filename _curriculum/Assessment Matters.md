@@ -35,7 +35,7 @@ description: ""
 |  |  <br>Chinese Language Paper 2 Malay Language Paper 2 Tamil Language Paper 2 Bengali Language Paper 2 Gujarati Language Paper 2 Hindi Language Paper 2 Panjabi Language Paper 2 Urdu Language Paper 2 |  <br><br> 1015 – 1155 h |  <br> <br>1 h 40 min |
 |  |  <br>Foundation Chinese Language Paper 1 Foundation Malay Language Paper 1 Foundation Tamil Language Paper 1 |  <br> 0815 – 0855 h |   <br>40 min |
 |  <br>Tuesday, 4 October |  <br>Science |  0815 – 1000 h |  1 h 45 min |
-|  |  <br>Foundation Science |  0815 – 0930 h |  1 h 15 min |
+|  |  <br>Foundation Science<br><br> |  0815 – 0930 h |  1 h 15 min |
 |  <br>Wednesday, 5 October |  <br>Higher Chinese Language Paper 1 Higher Malay Language Paper 1 Higher Tamil Language Paper 1 |  0815 – 0905 h | 50 min |
 |  |  <br>Higher Chinese Language Paper 2 Higher Malay Language Paper 2 Higher Tamil Language Paper 2 |  <br>1015 – 1135 h |  <br> 1 h 20 min |
 |
