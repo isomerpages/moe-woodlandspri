@@ -66,13 +66,14 @@ You can access SLS from internet browsers installed on your mobile phones or equ
 
 ##### **FHBL Timetable by the Level**
 **28 June to 2 July 2021**<br>
-[Primary 1 Schedule and Timetable](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/Primary-1-Schedule-and-Timetable.pdf)<br>
-[Primary 2 Schedule and Timetable](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/Primary-2-Schedule-and-Timetable.pdf)<br>
-[Primary 3 Schedule and Timetable](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/Primary-3-Schedule-and-Timetable.pdf)<br>
-[InfoSheet on FBHL](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/InfoSheet-on-FBHL.pdf)
+[Primary 1 Schedule and Timetable](/files/fhbl1.pdf)<br>
+[Primary 2 Schedule and Timetable](/files/fhbl2.pdf)<br>
+[Primary 3 Schedule and Timetable](/files/fhbl3.pdf)<br>
+[InfoSheet on FBHL](/files/fhbl4.pdf)
 
 ##### **Home-Based Learning Guides for Pupils & Parents**
-[HBL Guide for Students](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/HBL-Guide-for-Students-v5.pdf)<br>
-[Resource Kit – HBL](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/Resource-Kit-HBL.pdf)<br>
-[Resource Kit – HBL (Part 2)](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/Resource-Kit-HBL-Part-2.pdf)<br>
-[Resource\_Kit\_HBL\_Part 3](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/Resource_Kit_-_HBL__Part_3_.pdf)
+[HBL Guide for Students](/files/hbl1.pdf)<br>
+[Resource Kit – HBL](/files/hbl2.pdf)<br>
+[Resource Kit – HBL (Part 2)](/files/hbl3.pdf)<br>
+[Resource\_Kit\_HBL\_Part 3](/files/hbl4.pdf)
+
