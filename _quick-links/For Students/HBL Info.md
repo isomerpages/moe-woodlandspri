@@ -49,3 +49,30 @@ Your account will be locked after **6** consecutive attempts to log in with an
 | **SLS Support for Home-based Learning (HBL)**<br><br>**School Operating Hours**<br>During school operating hours, pupils should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.<br><br>**School-based Helpline: 9647 8294 [in operation between 8 am to 5 pm on HBL days]**<br>For other matters, pupils can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.<br><br>**Non-School Operating Hours**<br>Pupils can only contact the **SLS Helpdesk** outside the school operating hours.<br>SLS Helpdesk: 6702 6513<br>Mondays – Fridays: 4:00 pm – 9:00 pm<br>Saturdays: 9:00 am – 9:00 pm<br>*Closed on Sundays & Public Holidays<br>Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com).<br>When emailing the SLS Helpdesk, they should include their full name, name of school and form class. |
 |
 
+##### **I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?**
+If you are not able to see the email in your inbox, it could possibly be in the spam or junk email folder. Note: The URL in the email will expire within 10 minutes. If the URL has expired, go to the login page and select “**Forgot Password**” to try again.
+
+##### **What are the Operating System and Browser Requirements for SLS?**
+The following are the recommended operating systems:
+*   Windows laptop/desktop with Microsoft Windows 7 SP1 and later
+*   Apple laptop/desktop with Mac OS X 10.9 and later
+*   iPad with iOS 8 and later
+*   Android tablet with Android 5 and later
+
+SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1)
+
+##### **Can SLS run on mobile phones?**
+You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.
+
+##### **FHBL Timetable by the Level**
+**28 June to 2 July 2021**<br>
+[Primary 1 Schedule and Timetable](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/Primary-1-Schedule-and-Timetable.pdf)<br>
+[Primary 2 Schedule and Timetable](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/Primary-2-Schedule-and-Timetable.pdf)<br>
+[Primary 3 Schedule and Timetable](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/Primary-3-Schedule-and-Timetable.pdf)<br>
+[InfoSheet on FBHL](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/InfoSheet-on-FBHL.pdf)
+
+##### **Home-Based Learning Guides for Pupils & Parents**
+[HBL Guide for Students](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/HBL-Guide-for-Students-v5.pdf)<br>
+[Resource Kit – HBL](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/Resource-Kit-HBL.pdf)<br>
+[Resource Kit – HBL (Part 2)](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/Resource-Kit-HBL-Part-2.pdf)<br>
+[Resource\_Kit\_HBL\_Part 3](https://woodlandspri.moe.edu.sg/qql/slot/u278/Quicklinks/For%20Students/HBL%20Info/Resource_Kit_-_HBL__Part_3_.pdf)
