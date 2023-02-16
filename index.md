@@ -7,16 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: News & Events
-          description: ""
-          url: /news-and-events/p4-storytelling-coding-workshop-2022/
-        - title: Contact Information
-          description: ""
-          url: /wdp-information/contact-information/
-        - title: Quick Links
-          description: ""
-          url: /quick-links/for-parents/
       background: /images/homepage_20230216.jpg
   - infopic:
       title: Learning For Life Programme
