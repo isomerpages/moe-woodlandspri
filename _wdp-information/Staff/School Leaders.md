@@ -10,5 +10,5 @@ third_nav_title: Staff
 |---|---|
 | **Principal** | Mrs Lillian Chen |
 | **Vice-Principal (Academic)** | Mdm Wong Yen Ling |
-| **Vice-Principal (Academic)** | Mdm Komathi Govindasamy |
+| **Vice-Principal (Academic)** | Mr Razali Bin Senin |
 |
