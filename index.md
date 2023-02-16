@@ -17,6 +17,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/for-parents/
+      background: /images/homepage_20230216.jpg
   - infopic:
       title: Learning For Life Programme
       subtitle: Woodlands Primary School
