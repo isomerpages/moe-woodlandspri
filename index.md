@@ -36,6 +36,5 @@ sections:
         learning languages.
       button: Learn More
       url: /curriculum/alp/
-      image: /images/wdp alp.png
       alt: Image alt text
 ---
