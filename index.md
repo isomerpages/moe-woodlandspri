@@ -27,6 +27,7 @@ sections:
       button: Learn More
       url: /curriculum/llp/
       alt: Image alt text
+      image: /images/homepage-ALP-image1.png
   - infopic:
       title: Applied Learning Programme
       subtitle: Woodlands Primary School
