@@ -26,7 +26,6 @@ sections:
         and character.
       button: Learn More
       url: /curriculum/llp/
-      image: /images/wdp llp.jpg
       alt: Image alt text
   - infopic:
       title: Applied Learning Programme
