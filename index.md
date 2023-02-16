@@ -4,7 +4,7 @@ title: Woodlands Primary School
 description: Brief site description here
 image: /images/sch logo.png
 permalink: /
-notification: "Test Notification: agabasdgfasdlga"
+notification: ""
 sections:
   - hero:
       background: /images/hero.gif
@@ -37,4 +37,5 @@ sections:
       button: Learn More
       url: /curriculum/alp/
       alt: Image alt text
+      image: /images/homepage-ALP.png
 ---
