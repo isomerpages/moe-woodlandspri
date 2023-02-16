@@ -9,8 +9,8 @@ locations:
       - Singapore 738853
       - ""
     operating_hours:
-      - days: Sat
-        time: 8.30am - 12.00pm
+      - days: Mon-Fri
+        time: 7.30am-5.30pm
         description: ""
     maps_link: ""
     title: School Address
