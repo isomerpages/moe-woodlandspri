@@ -56,18 +56,10 @@ You may click [**here**](https://go.gov.sg/moe-sexuality-education) for more i
 
 **Sexuality Education: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package**
 
-6\. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
+6\. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
-7\. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
+7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-#### **Information for Parents**
-8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
-
-9\. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/optoutform.pdf). **The completed opt-out form is to be submitted by 28 February 2022**.
-
-10\. Parents can contact the school at **6269 7410** for discussion or to seek clarification about the school’s sexuality education programme.
-
-11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements
 
 ##### **At Woodlands Primary School, the following lessons from the Growing Years Programme will be taught in 2022:**
 **Primary 5**
@@ -97,3 +89,12 @@ You may click [**here**](https://go.gov.sg/moe-sexuality-education) for more i
 |  | Is It All Safe?<br>(30 min) | - know that some information (like pornography) received through the Internet may be harmful<br>- know ways to keep themselves safe when using social networking websites or the Internet | Term 1 Week 10 |
 |  | Main Task<br>(30 min) | Description of the Main Task:<br><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility. | Term 1 Week 10 |
 |
+
+#### **Information for Parents**
+8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9\. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/optoutform.pdf). **The completed opt-out form is to be submitted by 28 February 2022**.
+
+10\. Parents can contact the school at **6269 7410** for discussion or to seek clarification about the school’s sexuality education programme.
+
+11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements
