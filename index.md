@@ -28,4 +28,11 @@ sections:
       url: /curriculum/alp/
       alt: Image alt text
       image: /images/homepage-ALP.png
+  - infobar:
+      description: <iframe
+        src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fwoodlandspri%2Fposts%2Fpfbid024s6L5KEbzphTaVDAsRUj1PusFcKMZtxzjCtrczjfB9e2x86s2rprFBsMoYitSax1l&show_text=true&width=500"
+        width="500" height="748" style="border:none;overflow:hidden"
+        scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+        clipboard-write; encrypted-media; picture-in-picture;
+        web-share"></iframe>
 ---
