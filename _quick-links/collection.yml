@@ -1,0 +1,18 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - For Parents/For Parents.md
+      - "For Parents/P1 Registration: Parent Volunteer Scheme.md"
+      - For Parents/Calender of Events.md
+      - For Parents/Circulars.md
+      - For Parents/PSG Registration.md
+      - For Parents/School Services.md
+      - For Parents/School Social Media Links.md
+      - For Parents/.keep
+      - For Students/For Students.md
+      - For Students/Leave of Absence (LOA) Scheme.md
+      - For Students/HBL Info.md
+      - For Students/Student Learning Space (SLS).md
+      - For Students/.keep
+      - For Staff.md

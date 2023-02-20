@@ -1,0 +1,28 @@
+collections:
+  wdp-information:
+    output: true
+    order:
+      - Principal's Message.md
+      - History.md
+      - Identity.md
+      - WDP Rules and Regulations.md
+      - Staff/WDP Staff.md
+      - Staff/School Leaders.md
+      - Staff/Key Personnel.md
+      - Staff/Lead & Senior Teachers.md
+      - Staff/Primary 1.md
+      - Staff/Primary 2.md
+      - Staff/Primary 3.md
+      - Staff/Primary 4.md
+      - Staff/Primary 5.md
+      - Staff/Primary 6.md
+      - Staff/Chinese Language.md
+      - Staff/Malay Language.md
+      - Staff/Tamil Language.md
+      - Staff/Allied Educators.md
+      - Staff/Information Communication Technology Staff.md
+      - Staff/Executive & Admin Staff.md
+      - Staff/Other Support Staff.md
+      - Staff/.keep
+      - Achievements/.keep
+      - Contact Information.md

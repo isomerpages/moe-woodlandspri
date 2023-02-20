@@ -1,0 +1,23 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - School Awards.md
+      - Singapore Youth Festival (SYF)/.keep
+      - Singapore Youth Festival (SYF)/2018.md
+      - Singapore Youth Festival (SYF)/2016.md
+      - Singapore Youth Festival (SYF)/2014.md
+      - Singapore Youth Festival (SYF)/2012.md
+      - Singapore Youth Festival (SYF)/2010.md
+      - CCA Results/.keep
+      - CCA Results/2019.md
+      - CCA Results/2018.md
+      - CCA Results/2017.md
+      - CCA Results/2016.md
+      - CCA Results/2015.md
+      - CCA Results/2014.md
+      - CCA Results/2013.md
+      - CCA Results/2012.md
+      - CCA Results/2011.md
+      - CCA Results/2010.md
+      - Competitions.md
