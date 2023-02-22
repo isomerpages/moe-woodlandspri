@@ -31,7 +31,7 @@ sections:
   - infobar:
       description: <iframe
         src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fwoodlandspri%2Fposts%2Fpfbid024s6L5KEbzphTaVDAsRUj1PusFcKMZtxzjCtrczjfB9e2x86s2rprFBsMoYitSax1l&show_text=true&width=800"
-        width="800" height="748" style="border:none;overflow:hidden"
+        width="800" height="1000" style="border:none;overflow:hidden"
         scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
         clipboard-write; encrypted-media; picture-in-picture;
         web-share"></iframe>
