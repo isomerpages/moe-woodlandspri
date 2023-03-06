@@ -6,9 +6,9 @@ third_nav_title: Staff
 ---
 ### **Primary 1**
 
-#### **2023 Primary 1 Form & Co-Form Teachers**
+#### **Primary 1 Form Teachers**
 
-| Class | Form Teacher | Co-form Teacher 1 |  |
+| Class | Form Teachers |  |  |
 |---|---|---|---|
 | Respect 1 | Ms Chung Choon Boey | Ms Irene Poh|  
 | Respect 2 | Mr Lee Aik Hao | Mdm S Sarasvathy |  
