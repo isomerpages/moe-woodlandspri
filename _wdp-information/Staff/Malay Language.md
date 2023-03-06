@@ -10,13 +10,13 @@ third_nav_title: Staff
 
 |  |
 |---|
-| Mdm Hairani Bte Sani |
-| Mr Harshad |
-| Mdm Ibrizi Bte Ishak |
-| Mr Mohamed Udori |
-| Mr Muhammad Azri Bahajjajj| 
-|Mdm Nur Izzah |
-| Ms Sharifah Hafsah |
-|Mdm Siti Nuratika |
-| Mdm Suriyah Bte Sapari |
-| Mr Zainuddin |
+| 1. Mdm Hairani Bte Sani |
+| 2. Mr Harshad |
+| 3. Mdm Ibrizi Bte Ishak |
+| 4. Mr Mohamed Udori |
+| 5. Mr Muhammad Azri Bahajjajj| 
+| 6. Mdm Nur Izzah |
+| 7. Ms Sharifah Hafsah |
+| 8. Mdm Siti Nuratika |
+| 9. Mdm Suriyah Bte Sapari |
+| 10. Mr Zainuddin |
