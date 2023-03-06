@@ -9,7 +9,6 @@ third_nav_title: Staff
 
 |  |  |
 |---|---|
-| **HOD – English Language** | Mdm Jolyn Chua Jing Hui |
 | **HOD – Mother Tongue** | Ms Ong Suan Hong |
 | **HOD – Science** | Mrs Michelle Kan |
 | **HOD – Mathematics** | Mdm Nazerah Bte Mohamed |
@@ -46,4 +45,3 @@ third_nav_title: Staff
 | **Subject Head – Information Management** | Mrs Low Mui Hong |
 | **Subject Head – VIA & Partnership** | Mr Zainuddin Mohamad |
 |
-
