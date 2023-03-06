@@ -6,25 +6,24 @@ third_nav_title: Staff
 ---
 ### **Chinese Language**
 
-#### **2022 Chinese Language Teachers**
+#### **Chinese Language Teachers**
 
 |  |
 |---|
-| Ms Oh Yee Lu |
-| Mdm Li Bo |
-| Ms Ong Suan Hong |
-| Mdm Low Lee Ling |
-| Mdm Chiam Gok Chiang |
-| Ms Wong Fong Ling |
-| Mdm Lim Wan Ling |
-| Mdm Woo Wai Kwan |
-| Mdm Zhao Xiao Fei |
-| Ms Chung Choon Boey |
-| Ms Lee Sor Luan |
-| Mr Xu Bin Benny |
-| Ms Li Shun |
+| Ms Ang Yan Ling | 
 | Ms Chen Pey Shy |
-| Mdm Ang Yan Ling |
+| Mdm Chiam Gok Chiang |
+| Ms Chung Choon Boey |
+| Mrs Joycelyn Chin |
+| Ms Lee Sor Luan |
+| Mdm Li Bo |
+| Ms Li Shun |
+| Mdm Lim Wan Ling |
+| Mdm Low Lee Ling |
+| Ms Ong Suan Hong |
 | Ms Pak Xin Yan |
+| Mdm Woo Wai Kwan |
+| Ms Wong Fong Ling |
+| Mr Xu Bin |
+| Mdm Zhao Xiao Fei |
 |
-
