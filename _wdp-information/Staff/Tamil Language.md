@@ -6,13 +6,11 @@ third_nav_title: Staff
 ---
 ### **Tamil Language**
 
-#### **2022 Tamil Language Teachers**
+#### **Tamil Language Teachers**
 
 |  |
 |---|
-| Ms S Sarasvathy |
-| Mrs Theivanai Arivelagan |
-| Mdm Hameeda Beevi |
-| Mdm Rajamani |
-|
-
+| 1. Mdm Hameeda Beevi |
+| 2. Mdm Rajamani |
+| 3. Mdm S Sarasvathy |
+| 4. Ms Theivanai Arivelagan |
