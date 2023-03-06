@@ -70,5 +70,3 @@ third_nav_title: For Parents
 |23 Jun | P3 Mother Tongue Cultural Camp |
 ||P6 Learning Journey: Sungei Buloh|
 ||P6 Supplementary Lesson
-
-  
