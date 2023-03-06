@@ -6,15 +6,15 @@ third_nav_title: Staff
 ---
 ### **Primary 1**
 
-#### **2022 Primary 1 Form & Co-Form Teachers**
+#### **2023 Primary 1 Form & Co-Form Teachers**
 
-| Class | Form Teacher | Co-form Teacher 1 | Co-form Teacher 2 |
+| Class | Form Teacher | Co-form Teacher 1 |  |
 |---|---|---|---|
-| 1RES 1 | Mdm Cahaya Ahmad | Ms Kayci Lim | Mrs Sumathi Elvin |
-| 1RES 2 | Mdm Sithi Salmah | Mdm Manimegalai |  |
-| 1RES 3 | Mrs Rekha Naidu | Mdm Nur Hana | Ms Ang Yan Ling |
-| 1RES 4 | Mdm Ng Chan Joo | Mdm Ibrizi Ishak |   |
-| 1RES 5 | Ms Lam Cheng Cheng | Ms Liyana Dali |  Mr Benny Xu Bin |
-| 1RES 6 | Mdm Siti Mazelina | Ms Low Lee Ling |   |
-| 1RES 7 | Mdm Noor Zihan | Mdm Siti Nuratika Abdullah | Mrs Amy Soh |
+| Respect 1 | Ms Chung Choon Boey | Ms Irene Poh|  
+| Respect 2 | Mr Lee Aik Hao | Mdm S Sarasvathy |  
+| Respect 3 | Mdm Li Bo | Mrs Veronica Yap |  
+| Respect 4 | Mrs Nirmala Menon | Mdm Nur Hana |   
+| Respect 5 | Ms Low Hui Yi | Mr Muhammad Azri Bahajjajj |  
+| Respect 6 | Mrs Andrea Sim | Mrs Doris Yeo|   
+| Respect 7 | Ms Jovyn Lim | Mdm Ramlah |  
 |
