@@ -11,7 +11,7 @@ Mr Lee Swee Peng |
 
 |  | |  |  | |
 |---|---|---|---|---|
-| **Security Guard** | 
+| **Security Guards** | 
 Mdm Sarathi d/o Arjunan |
 Mr Seenivasagam Subramaniam
 
