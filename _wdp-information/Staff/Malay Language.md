@@ -11,13 +11,12 @@ third_nav_title: Staff
 |  |
 |---|
 | Mdm Hairani Bte Sani |
-| Mdm Suriyah Bte Sapari |
+| Mr Harshad |
 | Mdm Ibrizi Bte Ishak |
-| Mr Zainuddin Bin Mohamad |
-| Mr Mohamed Udori Bin Rodi |
-| Ms Sharifah Hafsah Bte Md Hanifa |
-| Mr Muhammad Azri Bahajjajj Bin Shaik |
-| Mdm Siti Nuratika Bte Abdullah |
-| Mr Harshad Bin Ismail |
-| 
-
+| Mr Mohamed Udori |
+| Mr Muhammad Azri Bahajjajj| 
+|Mdm Nur Izzah |
+| Ms Sharifah Hafsah |
+|Mdm Siti Nuratika |
+| Mdm Suriyah Bte Sapari |
+| Mr Zainuddin |
