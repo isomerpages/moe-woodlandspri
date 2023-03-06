@@ -6,15 +6,15 @@ third_nav_title: Staff
 ---
 ### **Primary 4**
 
-#### **2022 Primary 4 Form & Co-Form Teachers**
+#### **Primary 4 Form Teachers**
 
-| Class | Form Teacher | Co-form Teacher 1 | Co-form Teacher 2 |
-|:---:|:---:|:---:|:---:|
-| 4ADP 1 | Ms Khairunnadiah | Mr Kenny Koo |   |
-| 4ADP 2 | Mr Derek Khor | Mrs Lalitha Sathya Prasad |   |
-| 4ADP 3 | Mdm Nur Sabrina Wahid | Ms Lee Sor Luan | Mr Harshad Ismail |
-| 4ADP 4 | Mdm Chan Ziping | Mdm Hameeda | Mdm Yeo Huay Ling |
-| 4ADP 5 | Ms Dhivya Selva Raju | Ms Chua Min Li |   |
-| 4ADP 6A | Ms Leng Xue Li | Mr N. Thiagarajan |   |
-| 4ADP 6B | Ms Yunn Aykay Theint | Mdm Woo Wai Kwan | Mdm Suriya Sapari |
+| Class | Form Teachers |  |  |
+|---|---|---|---|
+| Adaptability 1 | Mdm Heidi Tan | Mrs Michelle Kan |  
+| Adaptability 2 | Mdm Tan Yin Fun | Mdm Neo Siew Bee | Mdm Chiam  
+| Adaptability 3 | Ms Tan Suat Horng | Ms Chua Min Li |  
+| Adaptability 4 | Ms Dashni | Mr Zainuddin |   
+| Adaptability 5 | Mr Shawn Sng | Mr Tamilarasan |  
+| Adaptability 6A | Ms Melissa Chan | Mrs Jayaraman |   
+| Adaptability 6B | Mrs Joycelyn Chin | Mr Lim Say Hwee |  
 |
