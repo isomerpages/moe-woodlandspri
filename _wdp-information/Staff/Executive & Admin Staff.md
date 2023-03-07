@@ -6,17 +6,27 @@ third_nav_title: Staff
 ---
 ### **Executive & Admin Staff**
 
-|  |  |
-|---|---|
-| **Admin Manager** | Ms Teo Hsiao Ying |
-| **Operation Manager** | Mr Ngew Sew Hang |
-| **Operation Manager** | Mr Siew Wai Hong |
-| **Corporate Support Officer** | Mdm Leamathi d/o Murugiah Krisnan |
-| **Corporate Support Officer** | Mdm Loy Soo Foong, Adelin |
-| **Operations Support Officer (Admin)** | Mdm Badariah Binte Atan |
-| **Operations Support Officer** | Mr Ng Kim Seng |
-| **Operations Support Officer** | Mdm Sabiah Bte Ariffin |
-| **Operations Support Officer** | Mdm Oh Guek Hong  |
-|
+|  | |  |  | |
+|---|---|---|---|---|
+| **Admin Manager** | 
+Ms Teo Hsiao Ying| 
 
+|  | |  |  | |
+|---|---|---|---|---|
+| **Operation Managers** | 
+Mr Ngew Sew Hang |
+Mr Siew Wai Hong
 
+|  | |  |  | |
+|---|---|---|---|---|
+| **Corporate Support Officers** | 
+Mdm Leamathi d/o Murugiah Krisnan |
+Mdm Loy Soo Fong, Adelin
+
+|  | |  |  | |
+|---|---|---|---|---|
+| **Operations Support Officers** | 
+Mdm Badariah Binte Atan (Admin) |
+Mr Ng Kim Seng |
+Mdm Sabiah Binte Ariffin |
+Mdm Oh Guek Hong |

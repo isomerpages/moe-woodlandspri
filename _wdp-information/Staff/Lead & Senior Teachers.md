@@ -18,8 +18,7 @@ third_nav_title: Staff
 |  |  |
 |---|---|
 | **Senior Teacher – English Language** | Mrs Lim-Guek Swee Ee |
-| **Senior Teacher – Chinese Language** | Ms Lee Sor Luan |
-| **Senior Teacher – Chinese Language** | Ms Chung Choon Boey |
+| **Senior Teacher – Chinese Language** | Ms Lee Sor Luan, Ms Chung Choon Boey
 | **Senior Teacher – Malay Language** | Mdm Ibrizi Bte Ishak |
 | **Senior Teacher – Tamil Language** | Mdm S Sarasvathy |
 | **Senior Teacher – Science** | Mdm Lee Soon Hong |

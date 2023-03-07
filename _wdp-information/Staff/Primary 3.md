@@ -6,15 +6,15 @@ third_nav_title: Staff
 ---
 ### **Primary 3**
 
-#### **2022 Primary 3 Form & Co-Form Teachers**
+#### **Primary 3 Form Teachers**
 
-| Class | Form Teacher | Co-form Teacher 1 | Co-form Teacher 2 |
-|:---:|:---:|:---:|:---:|
-| 3PAS 1 | Ms Chen Jin Lin | Mdm Tan Rui Ying Heidi |   |
-| 3PAS 2 | Mdm Tan Yin Fun | Ms Doreen Chan |   |
-| 3PAS 3 | Ms Tan Suat Horng | Ms Pak Xin Yan | Mrs Ariel Thia |
-| 3PAS 4 | Ms Jovyn Lim | Mr Zainuddin |   |
-| 3PAS 5 | Mr Shawn Sng | Mr Arasan | Mdm Jo Tan |
-| 3PAS 6A | Ms Melissa Chan | Mrs Komathi Jayaraman |   |
-| 3PAS 6B | Mr Lim Say Hwee | Ms Oh Yee Lu |   |
+| Class | Form Teachers |  |  |
+|---|---|---|---|
+| Passion 1 | Ms Lee Sor Luan | Mdm Khairunnadiah |  
+| Passion 2 | Mr Derek Khor | Mdm Gwen Yeo |  
+| Passion 3 | Mrs Amy Soh | Mr Ng Wei Chieh |  
+| Passion 4 | Mdm Hairani | Mdm Nur Sabrina |   
+| Passion 5 | Ms Chaman Kaur | Mdm Nur Izzah |  
+| Passion 6A | Ms Leng Xue Li | Mdm Woo Wai Kwan |   
+| Passion 6B | Ms Dhiviya | Ms Marcia Koh |  
 |

@@ -6,9 +6,13 @@ third_nav_title: Staff
 ---
 ### **School Leaders**
 
-|  |  |
-|---|---|
-| **Principal** | Mrs Lillian Chen |
-| **Vice-Principal (Academic)** | Mdm Wong Yen Ling |
-| **Vice-Principal (Academic)** | Mr Razali Bin Senin |
-|
+|  | |  |  | |
+|---|---|---|---|---|
+| **Principal** | 
+Mrs Lillian Chen |
+
+|  | |  |  | |
+|---|---|---|---|---|
+| **Vice Principals** | 
+Mdm Wong Yen Ling (Acad) |
+Mr Razali Bin Senin (Acad)

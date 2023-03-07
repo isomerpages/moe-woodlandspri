@@ -6,15 +6,15 @@ third_nav_title: Staff
 ---
 ### **Primary 6**
 
-#### **2022 Primary 6 Form & Co-Form Teachers**
+#### **Primary 6 Form Teachers**
 
-| Class | Form Teacher | Co-form Teacher 1 | Co-form Teacher 2 |
-|:---:|:---:|:---:|:---:|
-| 6INN 1 | Ms Lee Soon Hong | Mdm Jolyn Chua | Mdm Lim Wan Ling |
-| 6INN 2 | Mrs Sally Ong | Ms Ong Suan Hong |   |
-| 6INN 3 | Ms Chaman Kaur | Mr Barry Chin |   |
-| 6INN 4 | Mdm Anisah Osman | Mdm Neo Siew Bee | Mrs Michelle Peh |
-| 6INN 5 | Ms Wong Fong Ling | Mdm Li Bo | Mdm Nazerah Mohamed |
-| 6INN 6A | Mr Timothy Kwok | Mdm Hairani Sani |   |
-| 6INN 6B | Ms Reshpal Kaur | Mrs Liew Siew Hwa | Mdm Norlizah |
+| Class | Form Teachers |  |  |
+|---|---|---|---|
+| Innovation 1 | Mrs Lalitha Sathya | Ms Li Shun |  
+| Innovation 2 | Mrs Low Mui Hong | Ms Fatin Nazurah | Mdm Zhao Xiao Fei
+| Innovation 3 | Ms Norhaslinda | Mrs Sivodayan |  
+| Innovation 4 | Mrs Lim Swee Ee | Mrs Loh Li Li |  Mrs Theivanai
+| Innovation 5 | Ms Mishon Lew | Mr Teng Aik Jin |  
+| Innovation 6A | Ms Ong Suan Hong | Mdm Stella Mak |   
+| Innovation 6B | Mdm Anisah Osman | Mrs Diana Cheng |  
 |
