@@ -47,7 +47,7 @@ third_nav_title: For Parents
 | -------- | -------- | -------- |
 | 2    | 27-31 Mar     | Health Fair and Eye Care Week | 
 | 3 | 7 Apr | Public Holiday: Good Friday|
-| 4 | 11 Apr | P6 Learning Journey: Museum |
+| 4 | 11-12 Apr | P6 Learning Journey: Museum |
 |5 | 17-20 Apr | English Reading Festival |
 ||21 Apr | Eve of Hari Raya Puasa (early dismissal for Muslim pupils at 10am) |
 ||22 Apr| Public Holiday: Hari Raya Puasa |
@@ -60,13 +60,10 @@ third_nav_title: For Parents
 |-|27 May - 25 Jun| June School Holidays |
 
 
-| Date | June Holiday Programme  |
+| June Holiday Programme | Date  |
 | -------- | -------- | 
-| 21 Jun | P6 Supplementary Lesson|
-|22 Jun| P3 GarageBand Workshop|
-||P4 Leadership Fiesta | 
-||P6 Learning Journey: Sungei Buloh|
-||P6 Supplementary Lesson|
-|23 Jun | P3 Mother Tongue Cultural Camp |
-||P6 Learning Journey: Sungei Buloh|
-||P6 Supplementary Lesson
+| P3 GarageBand Workshop | 22 Jun|
+|P3 Mother Tongue Cultural Camp | 23 Jun|
+|P4 Leadership Fiesta | 22 Jun|
+|P6 Learning Journey: Sungei Buloh | 22-23 Jun|
+P6 Supplementary Lessons | 21-23 Jun|
