@@ -30,14 +30,12 @@ third_nav_title: For Parents
 |-|11-19 Mar| March School Holidays |
 
 
-| Date | March Holiday Programme  |
+| March Holiday Programmes | Date  |
 | -------- | -------- | 
-| 13 Mar     | P3 Learning Journey: Zoo|
-| | P5 Reporter Programme (ALP) |
-|| P6 Supplementary Lessons |
-|14 Mar| P3 Learning Journey: Zoo|
-||P4 Media Literacy Workshop |
-||P6 Supplementary Lessons |
+| P3 Learning Journey: Zoo | 13 Mar|
+|P4 Media Literacy Workshop | 14 Mar |
+|P5 Reporter Programme (ALP)| 14 Mar|
+|P6 Supplementary Lessons | 13-14 Mar|
 
 
   # **TERM 2**
@@ -60,7 +58,7 @@ third_nav_title: For Parents
 |-|27 May - 25 Jun| June School Holidays |
 
 
-| June Holiday Programme | Date  |
+| June Holiday Programmes | Date  |
 | -------- | -------- | 
 | P3 GarageBand Workshop | 22 Jun|
 |P3 Mother Tongue Cultural Camp | 23 Jun|
