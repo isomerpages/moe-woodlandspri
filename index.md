@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage_20230313.jpg
+      key_highlights:
+        - title: Combined Campfire 2023
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid0Cj4LNpZWvRZFrzXsaEfdF3JhVBQWHLHLe6g1WzP7sJWmH5qqPatTnU8bUMJGcsNLl
   - infopic:
       title: Learning For Life Programme
       subtitle: Woodlands Primary School
