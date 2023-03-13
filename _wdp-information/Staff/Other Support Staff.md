@@ -9,8 +9,8 @@ third_nav_title: Staff
 | **Library Assistant** | 
 Mr Lee Swee Peng |
 
-|  | |  |  | |
-|---|---|---|---|---|
+|  | |  |  
+|---|---|---|
 | **Security Guards** | 
 Mdm Sarathi d/o Arjunan |
 Mr Seenivasagam Subramaniam
