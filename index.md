@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage_20230216.jpg
+      background: /images/homepage_20230313.jpg
   - infopic:
       title: Learning For Life Programme
       subtitle: Woodlands Primary School
