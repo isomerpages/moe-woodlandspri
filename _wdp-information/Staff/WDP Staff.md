@@ -26,7 +26,7 @@ third_nav_title: Staff
 <img style="width:85%" src="/images/staff5.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/p3/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/p3/">
 <img style="width:85%" src="/images/staff6.jpg">
 </a></p>
 
