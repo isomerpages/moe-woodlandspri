@@ -6,15 +6,15 @@ third_nav_title: Staff
 ---
 ### **WDP Staff**
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/school-leaders/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/school-leaders/">
 <img style="width:85%" src="/images/staff1.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/key-personnel/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/key-personnel/">
 <img style="width:85%" src="/images/staff2.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/lead-senior-teachers/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/lead-senior-teachers/">
 <img style="width:85%" src="/images/staff3.jpg">
 </a></p>
 
@@ -42,30 +42,30 @@ third_nav_title: Staff
 <img style="width:85%" src="/images/staff9.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/chinese/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/chinese/">
 <img style="width:85%" src="/images/staff10.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/malay/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/malay/">
 <img style="width:85%" src="/images/staff11.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/tamil/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/tamil/">
 <img style="width:85%" src="/images/staff12.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/allied-educators/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/allied-educators/">
 <img style="width:85%" src="/images/staff13.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/information-communication-technology-staff/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/information-communication-technology-staff/">
 <img style="width:85%" src="/images/staff14.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/executive-and-admin-staff/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/executive-and-admin-staff/">
 <img style="width:85%" src="/images/staff15.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/other-support-staff/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/other-support-staff/">
 <img style="width:85%" src="/images/staff16.jpg">
 </a></p>
