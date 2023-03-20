@@ -18,11 +18,11 @@ third_nav_title: Staff
 <img style="width:85%" src="/images/staff3.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/p1/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/p1/">
 <img style="width:85%" src="/images/staff4.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/p2/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/p2/">
 <img style="width:85%" src="/images/staff5.jpg">
 </a></p>
 
@@ -30,15 +30,15 @@ third_nav_title: Staff
 <img style="width:85%" src="/images/staff6.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/p4/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/p4/">
 <img style="width:85%" src="/images/staff7.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/p5/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/p5/">
 <img style="width:85%" src="/images/staff8.jpg">
 </a></p>
 
-<p><a href="https://staging.d3fekdgm769s09.amplifyapp.com/wdp-information/staff/p6/">
+<p><a href="https://www.woodlandspri.moe.edu.sg/wdp-information/staff/p6/">
 <img style="width:85%" src="/images/staff9.jpg">
 </a></p>
 
