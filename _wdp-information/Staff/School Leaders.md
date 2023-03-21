@@ -9,4 +9,5 @@ third_nav_title: Staff
 |  | |  |  | |
 |---|---|---|---|---|
 | **Principal** | Mrs Lillian Chen
-| **Vice Principals** | Mdm Wong Yen Ling (Acad) | Mr Razali Senin (Acad) |
+| **Vice Principals (Acad)** | Mdm Wong Yen Ling |
+| **Vice Principals (Acad)** | Mr Razali Senin  |
