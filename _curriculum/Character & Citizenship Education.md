@@ -51,11 +51,11 @@ You may click [**here**](https://go.gov.sg/moe-sexuality-education) for more i
 
 4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [**here**](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
-5\. The subjects that incorporate topics on sexuality include:
+5\. The subjects that incorporate topics on sexuality include:<br>
 (a) Science<br>
 (b) Character and Citizenship Education (CCE)<br>
 
-**Sexuality Education: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package**
+**Sexuality Education Lessons**
 
 6\. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
@@ -65,9 +65,9 @@ You may click [**here**](https://go.gov.sg/moe-sexuality-education) for more i
 ##### **At Woodlands Primary School, the following lessons from the Growing Years Programme will be taught in 2022:**
 **Primary 5**
 
-| UNIT | LESSONS / DURATION | Lesson Objectives At the end of the lesson, pupils will be able to: | TIME PERIOD (e.g. Term 1 Week 2) |
+| CCE (FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD (e.g. Term 1 Week 2) |
 |:---:|:---:|---|:---:|
-| Gosh! I Am Changing | What Is Happening To Me?<br>(30 min) | - know what puberty is<br>- identify the physical changes during puberty | Term 3 Week 1 |
+| Growing Years | The Changes In Me<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one's identity need not be negatively affected, even when one's body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.| Term 3 Week 6 |
 |  | What Can I Do? (Part 1)(30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty | Term 3 Week 1 |
 |  | What Can I Do? (Part 2) (30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty | Term 3 Week 1 |
 |  | Main Task<br>(30 min) | Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through. | Term 3 Week 1 |
