@@ -12,5 +12,3 @@ third_nav_title: Staff
 | **Vice Principals (Acad)** | Mdm Wong Yen Ling |
 | **Vice Principals (Acad)** | Mr Razali Senin  |
 |
-
-
