@@ -12,7 +12,7 @@ third_nav_title: Staff
 |---|---|---|---|
 | Innovation 1 | Mrs Lalitha Sathya | Ms Li Shun |  
 | Innovation 2 | Mrs Low Mui Hong | Ms Fatin Nazurah | Mdm Zhao Xiao Fei
-| Innovation 3 | Ms Norhaslinda | Mrs Sivodayan |  
+| Innovation 3 | Ms Norhaslinda | Mrs Sivodayan |  Mrs Michelle Kan
 | Innovation 4 | Mrs Lim Swee Ee | Mrs Loh Li Li |  Mrs Theivanai
 | Innovation 5 | Ms Mishon Lew | Mr Teng Aik Jin |  
 | Innovation 6A | Ms Ong Suan Hong | Mdm Stella Mak |   
