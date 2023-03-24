@@ -12,7 +12,7 @@ third_nav_title: Staff
 |---|---|---|---|
 | Passion 1 | Ms Lee Sor Luan | Mdm Khairunnadiah |  
 | Passion 2 | Mr Derek Khor | Mdm Gwen Yeo |  
-| Passion 3 | Mrs Amy Soh | Mr Ng Wei Chieh |  
+| Passion 3 | Mrs Amy Soh | Mr Narayanasamy Thiagarajan |  
 | Passion 4 | Mdm Hairani | Mdm Nur Sabrina |   
 | Passion 5 | Ms Chaman Kaur | Mdm Nur Izzah |  Ms Lim Yi Xi, Elle
 | Passion 6A | Ms Leng Xue Li | Mdm Woo Wai Kwan |   
