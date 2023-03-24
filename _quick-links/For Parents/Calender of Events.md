@@ -4,8 +4,7 @@ permalink: /quick-links/for-parents/calender-of-events/
 description: ""
 third_nav_title: For Parents
 ---
-# **TERM 2**
-
+## **TERM 2**
 
 | Week | Date     | Key Events | Remarks|
 | -------- | -------- | -------- | -------- |
@@ -17,7 +16,7 @@ third_nav_title: For Parents
 ||21 Apr | Eve of Hari Raya Puasa | early dismissal for Muslim pupils at 10am|
 ||22 Apr| Hari Raya Puasa | Public Holiday|
 |6| 24 Apr | Public Holiday: Hari Raya Puasa (off-in-lieu) | School will be closed on 24 Apr. Pupils to report back to school on 25 Apr (Tue)|
-|26/27 Apr | P5 Learning Journey: Museum|
+||26/27 Apr | P5 Learning Journey: Museum|
 |7| 1 May | Labour Day| Public Holiday|
 | | 4-5 May | Mother Tongue Language (MTL) Fortnight|
 ||6 May| P3-P6 Scouts Field Day|
