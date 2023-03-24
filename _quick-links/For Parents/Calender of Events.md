@@ -13,7 +13,7 @@ third_nav_title: For Parents
 | 3 | 7 Apr | Good Friday| Public Holiday|
 | 4 | 11-12 Apr | P6 Learning Journey: Museum | During curriculum hours|
 |5 | 17-20 Apr | English Reading Festival |
-||21 Apr | Eve of Hari Raya Puasa | early dismissal for Muslim pupils at 10am|
+||21 Apr | Eve of Hari Raya Puasa | Early dismissal for Muslim pupils at 10am|
 ||22 Apr| Hari Raya Puasa | Public Holiday|
 |6| 24 Apr | Public Holiday: Hari Raya Puasa (off-in-lieu) | School will be closed on 24 Apr. Pupils to report back to school on 25 Apr (Tue)|
 ||26/27 Apr | P5 Learning Journey: Museum|
@@ -21,10 +21,11 @@ third_nav_title: For Parents
 | | 4-5 May | Mother Tongue Language (MTL) Fortnight|
 ||6 May| P3-P6 Scouts Field Day|
 |8| 8-12 May| Mother Tongue Language (MTL) Fortnight|
-|9| 15-16 May| P5 & P6 NAPFA Test|
+|9| 15-16 May| P5 & P6 NAPFA Test|5 items|
 ||15-17 May| Mother Tongue Language (MTL) Fortnight|
 ||17 May| Prefects' Summit 2| For all prefects|
-|10| 22-23 May| P5 & P6 NAPFA Test (1.6km run)|
+|10| 22-23 May| P5 & P6 NAPFA Test| 1.6km run|
+||24/25 May| P5 Learning Journey: Esplanade| During curriculum hours|
 ||25 May | GLEE Fest Finale | During school assembly|
 ||25-26 May | Parent-Child-Teacher Conference (PCTC) | 25/5: 2pm - 4.30pm      26/5: 8am - 3.30pm 
 |-|27 May - 25 Jun| June School Holidays |
@@ -33,6 +34,7 @@ third_nav_title: For Parents
 | *June Holiday Programmes | Date  |
 | -------- | -------- | 
 | P4-P6 Scouts' Dragon Boating Activity| 20 Jun|
+Choir Camp / Exchange| 21 Jun
 P6 Supplementary Lessons | 21-23 Jun|
 P6 Learning Journey: Sungei Buloh | 22-23 Jun|
 P3 GarageBand Workshop | 22 Jun|
