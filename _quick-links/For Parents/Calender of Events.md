@@ -4,8 +4,7 @@ permalink: /quick-links/for-parents/calender-of-events/
 description: ""
 third_nav_title: For Parents
 ---
-# **TERM 2**
-
+## **TERM 2**
 
 | Week | Date     | Key Events | Remarks|
 | -------- | -------- | -------- | -------- |
