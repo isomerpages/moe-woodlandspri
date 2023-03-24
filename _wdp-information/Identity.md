@@ -10,6 +10,4 @@ description: ""
 
 
 #### **School Crest**
-![](/images/School%20Crest.png)
-
-
+![](/images/School%20Crest%202.png)
