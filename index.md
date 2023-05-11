@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage_20230313.jpg
       key_highlights:
         - title: Combined Campfire
           description: ""
