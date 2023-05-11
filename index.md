@@ -17,6 +17,7 @@ sections:
         - title: Total Defence Day
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid024s73hTeHYj69fRkwshUD1hdaqC3kxBPdujwacTYx2RrnETmKGc4R7CgPzz7kBKDtl
+      background: /images/homepage_20230505.jpg
   - infopic:
       title: Learning For Life Programme
       subtitle: Woodlands Primary School
