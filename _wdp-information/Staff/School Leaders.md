@@ -12,18 +12,18 @@ third_nav_title: Staff
 		
 		<tr valign="middle">
 		<td><strong>Principal</strong></td>
-		<td align="center"><img height="300" width="200" src="/images/principal1.jpg"><br>Mrs Lillian Chen</td>
+		<td align="center"><img height="150" width="100" src="/images/principal1.jpg"><br>Mrs Lillian Chen</td>
 	</tr>
 	
 	<tr valign="middle">
 		<td><strong>Vice Principal (Acad)</strong></td>
-		<td align="center"><img height="300" width="200" src="/images/principal2.jpg">
+		<td align="center"><img height="150" width="100" src="/images/principal2.jpg">
 			<br>Mdm Wong Yen Ling</td>
 	</tr>
 	
 	<tr valign="middle">
 		<td><strong>Vice Principal (Acad)</strong></td>
-		<td align="center"><img height="300" width="200" src="/images/principal3.jpg">
+		<td align="center"><img height="150" width="100" src="/images/principal3.jpg">
 			<br>Mr Razali Senin</td>
 	</tr>
 		
