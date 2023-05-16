@@ -40,7 +40,7 @@ third_nav_title: Staff
 | **Level Head – English Language**  | Ms Dashni Ravindran  |
 | **Level Head – Mathematics** | Mdm Chan Zi Ping |
 | **Level Head – Science** | Mdm Kueh Li Li |
-| **Subject Head – ICT** | Mr Xu Bin, Benny |
+| **Subject Head – ICT** | Mr Xu Bin Benny |
 | **Subject Head – Character Development& Pupil Welfare** | Mr Ng Wei Chieh |
 | **Subject Head – Information Management** | Mrs Low Mui Hong |
 | **Subject Head – VIA & Partnership** | Mr Zainuddin Mohamad |
