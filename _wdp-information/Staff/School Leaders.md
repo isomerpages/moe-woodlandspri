@@ -6,26 +6,41 @@ third_nav_title: Staff
 ---
 ### **School Leaders**
 
+<hr>
+<div align="center">
+<br>
+<strong>Principal</strong>
+<img src="/images/principal1.jpg" style="width: 150px">
+<br>
+Mrs Lillian Chen
+<br>
+<br>
+</div>
 
-<table border="0">
-	<tbody>
-		
-		<tr valign="middle">
-		<td><strong>Principal</strong></td>
-		<td align="center"><img height="150" width="100" src="/images/principal1.jpg"><br>Mrs Lillian Chen</td>
-	</tr>
-	
-	<tr valign="middle">
-		<td><strong>Vice Principal (Acad)</strong></td>
-		<td align="center"><img height="150" width="100" src="/images/principal2.jpg">
-			<br>Mdm Wong Yen Ling</td>
-	</tr>
-	
-	<tr valign="middle">
-		<td><strong>Vice Principal (Acad)</strong></td>
-		<td align="center"><img height="150" width="100" src="/images/principal3.jpg">
-			<br>Mr Razali Senin</td>
-	</tr>
-		
-	</tbody>
-</table>
+<hr>
+
+<div align="center">
+<br>
+	<strong>Vice Principal (Acad)</strong>
+<img src="/images/principal2.jpg" style="width: 150px">
+<br>
+Mdm Wong Yen Ling
+<br>
+<br>
+</div>
+
+<hr>
+
+<div align="center">
+<br>
+	<strong>Vice Principal (Acad)</strong>
+<img src="/images/principal3.jpg" style="width: 150px">
+<br>
+Mr Razali Senin
+<br>
+<br>
+</div>
+<hr>
+
+
+
