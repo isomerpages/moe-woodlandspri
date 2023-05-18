@@ -41,7 +41,7 @@ The Malay dance group aspires to instil self confidence and teamwork through the
 <img src="/images/perfarts8.jpg" style="width:65%">
 
 #### **Indian Dance**
-Every dancer of Indian Dance is of good character and culturally vibrant. Through a dedicated arts education and caring environment, every dancer is nurtured in embracing cultural diversity & camaraderie so that she grows up to be a refined and gracious citizen.
+Every dancer of Indian Dance is of good character and culturally vibrant. Through a dedicated arts education and caring environment, every dancer is nurtured in embracing cultural diversity &amp; camaraderie so that she grows up to be a refined and gracious citizen.
 
 <img src="/images/perfarts9.jpg" style="width:55%">
 

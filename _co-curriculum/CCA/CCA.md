@@ -8,10 +8,35 @@ third_nav_title: CCA
 
 #### **CCA List**
 
-|  |
-|---|
-| [**Sports & Games**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/sports-and-games/)<br>- Badminton<br>- Football<br>- Tchoukball<br>- Volleyball |
-| [**Performing Arts**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/performing-arts/)<br>- Choir<br>- Handbells & Handchimes Ensemble<br>- Chinese Dance<br>- Indian Dance<br>- Malay Dance |
-| [**Uniformed Group (P3-P6)**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/uniformed-group/)<br>- Scouts/Cub Scouts  |
-| [**Clubs**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/clubs/)<br>- Art Club<br>- Chinese Cultural Club<br>- Information and Communications Club<br>- Library<br>- Robotics Club<br>- Speech and Drama Club |
+
+
+| [**Sports & Games**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/sports-and-games/) | 
+| -------- | 
+| Badminton    
+Football
+Tchoukball
+Volleyball
 |
+
+| [**Performance Arts**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/performing-arts/)| 
+| -------- | 
+| Choir
+Handbells & Handchimes Ensemble
+Chinese Dance
+Indian Dance
+Malay Dance 
+|
+
+ [**Uniformed Group**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/uniformed-group/)|
+| -------- | 
+| Scouts/Cub Scouts
+|
+
+[**Clubs**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/clubs/)|
+| -------- | 
+| Art Club
+Chinese Cultural Club
+Information & Communication Club
+Library
+Robotics Club
+Speech & Drama Club
