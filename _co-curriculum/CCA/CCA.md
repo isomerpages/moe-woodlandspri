@@ -9,30 +9,34 @@ third_nav_title: CCA
 #### **CCA List**
 
 
-| **Sports & Games**|  
+
+| [**Sports & Games**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/sports-and-games/) | 
 | -------- | 
-| Badminton     | 
+| Badminton    
 Football
 Tchoukball
 Volleyball
+|
 
-| **Performing Arts**|  
+| [**Performance Arts**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/performing-arts/)| 
 | -------- | 
-| Choir     | 
+| Choir
 Handbells & Handchimes Ensemble
 Chinese Dance
 Indian Dance
-Malay Dance
+Malay Dance 
+|
 
-| **Uniformed Group**|  
+ [**Uniformed Group**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/uniformed-group/)|
 | -------- | 
-| Scouts
+| Scouts/Cub Scouts
+|
 
-|**Clubs**|
+[**Clubs**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/clubs/)|
 | -------- | 
 | Art Club
 Chinese Cultural Club
-Information & Communications Club
+Information & Communication Club
 Library
 Robotics Club
 Speech & Drama Club
