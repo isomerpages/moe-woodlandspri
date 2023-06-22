@@ -8,16 +8,16 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Glee Fest 2023
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid02G2ZPq9nfauq5FAiwPGHSbRX234y9rDE3U9Hj9sbnMqLYxUMcCBrFXC3TQCpneTeZl
         - title: Hari Raya Celebration
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02WQgXKxddTT5LKjvpH1x3nYvcp57Gknjt2Gh2EeCCD42vkJFAfg6viQMcFgVbRqWcl
         - title: Combined Campfire
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid0Cj4LNpZWvRZFrzXsaEfdF3JhVBQWHLHLe6g1WzP7sJWmH5qqPatTnU8bUMJGcsNLl
-        - title: Total Defence Day
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid024s73hTeHYj69fRkwshUD1hdaqC3kxBPdujwacTYx2RrnETmKGc4R7CgPzz7kBKDtl
-      background: /images/homepage_20230505.jpg
+      background: /images/Homepage Banners/homepage_20230525.jpg
   - infopic:
       title: Learning For Life Programme
       subtitle: Woodlands Primary School
