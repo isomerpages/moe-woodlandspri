@@ -40,7 +40,7 @@ Our school adopts the MOE Mathematics Curriculum Framework and its Key Focus clo
 <div align="center">Figure 4 Lower Pri pupils playing a game of Math Snake and Ladders</div>
 <br>
 
-2. Use of Various Teaching Approaches
+2. Use of Math Manipulatives
  *  Teaching and learning at all levels are supported with the use of Math manipulatives such as linking cubes and fraction discs.
 *	We have also curated certain manipulatives and activities into a Math Kit for P1 and P2 pupils. The lower primary pupils use the Math Kit during lessons. They also get to bring them home during the holidays to play the games with their family in order to strengthen their Math concepts.
 
@@ -58,3 +58,16 @@ Our school adopts the MOE Mathematics Curriculum Framework and its Key Focus clo
 
 
 
+3. Use of In-House Worksheets and Materials
+ *  Over the years, we have developed and continually improved our in-house worksheets to supplement the textbook and workbook. 
+* These materials enable pupils to develop their:
+* Factual fluency and mental math capabilities so that they can do math computation quickly and accurately. 
+*	Skills in heuristics, such as looking for pattern, listing and model drawing, so that they can confidently solve higher order Math problems.
+
+<img src="/images/Math%202023/math_2023_5.jpg" style="width: 60%;" align="center">
+<div align="center">Figure 5 Middle Pri pupils learning fractions using linking cubes</div>
+<br>
+
+<img src="/images/Math%202023/math_2023_6.jpg" style="width: 60%;" align="center">
+<div align="center">Figure 6 Lower Pri pupils engaged in the activities from the Math Kit</div>
+<br>
