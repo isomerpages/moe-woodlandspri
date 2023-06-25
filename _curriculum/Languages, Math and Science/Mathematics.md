@@ -78,3 +78,35 @@ Our school adopts the MOE Mathematics Curriculum Framework and its Key Focus clo
 <br>
 
 
+##### **Targeted Programmes for Selected Pupils:**
+1.	Holiday Programme for P5 Pupils
+*	To enable P5 pupils to have a better appreciation of Mathematics, we curated a special 3-hour programme for pupils to experience kite-making while making use of concepts such as ratio which they had learnt during the year.
+
+<img src="/images/Math%202023/math_2023_10.jpg" style="width: 60%;" align="center">
+<div align="center">Figure 10 P5 pupils working together to measure the length of the stick for their kite</div>
+<br>
+ 
+ <img src="/images/Math%202023/math_2023_11.jpg" style="width: 60%;" align="center">
+<div align="center">Figure 11 P5 Pupils discussing the proportion of their kite</div>
+<br>
+
+2.	Learning Support Programme for Mathematics (LSM)
+*	The LSM programme is provided to selected pupils from Primary 1 to Primary 3 who would benefit from a smaller class size and closer attention from LSM-trained teachers.
+*	The programme focuses on building good mathematical understanding with the aim to of building pupils’ confidence and positive beliefs about their ability to do Math.
+*	This programme will also be rolled out to Primary 4 pupils from 2024.
+
+3.	Improving Confidence and Achievement in Numeracy (ICAN) Programme
+*	The ICAN programme supports pupils who need to gain a good understanding and mastery of fundamental mathematics concepts and skills. It focuses on conceptual understanding, procedural fluency and factual fluency. 
+*	ICAN-trained teachers support such pupils at the Upper Primary levels.
+
+
+4.	Math Sparks
+*	Math Sparks is an after-school programme for P1 to P2 to foster their interest in Math through games and activities, allowing pupils to build confidence in Math in a fun and enjoyable way.
+ 
+Figure 12 Pupils strengthen their basic numeracy skills while having fun during Math Sparks
+ 
+Figure 13 Pupils working together through a game during Math Sparks
+
+5.	Math Wizards
+*	Math Wizards is a talent development programme for selected P4 to P6 pupils. Through Math Wizards, pupils will have opportunities to deepen their thinking skills and strengthen their rigour in Math through experiential learning and higher-order thinking questions.
+*	Our Math Wizards have done well in recent competitions such as the Singapore and Asian Schools Mathematics Olympiad and National Mathematical Olympiad of Singapore.
