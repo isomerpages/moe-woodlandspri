@@ -103,10 +103,54 @@ Our school adopts the MOE Mathematics Curriculum Framework and its Key Focus clo
 4.	Math Sparks
 *	Math Sparks is an after-school programme for P1 to P2 to foster their interest in Math through games and activities, allowing pupils to build confidence in Math in a fun and enjoyable way.
  
-Figure 12 Pupils strengthen their basic numeracy skills while having fun during Math Sparks
+<img src="/images/Math%202023/math_2023_12.jpg" style="width: 60%;" align="center">
+<div align="center">Figure 12 Pupils strengthen their basic numeracy skills while having fun during Math Sparks</div>
+<br>
+
  
-Figure 13 Pupils working together through a game during Math Sparks
+<img src="/images/Math%202023/math_2023_13.jpg" style="width: 60%;" align="center">
+<div align="center">Figure 13 Pupils working together through a game during Math Sparks</div>
+<br> 
+
 
 5.	Math Wizards
 *	Math Wizards is a talent development programme for selected P4 to P6 pupils. Through Math Wizards, pupils will have opportunities to deepen their thinking skills and strengthen their rigour in Math through experiential learning and higher-order thinking questions.
 *	Our Math Wizards have done well in recent competitions such as the Singapore and Asian Schools Mathematics Olympiad and National Mathematical Olympiad of Singapore.
+
+
+<img src="/images/Math%202023/math_2023_14.jpg" style="width: 60%;" align="center">
+<div align="center">Figure 14 Math Wizards discussing their task</div>
+<br> 
+
+
+<img src="/images/Math%202023/math_2023_15.jpg" style="width: 60%;" align="center">
+<div align="center">Figure 15 P4 Math Wizards receiving their SASMO certificates</div>
+<br>
+ 
+<img src="/images/Math%202023/math_2023_16.jpg" style="width: 60%;" align="center">
+<div align="center">Figure 16 P5 Math Wizards receiving their SASMO certificates</div>
+<br>
+ 
+ <img src="/images/Math%202023/math_2023_17.jpg" style="width: 60%;" align="center">
+<div align="center">Figure 17 P5 Math Wizards receiving their NMOS certificates </div>
+<br> 
+
+
+
+
+#### **Useful links:**
+
+**Mathematics Online Resources for Parents:**
+https://www.schoolbag.edu.sg/story/mathematics-online-resources-for-parents
+
+**Tips to Support your Child’s Learning of Mathematics**
+
+For all levels - https://www.schoolbag.edu.sg/story/making-mathematics-fun
+<br>
+For Lower Primary - https://www.schoolbag.edu.sg/story/tips-to-support-your-child-s-learning-of-mathematics
+<br>
+For Lower to Middle Primary - https://www.schoolbag.edu.sg/story/explore-mathematics-related-resources
+
+**Other Useful Information for Parents**
+
+FAQ about Mathematics - https://www.schoolbag.edu.sg/story/does-maths-have-to-be-so-difficult
