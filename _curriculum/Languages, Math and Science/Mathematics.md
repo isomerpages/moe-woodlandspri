@@ -118,7 +118,7 @@ Our school adopts the MOE Mathematics Curriculum Framework and its Key Focus clo
 *	Our Math Wizards have done well in recent competitions such as the Singapore and Asian Schools Mathematics Olympiad and National Mathematical Olympiad of Singapore.
         
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="margin-left:1.0in;border-collapse:collapse;border:none;mso-border-alt:
- solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" align="center"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="123" valign="top" style="width:92.35pt;border:solid windowtext 1.0pt;
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" align="left"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="123" valign="top" style="width:92.35pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><h1 style="margin:0in;line-height:115%"><span lang="EN-US" style="font-size:
   12.0pt;line-height:115%;color:#666666;mso-font-kerning:0pt;mso-bidi-font-style:
   italic">Competition</span></h1></td><td width="57" valign="top" style="width:42.55pt;border:solid windowtext 1.0pt;
