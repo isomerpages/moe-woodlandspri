@@ -68,13 +68,13 @@ Our school adopts the MOE Mathematics Curriculum Framework and its Key Focus clo
 *	To increase pupils’ interest in Math, we organise frequent Fun Math activities at every level. These activities allow pupils to have fun while being engaged in math tasks. 
  
 
- 
-Figure 9 Lucky pupils who won a prize for completing a Fun Math activity
 
 <img src="/images/Math%202023/math_2023_8.jpg" style="width: 60%;" align="center">
 <div align="center">Figure 8 Pupils engaged in a Fun Math activity</div>
 <br>
 
 <img src="/images/Math%202023/math_2023_9.jpg" style="width: 80%;" align="center">
-<div align="center"></div>
+<div align="center">Figure 9 Lucky pupils who won a prize for completing a Fun Math activity</div>
 <br>
+
+
