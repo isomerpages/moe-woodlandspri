@@ -61,13 +61,20 @@ Our school adopts the MOE Mathematics Curriculum Framework and its Key Focus clo
 3. Use of In-House Worksheets and Materials
  *  Over the years, we have developed and continually improved our in-house worksheets to supplement the textbook and workbook. 
 * These materials enable pupils to develop their:
-* Factual fluency and mental math capabilities so that they can do math computation quickly and accurately. 
-*	Skills in heuristics, such as looking for pattern, listing and model drawing, so that they can confidently solve higher order Math problems.
+	* Factual fluency and mental math capabilities so that they can do math computation quickly and accurately. 
+	*	Skills in heuristics, such as looking for pattern, listing and model drawing, so that they can confidently solve higher order Math problems.
 
-<img src="/images/Math%202023/math_2023_5.jpg" style="width: 60%;" align="center">
-<div align="center">Figure 5 Middle Pri pupils learning fractions using linking cubes</div>
+4.	Fun Math
+*	To increase pupils’ interest in Math, we organise frequent Fun Math activities at every level. These activities allow pupils to have fun while being engaged in math tasks. 
+ 
+
+ 
+Figure 9 Lucky pupils who won a prize for completing a Fun Math activity
+
+<img src="/images/Math%202023/math_2023_8.jpg" style="width: 60%;" align="center">
+<div align="center">Figure 8 Pupils engaged in a Fun Math activity</div>
 <br>
 
-<img src="/images/Math%202023/math_2023_6.jpg" style="width: 60%;" align="center">
-<div align="center">Figure 6 Lower Pri pupils engaged in the activities from the Math Kit</div>
+<img src="/images/Math%202023/math_2023_9.jpg" style="width: 80%;" align="center">
+<div align="center"></div>
 <br>
