@@ -11,11 +11,13 @@ The Badminton CCA provides students with the opportunity to learn racket skills 
 <img src="/images/sng1.jpg" style="width:65%">
 
 #### **Football CCA**
-In Football CCA, pupils learn the skills and strategies required to play in internal and external competition settings. Besides these, pupils also get to cultivate and practise Olympic values such as Friendship, Respect and Excellence through friendly games and competitions.
+![](/images/football%201.jpeg)
+In Football CCA, pupils learn the skills and strategies required to play in internal and external competition settings.
 
-<img src="/images/sng3.jpg" style="width:65%">
+![](/images/football%202.jpeg)
 
-<img src="/images/sng4.jpg" style="width:65%">
+Besides these, pupils also get to cultivate and practise Olympic values such as Friendship, Respect and Excellence through friendly games and competitions.
+
 
 #### **Tchoukball CCA**
 Tchoukball (pronounced as chook-ball) is an indoor non-contact team sport. This CCA aims&nbsp;to provide the knowledge and basic skills such as passing, catching the ball, team offense and defensive tactics. Pupils will get to practice these skills and demonstrate their teamwork through internal and external competitions.&nbsp;WDP Core Values like collaboration, respect and resilience will be imparted to the pupils and we look forward to our pupils displaying these values-driven behaviours throughout the year in the CCA.
