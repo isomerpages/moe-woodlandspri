@@ -35,13 +35,14 @@ third_nav_title: Staff
 
 |  |  |
 |---|---|
-| **Subject Head – Chinese Language** | Mdm Lim Wan Ling |
-| **Subject Head – Malay Language** | Mdm Suriyah Bte Sapari |
 | **Level Head – English Language**  | Ms Dashni Ravindran  |
 | **Level Head – Mathematics** | Mdm Chan Zi Ping |
 | **Level Head – Science** | Mdm Kueh Li Li |
+| **Subject Head – Citizenship Education & Social Studies** | Mrs Sivodayan |
+| **Subject Head – Character Development & Pupil Welfare** | Mr Ng Wei Chieh |
+| **Subject Head – Chinese Language** | Mdm Lim Wan Ling |
 | **Subject Head – ICT** | Mr Xu Bin Benny |
-| **Subject Head – Character Development& Pupil Welfare** | Mr Ng Wei Chieh |
 | **Subject Head – Information Management** | Mrs Low Mui Hong |
+| **Subject Head – Malay Language** | Mdm Suriyah Bte Sapari |
+| **Subject Head – Physical Education/CCA** | Mr Barry Chin |
 | **Subject Head – VIA & Partnership** | Mr Zainuddin Mohamad |
-|
