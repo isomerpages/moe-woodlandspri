@@ -41,9 +41,13 @@ Interested in books? Want to share your love for books with your fellow schoolma
 ![](/images/library%20club%202.jpeg)
 
 #### **Robotics Club**
-The Robotics Club provides opportunities for pupils who are interested in constructing and programming to pursue their passion beyond the requirements of the Primary School Science syllabus. The trainings that they undergo hone their creativity and thinking skills. Pupils are given opportunities to create and program a robot all by themselves which instils the ‘entrepreneurial dare’ in them. While the pupils are pursuing their passion, they derive joy from it and this CCA truly achieves the objective of “Joy of Learning”
+![](/images/robotics%20club%201.jpeg)
 
-<img src="/images/club8.jpg" style="width:65%">
+The Robotics Club provides opportunities for pupils who are interested in constructing and programming to pursue their passion beyond the requirements of the Primary School Science syllabus. 
+
+![](/images/robotics%20club%202.jpeg)
+
+The trainings that they undergo hone their creativity and thinking skills. Pupils are given opportunities to create and program a robot all by themselves which instills the ‘entrepreneurial dare’ in them. While the pupils are pursuing their passion, they derive joy from it and this CCA truly achieves the objective of “Joy of Learning”.
 
 #### **Speech and Drama Club**
 The main objective of the Speech and Drama Club is to help our pupils explore ways of expressing themselves using the appropriate voice. Techniques like tableau, mimes, speech drills and improvisation are taught to our pupils. They were also introduced to the 4Ps of voice – pitch, pace, pause and power through prose, sentences and poems. The training in speech has helped our pupils to improve their confidence and self- esteem when communicating with others. They are better able to express themselves using the techniques learnt. The highlight for our training can be observed from the year end performance during Children’s Day.
