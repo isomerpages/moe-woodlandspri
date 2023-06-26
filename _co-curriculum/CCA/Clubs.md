@@ -28,7 +28,7 @@ Pupils are proud to display their masterpieces on the notice board after each CC
 
 
 #### **Information and Communications Club**
-Information and Communications (Info-Comm) Club at Woodlands Primary School, aims to inspire our pupils who are keen on learning ICT skills. It is an exciting 3-years program of introducing various digital media technology such as photography and videography using DSLR cameras and animation using iPads. These learning experiences go beyond their pen and paper in the formal curriculum. Under the guidance of experienced trainers and teachers, pupils are equipped with relevant Info-Comm skills to expand their creativity by using different computer software.
+Information and Communications (Info-Comm) Club at Woodlands Primary School, aims to inspire our pupils who are keen on learning ICT skills. It is an exciting 3-years program of introducing various digital media technology such as basic programming to create games as well as photography and videography using DSLR cameras. These learning experiences go beyond their pen and paper in the formal curriculum. Under the guidance of experienced trainers and teachers, pupils are equipped with relevant Info-Comm skills to expand their creativity by using different computer software.
 
 <img src="/images/club4.jpg" style="width:65%">
 
