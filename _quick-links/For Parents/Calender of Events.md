@@ -4,6 +4,37 @@ permalink: /quick-links/for-parents/calender-of-events/
 description: ""
 third_nav_title: For Parents
 ---
+## **TERM 3**
+
+| Week | Date     | Key Events | Remarks|
+| -------- | -------- | -------- | -------- |
+|1 | 26/27/28 Jun| Commencement of the P3 Swimsafer Programme| Please refer to the separate Swimsafer schedule|
+|     | 26 Jun  | Commencement of P3-P6 Higher Mother Tongue Lessons | Every Monday
+|  |26 Jun | Commencement of P6 Remedial Lessons| Every Monday, Wednesday & Friday (2.00pm - 3.30pm)|
+|  |29 Jun | Hari Raya Haji |Public Holiday|
+| | 30 Jun | Commencement of P3 FLY Programme | Scheduled Fridays, for identified students only
+|2|3 Jul | Youth Day | School Holiday|
+||5 Jul| Attendance & Temperature-Taking Exercise | All students to bring along a working thermometer. |
+||6/7 Jul| P4 Social Studies Learning Journey | During curriculum hours|
+|3|12 Jul | P6 Prelim Oral Day 1|After curriculum hours|
+|| 14 Jul | P6 Prelim Oral Day 2|After curriculum hours|
+|4 | 20 Jul | Racial Harmony Day|Students can come to school in ethnic attire
+|7|8 Aug| National Day Celebration |Students will be dismissed at 10am.
+|| 9 Aug| National Day |Public Holiday
+|| 10 Aug| Day after National Day|School Holiday|
+|8|15 Aug|PSLE Oral Exams Day 1|P1-P5 students do not need to report to school.
+||16 Aug| PSLE Oral Exams Day 2| P1-P5 students do not need to report to school.|
+||17 Aug| P3 Gifted Education Programme (GEP) Screening Test| During curriculum hours|
+||18 Aug| P6 Prelim - EL/FEL Listening Comprehension, MTL/FMTL Listening Comprehension| |
+|9|21 Aug | P6 Prelim - EL/FEL Paper 1 & 2 | |
+||22 Aug | P6 Prelim - MA/FMA |
+||23 Aug| P6 Prelim - MTL/FMTL Paper 1 & 2  |
+||24 Aug| P6 Prelim -SC/FSC  |
+||25 Aug| P6 Prelim - HMT  |
+|10|31 Aug| Teachers' Day Celebration  | School hours as per normal|
+|| 1 Sep | Teachers' Day| School Holiday
+
+
 ## **TERM 2**
 
 | Week | Date     | Key Events | Remarks|
