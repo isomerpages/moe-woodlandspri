@@ -17,11 +17,11 @@ Priding ourselves as an established and fine choir with an excellent track recor
 
 <img src="/images/perfarts3.jpg" style="width:85%">
 
-The Handbells and Handchimes Ensemble was established in 2002 and has since clinched 5 sliver awards.
+Established in 2002 with the aim of cultivating the interest and igniting the passion for music, the Handbell Ensemble provides the platform for all students who show a keen interest to come together in music making. We welcome all students to join the ensemble so long as they have the interest and possess the correct attitude and aptitude.
 
-Members of the ensemble consist of mainly Primary 4, Primary 5 and Primary 6 pupils.
+Our ringers can look forward to playing a repertoire of music of different genres and styles and ringing different notes with different handbells and handchimes for different music pieces. During the weekly CCA sessions, ringers are assigned to play specific notes in a music piece. As part of the training, they learn note reading, music notation as well as handbell ringing techniques and are taught how to effectively control and phrase the dynamics so that they can play a given piece of music beautifully. Everyone has a vital role to play and contributes significantly to the success of music making in the ensemble.&nbsp;&nbsp;
 
-Recruitment of new members begins in Primary 3 after the P3 Singing Bells and Choirchimes curriculum-based music enrichment lessons. Pupils who have been identified as having an aptitude and attitude will be invited to join the CCA. Further auditions will be conducted to confirm the final list of members recruited into the CCA.
+Being a member of the school’s Handbell Ensemble provides our ringers invaluable opportunities to attend masterclasses, learning journeys and exchange programmes as well as take part in the biennial SYF Arts Performance. There are also opportunities for them to perform at various school events, community events and national events. Through their participation in these activities and performances, we hope to develop our students to become confident and joyful musicians.
 
 <img src="/images/perfarts4.jpg" style="width:85%">
 

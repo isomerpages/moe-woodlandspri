@@ -12,7 +12,7 @@ third_nav_title: Staff
 |---|---|---|---|
 | Adaptability 1 | Mdm Heidi Tan | Mdm Lee Soon Hong |  
 | Adaptability 2 | Mdm Tan Yin Fun | Mdm Neo Siew Bee | Mdm Chiam  
-| Adaptability 3 | Ms Tan Suat Horng | Ms Chua Min Li | 
+| Adaptability 3 | Ms Tan Suat Horng | Ms Chua Min Li | Mr Ng Wei Chieh
 | Adaptability 4 | Ms Dashni | Mr Zainuddin |   
 | Adaptability 5 | Mr Shawn Sng | Mr Tamilarasan |  
 | Adaptability 6A | Ms Melissa Chan | Mrs Jayaraman |   
