@@ -36,8 +36,8 @@ third_nav_title: For Parents
 | P4-P6 Scouts' Dragon Boating Activity| 20 Jun|
 Choir Camp / Exchange| 21 Jun
 P6 Supplementary Lessons | 21-23 Jun|
-P6 Learning Journey: Sungei Buloh | 23 Jun|
 P4 Leadership Fiesta|22 Jun|
+P6 Learning Journey: Sungei Buloh | 23 Jun|
 P3 Mother Tongue Cultural Camp | 23 Jun|
 
 *More details will be furnished at a later date.
