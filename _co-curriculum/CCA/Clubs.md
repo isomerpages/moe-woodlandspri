@@ -6,6 +6,15 @@ third_nav_title: CCA
 ---
 ### **Clubs**
 
+#### **Art Club**
+![](/images/art%20club:%20p2%20chinese%20painting.jpeg)
+In Art Club, pupils are provided opportunities to develop a lifelong passion for Visual Art, as well as build their character. Pupils are nurtured to think and express themselves creatively through enjoyable and meaningful art making, building inquiry skills, exploring and experimenting with different media and materials. At the same time, teamwork allows pupils to strengthen their sense of belonging, commitment and responsibility to school, community and nation. Art exhibition and gallery visits are organised to enrich pupils’ learning beyond the classroom.&nbsp;
+
+
+![](/images/p5_p6_time%20travellers_1.jpg)
+Through participating in the 2023 SYF Art Exhibition (‘Artist and Inspiration’) projects, pupils shared their creative inquiries and responses that are inspired by their encounter with famous artworks. 3 categories of artwork were submitted – Chinese Painting by the Primary 2 group, Recycled Sculpture Art by the Primary 3 and 4 group and Augmented Reality Art by the Primary 5 and 6 group.
+
+
 #### **Chinese Cultural Club**
 In Chinese Cultural Club, a variety of activities are designed to educate our pupils to appreciate Chinese Culture. Pupils are introduced to Chinese cultural arts and crafts such as Chinese paper cutting, paper carving, tea appreciation, Chinese knot making, bean art, Chinese painting, mask painting, paper origami and many more. Pupils are proud to display their masterpieces on the notice board after each CCA session. Besides teaching pupils Chinese cultural arts, pupils also get to experience dining at the tea house or watching a cultural performance.
 
