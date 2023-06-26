@@ -40,8 +40,6 @@ P4 Leadership Fiesta|22 Jun|
 P6 Learning Journey: Sungei Buloh | 23 Jun|
 P3 Mother Tongue Cultural Camp | 23 Jun|
 
-*More details will be furnished at a later date.
-
 
 # **TERM 1**
 
