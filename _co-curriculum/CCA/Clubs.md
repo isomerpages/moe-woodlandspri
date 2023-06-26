@@ -33,13 +33,12 @@ Information and Communications (Info-Comm) Club at Woodlands Primary School, aim
 <img src="/images/club4.jpg" style="width:65%">
 
 #### **Library**
+
+![](/images/library%20club%201.jpeg)
+
 Interested in books? Want to share your love for books with your fellow schoolmates? Come and join us as our school Librarians where you will get the opportunity to plan and carry out activities to promote the books we have in the school library to your fellow schoolmates.
 
-<img src="/images/club5.jpg" style="width:65%">
-
-<img src="/images/club6.jpg" style="width:65%">
-
-<img src="/images/club7.jpg" style="width:65%">
+![](/images/library%20club%202.jpeg)
 
 #### **Robotics Club**
 The Robotics Club provides opportunities for pupils who are interested in constructing and programming to pursue their passion beyond the requirements of the Primary School Science syllabus. The trainings that they undergo hone their creativity and thinking skills. Pupils are given opportunities to create and program a robot all by themselves which instils the ‘entrepreneurial dare’ in them. While the pupils are pursuing their passion, they derive joy from it and this CCA truly achieves the objective of “Joy of Learning”
