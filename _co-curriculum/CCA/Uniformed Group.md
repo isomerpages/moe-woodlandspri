@@ -7,6 +7,7 @@ third_nav_title: CCA
 ### **Uniformed Group**
 #### **Scouts**
 ![](/images/scouts%202%20(2023).jpeg)
+
 The Manta Ray Scouts group encompasses both the Cub Scouts and the Scouts groups. We have moved from strength to strength ever since its inauguration in 2006.
 
 The Group places emphasis on developing every individual as a unique self with ample opportunities in leadership. We run the progress and proficiency badge system for all levels of Scouting and prepare the group to take on the challenge of attaining the highest award in each level of Scouting – the Akela Award for the Cub Scouts, and the Chief Commissioner’s Award for the Scouts.
