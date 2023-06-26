@@ -12,6 +12,7 @@ The Badminton CCA provides students with the opportunity to learn racket skills 
 
 #### **Football CCA**
 ![](/images/football%201.jpeg)
+
 In Football CCA, pupils learn the skills and strategies required to play in internal and external competition settings.
 
 ![](/images/football%202.jpeg)
