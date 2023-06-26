@@ -34,6 +34,11 @@ third_nav_title: For Parents
 |10|31 Aug| Teachers' Day Celebration  | School hours as per normal|
 || 1 Sep | Teachers' Day| School Holiday
 
+| September Holiday Programmes | Date  |
+| -------- | -------- | 
+|P3 Garage Band Workshop| 7 Sep|
+P4 Coding Workshop| 7 Sep
+P6 Supplementary Lessons | 7-8 Sep|
 
 ## **TERM 2**
 
