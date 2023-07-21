@@ -12,7 +12,7 @@ third_nav_title: CCA
 
 | [**Sports & Games**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/sports-and-games/) | 
 | -------- | 
-| Badminton    
+| Badminton
 Football
 Tchoukball
 Volleyball
