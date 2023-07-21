@@ -13,12 +13,12 @@ third_nav_title: CCA
 | [**Sports & Games**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/sports-and-games/) | 
 | -------- | 
 | Badminton |
-Football |
+| Football |
 | Tchoukball |
 | Volleyball |
 
 
-| [**Performance Arts**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/performing-arts/)| 
+| [**Performance Arts**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/performing-arts/) | 
 | -------- | 
 | Choir |
 | Handbells & Handchimes Ensemble |
@@ -27,12 +27,12 @@ Football |
 | Malay Dance |
 
 
-| [**Uniformed Group**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/uniformed-group/)|
+| [**Uniformed Group**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/uniformed-group/) |
 | -------- | 
 | Scouts/Cub Scouts |
 
 
-[**Clubs**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/clubs/)|
+| [**Clubs**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/clubs/) |
 | -------- | 
 | Art Club |
 | Chinese Cultural Club |
