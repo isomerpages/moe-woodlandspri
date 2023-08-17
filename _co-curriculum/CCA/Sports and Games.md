@@ -42,4 +42,8 @@ We look forward to our Tchoukballers displaying these values-driven behaviours d
 #### **Volleyball CCA**
 Volleyball is Woodlands Primary School’s niche CCA. Our Volleyball players will demonstrate high level of competencies, skills, game-strategies as well as incorporating and displaying teamwork and camaraderie.
 
+![](/images/llp20.jpg)
+
 Volleyball players exemplify Woodlands Primary School Vision "Gracious Woodlanders with the Zest to Excel".
+
+![](/images/llp21.jpg)
