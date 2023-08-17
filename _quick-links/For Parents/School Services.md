@@ -28,8 +28,12 @@ Operating Hours: 8.30 am to 4.00 pm (Tuesday to Friday)
 #### **3\. School Uniform**
 **Company: Sowell Garment Pte Ltd (Co Regn: 198302123N)**
 
-Address: 1004 Toa Payoh North #07-08/09 off Toa Payoh Lor 1, Singapore 318995<br>
-Tel: 6253 1063 / 6255 2938
+Address: 80 Playfair Road #01-14 Kapo Factory Building S367998<br>
+Tel : 86183083 &nbsp;<br>
+Open Weekdays : Mon - Fri<br>
+Time : 10am to 4pm.<br>
+Lunch hour : 12.30pm to 1.30pm<br>
+Closed : Public Holidays, Christmas Eve and&nbsp;New&nbsp;Year's&nbsp;Eve<br>
 
 Note: School uniforms can also be purchased from School Bookshop.
 
@@ -38,6 +42,6 @@ Contact Person: Mdm Helen Ho<br>
 Tel: 8764 2513
 
 Operating Hours:<br>
-8.00 am to 5.30 pm (Monday, Tuesday & Thursday)<br>
-8.00 am to 5.00 pm (Wednesday & Friday)<br>
+8.00 am to 5.30 pm (Monday, Tuesday &amp; Thursday)<br>
+8.00 am to 5.00 pm (Wednesday &amp; Friday)<br>
 1.00 pm to 2.00 pm (Lunch Break)
