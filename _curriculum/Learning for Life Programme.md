@@ -11,33 +11,31 @@ description: ""
 
 #### **The Strategic Thrust – Achieving Excellence in Learning<br>3E Approach: Experience, Equip and Excel**
 
-<img style="width:85%" src="/images/llp2.png">
+![](/images/LLP%202023/llp2023_02.JPG)
+
+
+#### **Pervasiveness of programme&nbsp;SPACE (Experience):<br>Most Valued Pupil (MVP)**
+
+**Pupils learnt RIC3H &amp; WDP Core Values during PE, Art &amp; Music lessons. Outstanding pupils who displayed &amp; demonstrated value(s) of the term will be awarded the “MVP award’.**
+
+![](/images/LLP%202023/llp2023_03.JPG)
 
 #### **Pervasiveness of programme&nbsp;SPACE (Experience):<br>Sports for all pupils**
 
-**P1: Lower Primary Games Carnival<br>
-P2: Sports Exposure Programme / Lower Primary Games Carnival<br>
-P3: Fun Sports / Lower Primary Games Carnival**
+**P1: Lower Pri Games Carnival<br>
+P2: Sports Exposure Programme / Lower Pri Games Carnival<br>
+P3: Fun Sports / Lower Pri Games Carnival**
 
-<img align="left" style="width:51.5%" src="/images/llp3.jpg">
-<img align="right" style="width:46%" src="/images/llp4.png">
+![](/images/LLP%202023/llp2023_04.JPG)
 
-<br clear="left">
-
-<img style="width:65%" src="/images/llp5.png">
-<img style="width:65%" src="/images/llp6.png">
 
 #### **Pervasiveness of programme<br>SPACE (Experience): Sports for all pupils**
-**P5: Outdoor Education**
 
-<img align="left" style="width:55%" src="/images/llp7.jpg">
-<img align="right" style="width:41.5%" src="/images/llp8.jpg">
+**P5: P5 Adventure Camp / Experiential Day**
+**<br>Theme: C.A.R.E**
+<br>To collaborate with one another, to adapt to the surroundings and unexpected changes, to be resilient when faced with challenges and have empathy to the people around you.
 
-<br clear="left"><br>
-
-<img style="width:65%" src="/images/llp9.jpg">
-
-Pupils develop outdoor skills that enable them to move comfortably, confidently and safely over different terrains. They learn to interact responsibly with and care for the environments they explore.
+![](/images/LLP%202023/llp2023_05.JPG)
 
 #### **Pervasiveness of programme<br>SPACE (Experience): Sports for all pupils**
 
