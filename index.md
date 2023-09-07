@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Teachers' Day Celebration
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid027CWvEq5i6NoBzWXGzEftQ5LGsV2oLGkaYKr2yUqbNanArpJKw7Ee5LQ4L8XoqisPl
         - title: P5 NE Show
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02YWGmrQ99p2NaFMsQkWXpJF7QeD6Gi2koFYSBtrGWwpamRNb8CkCVs5NMgqV7TQNkl
@@ -17,9 +20,6 @@ sections:
         - title: Hari Raya Celebration
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02WQgXKxddTT5LKjvpH1x3nYvcp57Gknjt2Gh2EeCCD42vkJFAfg6viQMcFgVbRqWcl
-        - title: Combined Campfire
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid0Cj4LNpZWvRZFrzXsaEfdF3JhVBQWHLHLe6g1WzP7sJWmH5qqPatTnU8bUMJGcsNLl
       background: /images/Homepage Banners/homepage_20230907.jpg
   - infopic:
       title: Learning For Life Programme
