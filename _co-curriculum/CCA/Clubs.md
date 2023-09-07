@@ -18,7 +18,9 @@ Through participating in the 2023 SYF Art Exhibition (‘Artist and Inspiration�
 
 
 #### **Chinese Cultural Club**
-In Chinese Cultural Club, a variety of activities are designed to educate our pupils to appreciate Chinese Culture. Pupils are introduced to Chinese cultural arts and crafts such as Chinese paper cutting, paper carving, tea appreciation, Chinese knot making, bean art, Chinese painting, mask painting, paper origami and many more. 
+In Chinese Cultural Club, a variety of activities are designed to educate our pupils to expose and increase pupils’ appreciation of the Chinese culture. Pupils are introduced to Chinese cultural arts and crafts such as Chinese paper cutting, paper carving, tea appreciation, Chinese knot making, bean art, Chinese painting, mask painting, paper origami and many more. 
+  
+
 
 ![](/images/chinese%20cultural%20club%202.jpeg)
 
