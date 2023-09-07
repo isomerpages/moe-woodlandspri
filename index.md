@@ -23,7 +23,6 @@ sections:
       background: /images/Homepage Banners/homepage_20230907.jpg
   - infobar:
       title: Rhythm in the Woods
-      subtitle: Add informational text
       id: infobar
       description: The latest issue of our school newsletter Rhythm in the Woods is
         available.
