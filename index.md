@@ -23,7 +23,6 @@ sections:
       background: /images/Homepage Banners/homepage_20230907.jpg
   - infopic:
       title: Learning For Life Programme
-      subtitle: Woodlands Primary School
       description: Developing Character through Sports is an important component of
         holistic development of pupils, and sportsmen must possess sound values
         and character.
@@ -33,7 +32,6 @@ sections:
       image: /images/homepage-ALP-image1.png
   - infopic:
       title: Applied Learning Programme
-      subtitle: Woodlands Primary School
       description: ALP is a six-year programme that integrates English and Mother
         Tongue Language.It strengthens the impact of Woodlanders' Joy of
         learning languages.
@@ -41,4 +39,12 @@ sections:
       url: /curriculum/alp/
       alt: Image alt text
       image: /images/homepage-ALP.png
+  - infobar:
+      title: Rhythm in the Woods
+      subtitle: Add informational text
+      id: infobar
+      description: The latest issue of our school newsletter Rhythm in the Woods is
+        available.
+      button: Click to View
+      url: /curriculum/languages-math-and-science/english/newsletters/
 ---
