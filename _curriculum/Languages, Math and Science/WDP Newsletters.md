@@ -27,13 +27,3 @@ third_nav_title: Languages, Math and Science
 
 [Click to download](/files/riw%20issue%201_compressed.pdf)
 
-
----------------------------------------------------------------------------
-
-<figure>
-<img src="/images/newsletter3.jpg" style="width:65%">
-	<figcaption> <br> Rhythm in the Woods<br> 2021 Issue No. 1
- </figcaption>
-</figure>
-		
-[Click to download PDF Version](/files/riw%20issue%203_compressed.pdf)<br>
