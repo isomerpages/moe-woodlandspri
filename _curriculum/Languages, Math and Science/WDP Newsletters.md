@@ -26,7 +26,8 @@ third_nav_title: Languages, Math and Science
 </figcaption>
 </figure>
 		
-[Click to download PDF Version](https://woodlandspri-moe-edu-sg-admin.cwp.sg/qql/slot/u278/WDP%20Curriculum/Languages,%20Math%20and%20Science/English%20Language%20Dept/Rhythm%20in%20the%20Woods%202021%20Issue%202.pdf) <br>
+[Click to download](/files/News%20Letters/riw%20issue%202_compressed.pdf)
+<br>
 
 
 ---------------------------------------------------------------------------
