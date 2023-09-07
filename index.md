@@ -21,6 +21,14 @@ sections:
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02WQgXKxddTT5LKjvpH1x3nYvcp57Gknjt2Gh2EeCCD42vkJFAfg6viQMcFgVbRqWcl
       background: /images/Homepage Banners/homepage_20230907.jpg
+  - infobar:
+      title: Rhythm in the Woods
+      subtitle: Add informational text
+      id: infobar
+      description: The latest issue of our school newsletter Rhythm in the Woods is
+        available.
+      button: Click to View
+      url: /curriculum/languages-math-and-science/english/newsletters/
   - infopic:
       title: Learning For Life Programme
       description: Developing Character through Sports is an important component of
@@ -39,12 +47,4 @@ sections:
       url: /curriculum/alp/
       alt: Image alt text
       image: /images/homepage-ALP.png
-  - infobar:
-      title: Rhythm in the Woods
-      subtitle: Add informational text
-      id: infobar
-      description: The latest issue of our school newsletter Rhythm in the Woods is
-        available.
-      button: Click to View
-      url: /curriculum/languages-math-and-science/english/newsletters/
 ---
