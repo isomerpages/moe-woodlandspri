@@ -20,7 +20,7 @@ sections:
         - title: Combined Campfire
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid0Cj4LNpZWvRZFrzXsaEfdF3JhVBQWHLHLe6g1WzP7sJWmH5qqPatTnU8bUMJGcsNLl
-      background: /images/Homepage Banners/homepage_20230720.jpg
+      background: /images/Homepage Banners/homepage_20230907.jpg
   - infopic:
       title: Learning For Life Programme
       subtitle: Woodlands Primary School
