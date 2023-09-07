@@ -26,7 +26,7 @@ third_nav_title: Languages, Math and Science
 </figcaption>
 </figure>
 		
-[Click to download](/files/News%20Letters/riw%20issue%202_compressed.pdf)
+[Click to download](/files/News%20Letters/newsletter_2022_2.pdf)
 <br>
 
 
