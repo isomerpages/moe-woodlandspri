@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Teachers' Day Celebration
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid027CWvEq5i6NoBzWXGzEftQ5LGsV2oLGkaYKr2yUqbNanArpJKw7Ee5LQ4L8XoqisPl
         - title: P5 NE Show
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02YWGmrQ99p2NaFMsQkWXpJF7QeD6Gi2koFYSBtrGWwpamRNb8CkCVs5NMgqV7TQNkl
@@ -17,13 +20,16 @@ sections:
         - title: Hari Raya Celebration
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02WQgXKxddTT5LKjvpH1x3nYvcp57Gknjt2Gh2EeCCD42vkJFAfg6viQMcFgVbRqWcl
-        - title: Combined Campfire
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid0Cj4LNpZWvRZFrzXsaEfdF3JhVBQWHLHLe6g1WzP7sJWmH5qqPatTnU8bUMJGcsNLl
       background: /images/Homepage Banners/homepage_20230907.jpg
+  - infobar:
+      title: Rhythm in the Woods
+      id: infobar
+      description: The latest issue of our school newsletter Rhythm in the Woods is
+        available.
+      button: Click to View
+      url: /curriculum/languages-math-and-science/english/newsletters/
   - infopic:
       title: Learning For Life Programme
-      subtitle: Woodlands Primary School
       description: Developing Character through Sports is an important component of
         holistic development of pupils, and sportsmen must possess sound values
         and character.
@@ -33,7 +39,6 @@ sections:
       image: /images/homepage-ALP-image1.png
   - infopic:
       title: Applied Learning Programme
-      subtitle: Woodlands Primary School
       description: ALP is a six-year programme that integrates English and Mother
         Tongue Language.It strengthens the impact of Woodlanders' Joy of
         learning languages.
