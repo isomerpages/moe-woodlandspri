@@ -37,4 +37,4 @@ third_nav_title: Languages, Math and Science
  </figcaption>
 </figure>
 
-[Click to download](/files/riw%20issue%201_compressed.pdf)
+[Click to download](/files/News%20Letters/riw%20issue%201_compressed.pdf)
