@@ -15,7 +15,7 @@ third_nav_title: Languages, Math and Science
  </figcaption>
 </figure>
 
-[Click to download](/files/News Letters/newsletter_2023_1.pdf)
+[Click to download](/files/News%20Letters/newsletter_2023_1.pdf)
 
 ---------------------------------------------------------------------------
 
