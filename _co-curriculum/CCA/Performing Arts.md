@@ -7,7 +7,14 @@ third_nav_title: CCA
 ### **Performing Arts**
 
 #### **Choir**
-Priding ourselves as an established and fine choir with an excellent track record of achievements, we have the hard work and dedication put in by the choristers, teachers and instructor through the decade to thank for. We have grown from a fledgling choir to the school’s niche CCA under the Performance And Character Education (PACE) through Choir initiative. Anchoring on our strong belief in developing our choristers holistically, we have developed our choral programme into two broad areas, mainly, choral singing skills and character development. We are actively engaged in continual renewal, seeking improvement to meet new challenges as we take our choir to new heights.
+
+Priding ourselves as an established and fine choir with an excellent track record, the Woodlands Primary School Choir has the hard work and dedication put in by the choristers, teachers, and instructors through the decades to thank for. We frequently celebrate the achievements and successes of our choristers, who are between the ages of 8 to 12.&nbsp;
+
+  
+
+In Woodlands Primary, we envision every chorister to be a confident and gracious singer, who possesses the discipline and zest to achieve excellence in his or her musical pursuit. We hope to develop in all our choristers the skills and knowledge for continuous learning, so they will continue to enjoy musical and artistic pursuits in the future.
+
+
 
 <img src="/images/perfarts1.jpg" style="width:85%">
 
