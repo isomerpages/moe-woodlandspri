@@ -4,6 +4,50 @@ permalink: /quick-links/for-parents/calender-of-events/
 description: ""
 third_nav_title: For Parents
 ---
+## **TERM 4**
+
+| Week | Date     | Key Events | Remarks|
+| -------- | -------- | -------- | -------- |
+|1 | 12 Sep| P3 EOY Oral Exams - MTL      P4 EOY Orals - EL| |
+|     | 13 Sep  |P3 EOY Oral Exams - EL      P4 EOY Oral Exams - MTL | 
+|  |15 Sep | PSLE LC| P1-P5 students do not need to report to school|
+| 2 |20 Sep | P5 EOY Oral Exams -MTL | After curriculum hours
+| | 22 Sep | P5 EOY Oral Exams - EL | After curriculum hours
+|2|3 Jul | Youth Day | School Holiday|
+|3|28 Sep| PSLE English Written Exam |  P3 students do not need to report to school| 
+||29 Sep| PSLE Math Written Exam | P3 students do not need to report to school |
+|4|2 Oct| PSLE Mother Tongue Written Exam | P4 students do not need to report to school |
+||3 Oct| PSLE Science Written Exam |P4 students do not need to report to school  |
+||4 Oct| PSLE Higher Mother Tongue Written Exam  |  |
+||| Lower Primary Sports Carnival  |  During curriculum hours|
+||5 Oct| Children's Day Celebration | Students will be dismissed at 10.30am|
+||6 Oct| Children's Day  | School Holiday|
+|5|9-11 Oct | P5 Camp 2023 @ CCOALC|School hours as per normal for P1-P4 and P6 students|
+|6| 16-18 Oct |PSLE Marking Exercise|All students do not need to report to school. For selected students involved in school activities during this period, details will be issued by the respective teachers-in-charge.
+| | 17-18 Oct| P3 GEP Selection Exercise|Only for shortlisted P3 students
+|7|23 Oct| EOY Exams (P3-P5) - EL LC |
+||| EOY Exams (P3-P5) - MTL Paper 1 |
+|| 24 Oct| EOY Exams (P3-P5) - MTL LC
+||| EOY Exams (P3-P5) - EL Paper 1 |
+|| 25 Oct| EOY Exams (P3-P5) - EL Paper 2||
+||26 Oct|EOY Exams (P3-P5) - Mathematics / FMA|
+||27 Oct| EOY Exams (P3-P5) - MTL / FMTL| |
+|8|30 Oct| EOY Exams (P3-P5) - Science / FSC| |
+||31 Oct| EOY Exams (P3-P5) - Higher MTL| |
+||3 Nov | CCA Day for P3 students | P3 classes will be scheduled to view different CCA to help with their CCA selection|
+|9|6-9 Nov |P4-P6 Games Day |
+||10 Nov| Admin Day  | All students do not need to report to school
+||12 Nov| Deepavali  |Public Holiday
+|10|13 Nov| Day after Deepavali |Public Holiday in Lieu
+||17 Nov| Prize-Giving Day  |Only for P5 studdents and all prize recipients|
+
+| December Holiday Programmes | Date  |
+| -------- | -------- | 
+|Prefects' Workshop| 29 Dec|
+
+
+
+
 ## **TERM 3**
 
 | Week | Date     | Key Events | Remarks|
