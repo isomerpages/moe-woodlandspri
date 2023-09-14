@@ -18,7 +18,9 @@ Through participating in the 2023 SYF Art Exhibition (‘Artist and Inspiration�
 
 
 #### **Chinese Cultural Club**
-In Chinese Cultural Club, a variety of activities are designed to educate our pupils to appreciate Chinese Culture. Pupils are introduced to Chinese cultural arts and crafts such as Chinese paper cutting, paper carving, tea appreciation, Chinese knot making, bean art, Chinese painting, mask painting, paper origami and many more. 
+In Chinese Cultural Club, a variety of activities are designed to educate our pupils to expose and increase pupils’ appreciation of the Chinese culture. Pupils are introduced to Chinese cultural arts and crafts such as Chinese paper cutting, paper carving, tea appreciation, Chinese knot making, bean art, Chinese painting, mask painting, paper origami and many more. 
+  
+
 
 ![](/images/chinese%20cultural%20club%202.jpeg)
 
@@ -52,8 +54,4 @@ The trainings that they undergo hone their creativity and thinking skills. Pupil
 #### **Speech and Drama Club**
 The main objective of the Speech and Drama Club is to help our pupils explore ways of expressing themselves using the appropriate voice. Techniques like tableau, mimes, speech drills and improvisation are taught to our pupils. They were also introduced to the 4Ps of voice – pitch, pace, pause and power through prose, sentences and poems. The training in speech has helped our pupils to improve their confidence and self- esteem when communicating with others. They are better able to express themselves using the techniques learnt. The highlight for our training can be observed from the year end performance during Children’s Day.
 
-<img src="/images/club9.jpg" style="width:65%">
-
-<img src="/images/club10.jpg" style="width:65%">
-
-<img src="/images/club11.jpg" style="width:65%">
+![](/images/speech%20and%20drama.jpeg)
