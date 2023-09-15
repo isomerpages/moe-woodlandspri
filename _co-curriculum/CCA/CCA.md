@@ -12,6 +12,13 @@ Woodlands Primary School offers and wide array of CCA under four broad categorie
 
 ##### **Learning Outcome**
 The learning outcomes for CCA are as follows: 
+<br><br>
+Students will develop and demonstrate: 
+* CCE2021 development milestones 
+* RIC3H Values &amp; WDP Core Values
+* Teamwork, Friendship and Sense of Pride 
+* Leadership and Spirit of Service to the community
+* Knowledge, skills and values related to their chosen CCA
 
 #### **CCA List**
 
