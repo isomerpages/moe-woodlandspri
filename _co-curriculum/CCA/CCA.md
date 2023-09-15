@@ -22,32 +22,26 @@ Students will develop and demonstrate:
 
 #### **CCA List**
 
+ **Sports &amp; Games**
+| CCA | Venue |
+| -------- | -------- | 
+| Volleyball     | WISH2     | 
+| Badminton     | School Hall     | 
+| Football     | School Field / WISH1|
+| Football     | School Hall / WISH2| 
 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | 
 
+ **Visual and Performing Arts**
+| CCA | Venue |
+| -------- | -------- | 
+| Art Club  | Art Rooms     | 
+| Chinese Dance | Band Room | 
+| Choir | PAL Room |
+|Handbells &amp; Handchimes| Music Rooms 1 &amp; 2| 
+|Indian Dance| Dance Studio|
+|Malay Dance| PArts| 
 
-
-| [**Sports &amp; Games**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/sports-and-games/) |
-| -------- |
-| Badminton |
-Football |
-| Tchoukball |
-| Volleyball |
-
-<br>
-
-| [**Performance Arts**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/performing-arts/)|
-| -------- |
-| Choir |
-| Handbells &amp; Handchimes Ensemble |
-| Chinese Dance |
-| Indian Dance |
-| Malay Dance |
-
-<br>
 
 | [**Uniformed Group**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/uniformed-group/)|
 | -------- |
