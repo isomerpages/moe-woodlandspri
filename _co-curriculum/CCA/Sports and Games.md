@@ -18,18 +18,10 @@ In Football CCA, pupils learn the skills and strategies required to play in inte
 
 
 #### **Tchoukball CCA**
-Tchoukball (pronounced as chook-ball) is an indoor non-contact team sport.&nbsp;
-
-  ![](/images/tchoukball%201%20(2023).jpeg)
-
-This CCA aims to provide the knowledge and basic skills such as passing, catching the ball, team offense and defensive tactics. Pupils will get to practice these skills and demonstrate their teamwork through our trainings and the Inter-Primary Tchoukball Competitions.&nbsp;
-
-![](/images/tchoukball%202%20(2023).jpeg)
-
-WDP Core Values such as collaboration, respect and resilience is also imparted to cultivate their sportsmanship and team spirit.&nbsp;
-
-
-We look forward to our Tchoukballers displaying these values-driven behaviours daily and in their CCA throughout the year.
+Tchoukball (pronounced as chook-ball) is an indoor non-contact team sport. This CCA aims to provide the knowledge and basic skills such as passing, catching the ball, team offense and defensive tactics. Pupils will get to practice these skills and demonstrate their teamwork through our trainings and the Inter-Primary Tchoukball Competitions. WDP Core Values such as collaboration, respect and resilience is also imparted to cultivate their sportsmanship and team spirit. We look forward to our Tchoukballers displaying these values-driven behaviours daily and in their CCA throughout the year.
+![](/images/tchoukball%203.jpg)
+![](/images/tchoukball%204.jpg)
+![](/images/tchoukball%205.jpg)
 
 
 #### **Volleyball CCA**
