@@ -24,6 +24,12 @@ Students will develop and demonstrate:
 
 
 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | 
+
+
+
 | [**Sports &amp; Games**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/sports-and-games/) |
 | -------- |
 | Badminton |
