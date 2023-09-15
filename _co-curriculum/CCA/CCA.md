@@ -10,7 +10,7 @@ Co-Curricular Activities (CCAs) are an integral part of Singapore's holistic and
 CCAs serve as a foundation for character-building and nurturing skills and provide a measure of personal qualities such as leadership, teamwork, passion and care in the human endeavour. As such, the school plans, implements and supports CCA programmes that impart the skills, values and habis that would also lead to participation in healthy recreation. <br><br>
 Woodlands Primary School offers and wide array of CCA under four broad categories; namely; Sports &amp; Games, Visual and Performing Arts, Clubs and Societies and Uniformed Groups to appeal to the wide interest of the pupils. We encourage and support pupils who take up and excel in external school CCAs that contribute to their overall development. 
 
-##### **Learning Outcome**
+##### **Learning Outcomes**
 The learning outcomes for CCA are as follows: 
 <br><br>
 Students will develop and demonstrate: 
@@ -55,4 +55,4 @@ Students will develop and demonstrate:
  **Uniformed Groups**
 | CCA | Venue |
 | -------- | -------- | 
-|Scouts| Classroom / WISH1 / Parade Square | 
+|Scouts| Classroom / WISH1 / Parade Square |
