@@ -7,12 +7,8 @@ third_nav_title: CCA
 ### **Sports and Games**
 #### **Badminton CCA**
 The Badminton CCA provides students with the opportunity to learn racket skills, footwork skills and game tactics needed to attain a higher proficiency for this sport. Pupils will gain experience and have the chance to display WDP Core values such as Respect, Resilience and Passion through internal and external competition throughout the year.
-
-![](/images/badminton2023_2.jpg)
-
-![](/images/badminton2023_1.jpg)
-
-![](/images/badminton2023_3.jpg)
+![](/images/badminton%201.jpg)
+![](/images/badminton%202.jpg)
 
 #### **Football CCA**
 ![](/images/football%201.jpeg)
