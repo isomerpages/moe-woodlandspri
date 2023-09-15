@@ -17,10 +17,10 @@ Through PAL, we hope that Woodlands Primary School pupils will
 *   Exhibit curiosity and positive attitudes in learning
 *   Enjoy group experiences and develop teamwork
 
-In summary, PAL will enhance the experiences of pupils in the moral, physical, aesthetics, social and emotional domains of learning for a holistic education
+In summary, PAL will enhance the experiences of pupils in the moral, physical, aesthetics, social and emotional domains of learning for a holistic education.
 
 #### **What**
-These modules are divided into two broad areas, Sports & Games and Outdoor Education, and Performing Arts and Visual Arts.
+These modules are divided into two broad areas, Sports &amp; Games and Outdoor Education, and Performing Arts and Visual Arts.
 
 Themes
 
@@ -31,8 +31,8 @@ With these two themes, we hope that pupils will see the relatedness across the d
 
 |  | **P1** | **P2** |
 |---|---|---|
-| **Sports & Games** | Teambuilding & Creative Games I | Teambuilding & Creative Games II |
-| **Outdoor Education** | Outdoor & Me! | Go Green! |
+| **Sports &amp; Games** | Teambuilding &amp; Creative Games I | Teambuilding &amp; Creative Games II |
+| **Outdoor Education** | Outdoor &amp; Me! | Go Green! |
 | **Performing Arts (Music)** | Dramatize | STOMP |
 | **Visual Arts** | iPuppetz | Green Artizens |
 |
@@ -43,7 +43,7 @@ In a nutshell, all Primary 1 and 2 pupils will go through four different modules
 #### **When**
 PAL lessons take place once a week within curriculum hours for two hours. Vendor-facilitated programmes as well as teacher-based lessons are conducted during these periods.
 
-#### **Sports & Games**
+#### **Sports &amp; Games**
 Pupils are actively engaged in a variety of physical activities. In each lesson, pupils will have to work in their groups. Through these activities, they will learn how to relate with others as well as knowing how to make responsible decisions as a team.
 
 <figure>
