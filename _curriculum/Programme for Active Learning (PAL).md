@@ -22,7 +22,7 @@ In summary, PAL will enhance the experiences of pupils in the moral, physical, a
 #### **What**
 These modules are divided into two broad areas, Sports &amp; Games and Outdoor Education, and Performing Arts and Visual Arts.
 
-Themes
+Themes:
 
 P1: Singapore, Our Home<br>
 P2: Mother Earth, Our Planet
