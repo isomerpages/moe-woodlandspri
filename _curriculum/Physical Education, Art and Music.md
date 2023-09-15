@@ -5,8 +5,7 @@ description: ""
 ---
 ### **Physical Education, Art and Music**
 ### **Physical Education**
-#### **Vision & Mission:**
-##### **Vision**:
+#### **Vision:**
 Sports Excellence and Character Education through physical education
 
 ##### **Mission:**
@@ -20,19 +19,19 @@ Focusing on the holistic development and character education of pupils through P
 *   P2 Sports Exposure Programme (SEP)
 *   P2 - P3 Sports Training Excellence Programme (STEP)
 *   P3 Funsports
-*   P3 & P4 Swimsafer 2.0
+*   P3 &amp; P4 Swimsafer 2.0
 *   P4 – P6 WE-FIT Programme
 *   P4 – P6 Games Day
 *   P5 Outdoor Adventure Camp
-*   Fruity Fridays & BYOF Programme
-*   Health Fair & Eye Care Week
+*   Fruity Fridays &amp; BYOF Programme
+*   Health Fair &amp; Eye Care Week
 
 #### **Useful links:**
 Sports SG - [https://www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg/)<br>
 ActiveSG - [https://www.myactivesg.com/](https://www.myactivesg.com/)
 
-### **Art & Music**
-#### **Vision & Mission:**
+### **Art &amp; Music**
+#### **Vision &amp; Mission:**
 ##### **Vision:**
 An artist in every Woodlander’s heart and mind.
 
@@ -57,8 +56,3 @@ Anchored on the holistic development of the pupils through an enriching art and 
 #### **Useful links:**
 *   [https://www.nac.gov.sg/](https://www.nac.gov.sg/)
 *   [https://www.syf.gov.sg/](https://www.syf.gov.sg/)
-
-
-
-
-
