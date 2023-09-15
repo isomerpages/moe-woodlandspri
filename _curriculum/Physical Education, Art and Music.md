@@ -43,16 +43,16 @@ We ignite the creativity and passion for the arts.
 Anchored on the holistic development of the pupils through an enriching art and music curriculum, the department adopts the strategies of the Singapore Teaching Practice model to enhance our teaching and learning and ensure value-addedness in aesthetics education. Focused on bringing about the joy of learning, we aim to motivate our pupils to express and develop creative and critical thinking and the other 21st century competencies. 
 
 #### **Key Programmes 2021:**
-*   Batik painting
-*   Clay and ceramics modelling
-*   Watercolour and acrylic painting,
-*   Printmaking
-*   Digital art
-*   Song writing
-*   Dikir Barat
-*   Ukelele
-*   Junior Winds Ensemble
 *   GLEE Festival
+*   Junior Winds Ensemble
+*   Batik Painting
+*   Clay &amp; Ceramics Modelling 
+*   Watercolour and Acrylic Painting
+*   Printmaking
+*   Digital Art
+*   Song Writing 
+*   Dikir Barat
+*   Ukulele
 
 #### **Useful links:**
 *   [https://www.nac.gov.sg/](https://www.nac.gov.sg/)
