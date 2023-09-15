@@ -25,6 +25,7 @@ Focusing on the holistic development and character education of pupils through P
 *   P5 Outdoor Adventure Camp
 *   Fruity Fridays &amp; BYOF Programme
 *   Health Fair &amp; Eye Care Week
+*   Most Valued Pupil (MVP)
 
 #### **Useful links:**
 Sports SG - [https://www.sportsingapore.gov.sg](https://www.sportsingapore.gov.sg/)<br>
