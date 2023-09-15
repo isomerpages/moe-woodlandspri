@@ -43,17 +43,16 @@ Students will develop and demonstrate:
 |Malay Dance| PArts| 
 
 
-| [**Uniformed Group**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/uniformed-group/)|
-| -------- |
-| Scouts/Cub Scouts |
+ **Clubs &amp; Societies**
+| CCA | Venue |
+| -------- | -------- | 
+| Chinese Cultural Club  | MTL Room | 
+| Info-Comm Club | Col 4, 5, 6A Classrooms | 
+| Library Club | Library |
+|Robotics Club|Computer Lab 2, 3, IR Room| 
+|Speech &amp; Drama Club| Health &amp; Fitness Room|
 
-<br>
-
-| [**Clubs**](https://staging.d3fekdgm769s09.amplifyapp.com/co-curriculum/cca/clubs/)|
-| -------- |
-| Art Club |
-| Chinese Cultural Club |
-| Information &amp; Communication Club |
-| Library |
-| Robotics Club |
-| Speech &amp; Drama Club |
+ **Uniformed Groups**
+| CCA | Venue |
+| -------- | -------- | 
+|Scouts| Classroom / WISH1 / Parade Square | 
