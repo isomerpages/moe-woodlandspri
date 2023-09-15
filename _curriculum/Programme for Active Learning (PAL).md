@@ -38,7 +38,7 @@ With these two themes, we hope that pupils will see the relatedness across the d
 |
 
 #### **How**
-In a nutshell, all Primary 1 and 2 pupils will go through four different modules of activities in a year. Each module consists of 7 lessons. During each lesson, pupils will go through a series of experiential, creative and fun activities which incorporates values education and social-emotional learning. Through individual and group activities, pupils are able to learn about themselves and understand how to better relate to and work with others, which is an important competency to thrive in a fast-changing and globalised world.
+In a nutshell, all Primary 1 and 2 pupils will go through four different modules of activities in a year. Each module consists of 7 lessons. During each lesson, pupils will go through a series of experiential, creative and fun activities which incorporates values education and social-emotional learning. Through individual and group activities, pupils are able to learn about themselves and understand how to better relate to and work with others, which is an important competency to thrive in a fast-changing and globalised world. 
 
 #### **When**
 PAL lessons take place once a week within curriculum hours for two hours. Vendor-facilitated programmes as well as teacher-based lessons are conducted during these periods.
