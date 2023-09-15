@@ -31,10 +31,10 @@ With these two themes, we hope that pupils will see the relatedness across the d
 
 |  | **P1** | **P2** |
 |---|---|---|
-| **Sports &amp; Games** | Teambuilding &amp; Creative Games I | Teambuilding &amp; Creative Games II |
-| **Outdoor Education** | Outdoor &amp; Me! | Go Green! |
-| **Performing Arts (Music)** | Dramatize | STOMP |
-| **Visual Arts** | iPuppetz | Green Artizens |
+| **Sports &amp; Games** | Let's Get Active I | Let's Get Active II |
+| **Outdoor Education** | Outdoor, Here We Come! I | Oudoor, Here We Come! II |
+| **Performing Arts (Music)** | Dramatize | Around The World with Music |
+| **Visual Arts** | Let's Travel | Green Artizens |
 |
 
 #### **How**
