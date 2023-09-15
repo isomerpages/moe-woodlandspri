@@ -12,7 +12,7 @@ Sports Excellence and Character Education through physical education
 To develop in pupils, a lifelong commitment, with a positive values-driven behaviors, to lead a healthy lifestyle.
 
 #### **Department Overview:**
-Focusing on the holistic development and character education of pupils through PE curriculum, the department uses Singapore Teaching Practice, Making Teaching Visible and Formative Assessment teaching strategies to enhance teaching pedagogy. We emphasize on the Joy of Learning and Entrepreneurial Dare in planning of co-curriculum programmes to enhance engagement and involvement of pupils.
+Focusing on the holistic development and character education of pupils through PE curriculum, the department uses Singapore Teaching Practice, Making Teaching Visible and Assessment Literacy to enhance teaching pedagogy. We emphasize on sports excellence and character education through sports and to ensure value-addedness in physical education. 
 
 #### **Core Programmes 2021:**
 *   P1 – P3 Lower Primary Games Carnival
