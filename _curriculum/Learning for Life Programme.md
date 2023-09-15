@@ -7,7 +7,7 @@ description: ""
 
 <img style="width:85%" src="/images/llp1.jpg">
 
-**_SPACE_**&nbsp;is a whole school approach to character building through sports. This is anchored in the beliefs that developing a passion for sports is an important component in the holistic development of pupils, and that sportsmen need to possess sound values and character. Through a 3E approach, various sports module are implemented for all pupils
+**_SPACE_**&nbsp; is a whole school approach to character building through sports. This is anchored in the beliefs that developing a passion for sports is an important component in the holistic development of pupils, and that sportsmen need to possess sound values and character. Through a 3E approach, various sports module are implemented for all pupils
 
 #### **The Strategic Thrust – Achieving Excellence in Learning<br>3E Approach: Experience, Equip and Excel**
 
