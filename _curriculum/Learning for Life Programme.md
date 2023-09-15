@@ -51,4 +51,4 @@ Pupils demonstrate school core values of respect, resilience, passion, adaptabil
 
 Pupils demonstrate the school motto of ‘Step by Step towards Excellence’ in Zonal and Nationals Competition and develop the ‘Zest to Excel’ attitude towards competing.<br><br>
 ![](/images/volleyball%201.jpg)
-<br>![](/images/volleyball%203.jpeg)
+![](/images/volleyball%203.jpeg)
