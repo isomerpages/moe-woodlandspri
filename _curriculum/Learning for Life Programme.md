@@ -43,7 +43,7 @@ Olympic Values: Respect, Friendship, Excellence
 
 #### **Pervasiveness of programme <br>SPACE (Equip): Sports CCAs**
 
-Pupils demonstrate school core values of respect, resilience, passion, adaptability, collaboration and innovation as they participate in sports individually and as a team.
+Pupils demonstrate school core values of respect, resilience, passion, adaptability, collaboration and innovation as they participate in sports individually and as a team.<br><br>
 ![](/images/LLP%202023/llp2023_07.JPG)
 
 
