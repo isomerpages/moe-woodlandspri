@@ -45,7 +45,6 @@ PAL lessons take place once a week within curriculum hours for two hours. Vendor
 
 #### **Sports &amp; Games**
 Pupils are actively engaged in a variety of physical activities. In each lesson, pupils will have to work in their groups. Through these activities, they will learn how to relate with others as well as knowing how to make responsible decisions as a team.
-
 <figure>
 <img src="/images/pal1.jpg" style="width:45%">
 <figcaption>  Pupils working together to stay on the “rocks”.
@@ -79,7 +78,7 @@ A big part of Outdoor Education is to expose our pupils with nature and get them
 
 “iPuppetz” invites pupils into a world of imagination and creation through puppet making and role playing. The fun and experiential activities engage pupils in exploration of materials and allow them to express their thoughts and feelings. Pupils are also given opportunities to develop their interpersonal and social skills as they learn to navigate through group experiences and make friends.
 
-P2 PAL Art – Green Artizens
+**P2 PAL Art – Green Artizens**
 
 “Green Artizens” focuses on the exploration of art materials and media through a greater awareness of our environment as responsible artists. By transforming scrap materials around us that we usually perceive as trash into meaningful and innovative pieces of art, pupils learn to give these art creations a new lease of life. Fun and experiential in nature, the interactive activities provide platforms for pupils to explore, create and share together with others.
 
