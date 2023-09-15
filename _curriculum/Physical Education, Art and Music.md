@@ -32,7 +32,7 @@ Sports SG - [https://www.sportsingapore.gov.sg](https://www.sportsingapore.gov.s
 ActiveSG - [https://www.myactivesg.com/](https://www.myactivesg.com/)
 
 ### **Art &amp; Music**
-#### **Vision &amp; Mission:**
+
 ##### **Vision:**
 An artist in every Woodlander’s heart and mind.
 
@@ -40,7 +40,7 @@ An artist in every Woodlander’s heart and mind.
 We ignite the creativity and passion for the arts.
 
 #### **Department Overview:**
-Anchored on the holistic development of the pupils through an enriching art and music curriculum, the department adopts the strategies of the Singapore Teaching Practice model to enhance our teaching and learning. Focused on bringing about the joy of learning, we aim to motivate our pupils to express and develop creative and critical thinking and the other 21st century competencies.
+Anchored on the holistic development of the pupils through an enriching art and music curriculum, the department adopts the strategies of the Singapore Teaching Practice model to enhance our teaching and learning and ensure value-addedness in aesthetics education. Focused on bringing about the joy of learning, we aim to motivate our pupils to express and develop creative and critical thinking and the other 21st century competencies. 
 
 #### **Key Programmes 2021:**
 *   Batik painting
