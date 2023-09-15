@@ -11,13 +11,10 @@ The Badminton CCA provides students with the opportunity to learn racket skills,
 ![](/images/badminton%202.jpg)
 
 #### **Football CCA**
-![](/images/football%201.jpeg)
-
-In Football CCA, pupils learn the skills and strategies required to play in internal and external competition settings.
+In Football CCA, pupils learn the skills and strategies required to play in internal and external competition settings. Besides these, pupils also get to cultivate and practise Olympic values such as Friendship, Respect and Excellence through friendly games and competitions. 
 
 ![](/images/football%202.jpeg)
-
-Besides these, pupils also get to cultivate and practise Olympic values such as Friendship, Respect and Excellence through friendly games and competitions.
+![](/images/football%203.jpg)
 
 
 #### **Tchoukball CCA**
