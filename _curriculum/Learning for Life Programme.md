@@ -50,5 +50,5 @@ Pupils demonstrate school core values of respect, resilience, passion, adaptabil
 #### **Pervasiveness of programme<br>SPACE (Excel): Volleyball Competitions**
 
 Pupils demonstrate the school motto of ‘Step by Step towards Excellence’ in Zonal and Nationals Competition and develop the ‘Zest to Excel’ attitude towards competing.<br><br>
-<img style="width:85%" src="/images/llp20.jpg">
-<img style="width:85%" src="/images/llp21.jpg">
+![](/images/volleyball%201.jpg)
+<br>
