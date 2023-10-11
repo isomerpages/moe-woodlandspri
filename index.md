@@ -8,19 +8,19 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: P5 CAMP
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid0YN2A6QuHEtEFauKNqcmugq3SEePyeddySnQnNvuo6GfHN4My3w5tAQ4dHnrti3xXl
+        - title: CHILDREN'S DAY CELEBRATION
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid02M5ddRZzTBS9yCLVeCtM1rBtBtLYY9e27HSaGR6bNbVKDnmGV2HD5EETmz65Tkb1zl
         - title: Teachers' Day Celebration
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid027CWvEq5i6NoBzWXGzEftQ5LGsV2oLGkaYKr2yUqbNanArpJKw7Ee5LQ4L8XoqisPl
         - title: P5 NE Show
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02YWGmrQ99p2NaFMsQkWXpJF7QeD6Gi2koFYSBtrGWwpamRNb8CkCVs5NMgqV7TQNkl
-        - title: Glee Fest 2023
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid02G2ZPq9nfauq5FAiwPGHSbRX234y9rDE3U9Hj9sbnMqLYxUMcCBrFXC3TQCpneTeZl
-        - title: Hari Raya Celebration
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid02WQgXKxddTT5LKjvpH1x3nYvcp57Gknjt2Gh2EeCCD42vkJFAfg6viQMcFgVbRqWcl
-      background: /images/Homepage Banners/homepage_20230907.jpg
+      background: /images/Homepage Banners/homepage_20231011.jpg
   - infobar:
       title: Rhythm in the Woods
       id: infobar

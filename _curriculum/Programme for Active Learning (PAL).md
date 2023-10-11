@@ -17,12 +17,12 @@ Through PAL, we hope that Woodlands Primary School pupils will
 *   Exhibit curiosity and positive attitudes in learning
 *   Enjoy group experiences and develop teamwork
 
-In summary, PAL will enhance the experiences of pupils in the moral, physical, aesthetics, social and emotional domains of learning for a holistic education
+In summary, PAL will enhance the experiences of pupils in the moral, physical, aesthetics, social and emotional domains of learning for a holistic education.
 
 #### **What**
-These modules are divided into two broad areas, Sports & Games and Outdoor Education, and Performing Arts and Visual Arts.
+These modules are divided into two broad areas, Sports &amp; Games and Outdoor Education, and Performing Arts and Visual Arts.
 
-Themes
+Themes:
 
 P1: Singapore, Our Home<br>
 P2: Mother Earth, Our Planet
@@ -31,21 +31,20 @@ With these two themes, we hope that pupils will see the relatedness across the d
 
 |  | **P1** | **P2** |
 |---|---|---|
-| **Sports & Games** | Teambuilding & Creative Games I | Teambuilding & Creative Games II |
-| **Outdoor Education** | Outdoor & Me! | Go Green! |
-| **Performing Arts (Music)** | Dramatize | STOMP |
-| **Visual Arts** | iPuppetz | Green Artizens |
+| **Sports &amp; Games** | Let's Get Active I | Let's Get Active II |
+| **Outdoor Education** | Outdoor, Here We Come! I | Oudoor, Here We Come! II |
+| **Performing Arts (Music)** | Dramatize | Around The World with Music |
+| **Visual Arts** | Let's Travel | Green Artizens |
 |
 
 #### **How**
-In a nutshell, all Primary 1 and 2 pupils will go through four different modules of activities in a year. Each module consists of 7 lessons. During each lesson, pupils will go through a series of experiential, creative and fun activities which incorporates values education and social-emotional learning. Through individual and group activities, pupils are able to learn about themselves and understand how to better relate to and work with others, which is an important competency to thrive in a fast-changing and globalised world.
+In a nutshell, all Primary 1 and 2 pupils will go through four different modules of activities in a year. Each module consists of 7 lessons. During each lesson, pupils will go through a series of experiential, creative and fun activities which incorporates values education and social-emotional learning. Through individual and group activities, pupils are able to learn about themselves and understand how to better relate to and work with others, which is an important competency to thrive in a fast-changing and globalised world. 
 
 #### **When**
 PAL lessons take place once a week within curriculum hours for two hours. Vendor-facilitated programmes as well as teacher-based lessons are conducted during these periods.
 
-#### **Sports & Games**
+#### **Sports &amp; Games**
 Pupils are actively engaged in a variety of physical activities. In each lesson, pupils will have to work in their groups. Through these activities, they will learn how to relate with others as well as knowing how to make responsible decisions as a team.
-
 <figure>
 <img src="/images/pal1.jpg" style="width:45%">
 <figcaption>  Pupils working together to stay on the “rocks”.
@@ -79,7 +78,7 @@ A big part of Outdoor Education is to expose our pupils with nature and get them
 
 “iPuppetz” invites pupils into a world of imagination and creation through puppet making and role playing. The fun and experiential activities engage pupils in exploration of materials and allow them to express their thoughts and feelings. Pupils are also given opportunities to develop their interpersonal and social skills as they learn to navigate through group experiences and make friends.
 
-P2 PAL Art – Green Artizens
+**P2 PAL Art – Green Artizens**
 
 “Green Artizens” focuses on the exploration of art materials and media through a greater awareness of our environment as responsible artists. By transforming scrap materials around us that we usually perceive as trash into meaningful and innovative pieces of art, pupils learn to give these art creations a new lease of life. Fun and experiential in nature, the interactive activities provide platforms for pupils to explore, create and share together with others.
 
