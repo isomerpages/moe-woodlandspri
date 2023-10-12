@@ -14,7 +14,7 @@ description: ""
 
 [Introduction Letter](https://woodlandspri.moe.edu.sg/files/SCC/1%20introduction%20letter.pdf)
 
-[FAQs](https://woodlandspri.moe.edu.sg/files/SCC/4%20wdp%20faqs.pdf)
+[FAQs](https://woodlandspri.moe.edu.sg/files/SCC/4%20wdp%20scc%20faqs.pdf)
 
 
 
