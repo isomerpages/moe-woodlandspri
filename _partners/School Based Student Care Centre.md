@@ -14,7 +14,7 @@ description: ""
 
 [Introduction Letter](https://woodlandspri.moe.edu.sg/files/SCC/1%20introduction%20letter.pdf)
 
-[FAQs](https://woodlandspri.moe.edu.sg/files/SCC/4%20wdp%20faqs.pdf)
+[FAQs](https://woodlandspri.moe.edu.sg/files/SCC/4%20wdp%20scc%20faqs.pdf)
 
 
 
@@ -22,8 +22,7 @@ description: ""
 
 [Application Form for P1 (2024)](https://woodlandspri.moe.edu.sg/files/SCC/2%20application%20form%202024_p1.pdf)
 
-[Application Form for P2-P6 (2024)](https://woodlandspri.moe.edu.sg/files/SCC/2%20application%20form%202024_p2-p6.pdf)
-
+[Application Form for P2-P6 (2024)](https://woodlandspri.moe.edu.sg/files/SCC/3%20application%20form%202024_p2-p6.pdf)
 
 
 
