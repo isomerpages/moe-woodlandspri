@@ -28,7 +28,7 @@ Should you have any inquiries or require further assistance, please contact the 
 
 ##### **Application form and pamphlets**
 
-[MOE FAS Pamphlet (English)](/files/FAS%202024/moe_fas_pamphet_el.pdf)
+[MOE FAS Pamphlet (English)](/files/FAS%202024/moe_fas_pamphlet_el.pdf)
 
 [MOE FAS Pamphlet (Chinese)](/files/FAS%202024/moe_fas_pamphlet_cl.pdf)
 
