@@ -25,3 +25,15 @@ The deadline for submission is ** November 17, 2023**.
 To expedite the processing of your application, kindly ensure that all required supporting documents are submitted along with the completed application form.
 
 Should you have any inquiries or require further assistance, please contact the General Office at 62697410 during office hours.
+
+##### **Application form and pamphlets**
+
+[MOE FAS Pamphlet (English)](/files/FAS%202024/moe_fas_pamphet_el.pdf)
+
+[MOE FAS Pamphlet (Chinese)](/files/FAS%202024/moe_fas_pamphlet_cl.pdf)
+
+[MOE FAS Pamphlet (Malay)](/files/FAS%202024/moe_fas_pamphlet_ml.pdf)
+
+[MOE FAS Pamphlet (Tamil)](/files/FAS%202024/moe_fas_pamphlet_tl.pdf)
+
+[MOE FAS Application Form (2024)](/files/FAS%202024/2024_moe_fas_application_form.pdf)
