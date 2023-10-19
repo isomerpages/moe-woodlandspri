@@ -11,4 +11,4 @@ third_nav_title: For Parents
 *   [Circulars](https://www.woodlandspri.moe.edu.sg/quick-links/for-parents/circulars/)
 *   [PSG Registration](https://www.woodlandspri.moe.edu.sg/quick-links/for-parents/psg-registration/)
 *   [School Services](https://www.woodlandspri.moe.edu.sg/quick-links/for-parents/school-services/) 
-*   [School Social Media Links](https://www.woodlandspri.moe.edu.sg/quick-links/for-parents/school-social-media-links/)
+*   [MOE Financial Assistance Scheme (FAS)](https://www.woodlandspri.moe.edu.sg/quick-links/for-parents/fas/)
