@@ -25,5 +25,3 @@ The deadline for submission is ** November 17, 2023**.
 To expedite the processing of your application, kindly ensure that all required supporting documents are submitted along with the completed application form.
 
 Should you have any inquiries or require further assistance, please contact the General Office at 62697410 during office hours.
-
-
