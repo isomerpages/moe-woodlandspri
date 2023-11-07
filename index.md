@@ -21,6 +21,7 @@ sections:
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02YWGmrQ99p2NaFMsQkWXpJF7QeD6Gi2koFYSBtrGWwpamRNb8CkCVs5NMgqV7TQNkl
       background: /images/Homepage Banners/homepage_20231011.jpg
+      variant: image
   - infobar:
       title: Rhythm in the Woods
       id: infobar
