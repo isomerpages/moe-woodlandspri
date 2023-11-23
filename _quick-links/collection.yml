@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - For Parents/2024 Booklists and Uniform Sales Dates.md
       - For Parents/MOE Finanical Assistance Scheme (FAS).md
       - For Parents/For Parents.md
       - "For Parents/P1 Registration: Parent Volunteer Scheme.md"
