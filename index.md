@@ -23,6 +23,11 @@ sections:
       background: /images/Homepage Banners/homepage_20231011.jpg
       variant: image
   - infobar:
+      title: P1-P6 Booklists and School Uniform Sales Dates
+      id: infobar
+      button: Click to View
+      url: /quick-links/for-parents/booklist-and-uniform/
+  - infobar:
       title: Rhythm in the Woods
       id: infobar
       description: The latest issue of our school newsletter Rhythm in the Woods is
