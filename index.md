@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Prize Giving Day 2023
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid0xi2Ejsh59WPRog4ox4g36aq9qUupnNGUZsGMPLULFwKZDFQ4xET7nPD6ufj6eafBl
         - title: P5 CAMP
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid0YN2A6QuHEtEFauKNqcmugq3SEePyeddySnQnNvuo6GfHN4My3w5tAQ4dHnrti3xXl
@@ -17,10 +20,7 @@ sections:
         - title: Teachers' Day Celebration
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid027CWvEq5i6NoBzWXGzEftQ5LGsV2oLGkaYKr2yUqbNanArpJKw7Ee5LQ4L8XoqisPl
-        - title: P5 NE Show
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid02YWGmrQ99p2NaFMsQkWXpJF7QeD6Gi2koFYSBtrGWwpamRNb8CkCVs5NMgqV7TQNkl
-      background: /images/Homepage Banners/homepage_20231011.jpg
+      background: /images/Homepage Banners/homepage_20231123.jpg
       variant: image
   - infobar:
       title: P1-P6 Booklists and School Uniform Sales Dates
