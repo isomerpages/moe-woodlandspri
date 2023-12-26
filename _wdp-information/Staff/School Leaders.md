@@ -3,6 +3,7 @@ title: School Leaders
 permalink: /wdp-information/staff/school-leaders/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 ### **School Leaders**
 
@@ -19,17 +20,7 @@ Mrs Lillian Chen
 
 <hr>
 
-<div align="center">
-<br>
-	<strong>Vice Principal (Acad)</strong>
-<img src="/images/principal2.jpg" style="width: 150px">
-<br>
-Mdm Wong Yen Ling
-<br>
-<br>
-</div>
 
-<hr>
 
 <div align="center">
 <br>
