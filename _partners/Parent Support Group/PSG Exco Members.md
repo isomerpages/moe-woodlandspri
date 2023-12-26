@@ -3,31 +3,26 @@ title: PSG Exco Members
 permalink: /partners/psg/exco-members/
 description: ""
 third_nav_title: Parent Support Group
+variant: markdown
 ---
 ### **PSG EXCO Members**
-#### **PSG 2022**
+#### **PSG 2024**
 
 |  |  |
 |---|---|
-| Ms Lee Sia Ang | Chairperson |
-| Ms Evelyn J Low | Vice-Chairperson |
-| Mdm Ayyanathan Vijayalakshmi | Vice-Chairperson |
-| Ms Cǒrrine Lee | Secretary |
-| Ms Kok Fong Fong | Secretary |
-| Ms Charlene Er | Asst Secretary |
-| Mdm Teh Lee Ling | Treasurer |
-| Mdm Yoko Kitamura | Treasurer |
-| Ms Janice Tan | Asst Treasurer |
-| Mdm Liu Jiali | Social Media |
-| Mr Koh Chee Keong | DADs for Life Champion |
-| Mr Amir Idham | DADs for Life |
-| Mr Ganesh Pillai Ravichandran | DADs for Life |
-| Mr Lavanath Shanmugam | DADs for Life |
-| Mr Shakespeare Johnson Vairamon | DADs for Life |
-| Mr Thaddeus Chan | DADs for Life |
-| Mdm Azlina Sam | Member |
+| Ms Evelyn Jann Low | Chairperson |
+| Ms Liu Jiali | Vice-Chairperson |
+| Ms Charlene Er | Member |
+| Ms Corrine Lee | Member |
+| Mdm Tan Yam Ling | Member |
+| Mdm Nurliana Omar | Member |
+| Ms Chong Pei Ti | Member |
 | Ms Jalyn Kong | Member |
-| Ms Nurliana Omar | Member |
-| Ms Vidhya Annamalai | Member |
+| Ms Izzah Lina Binte Mohamed Soib | Member |
+| Mdm Ramanan Krithiga | Member |
+| Mdm Vidhya Annamalai | Member |
+| Ms Elise Tan | Member |
+| Ms Pey Boon Bee | Member |
+| Mr Danny Teo | DADs for Life |
+| Mr Thaddeus Chan Chee Lung | Member |
 |
-
