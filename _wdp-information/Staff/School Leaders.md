@@ -20,7 +20,16 @@ Mrs Lillian Chen
 
 <hr>
 
+<div align="center">
+<br>
+	<strong>Vice Principal (Acad)</strong>
 
+<br>
+Ms Susanna Chau
+<br>
+<br>
+</div>
+<hr>
 
 <div align="center">
 <br>
