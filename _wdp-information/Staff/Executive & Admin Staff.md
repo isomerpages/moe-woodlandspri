@@ -3,6 +3,7 @@ title: Executive & Admin Staff
 permalink: /wdp-information/staff/executive-and-admin-staff/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 ### **Executive & Admin Staff**
 
@@ -14,7 +15,6 @@ Ms Teo Hsiao Ying|
 |  | |  |  | |
 |---|---|---|---|---|
 | **Operation Managers** | 
-Mr Ngew Sew Hang |
 Mr Siew Wai Hong
 
 |  | |  |  | |
