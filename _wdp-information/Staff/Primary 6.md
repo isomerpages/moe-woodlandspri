@@ -3,6 +3,7 @@ title: Primary 6
 permalink: /wdp-information/staff/p6/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 ### **Primary 6**
 
@@ -10,11 +11,11 @@ third_nav_title: Staff
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| Innovation 1 | Mrs Lalitha Sathya | Ms Li Shun |  
-| Innovation 2 | Mrs Low Mui Hong | Ms Fatin Nazurah | Mdm Zhao Xiao Fei
-| Innovation 3 | Ms Norhaslinda | Mrs Sivodayan |  Mrs Michelle Kan
-| Innovation 4 | Mrs Lim Swee Ee | Mrs Loh Li Li |  Mrs Theivanai
-| Innovation 5 | Ms Mishon Lew | Mr Teng Aik Jin |  
-| Innovation 6A | Ms Ong Suan Hong | Mdm Stella Mak |   
-| Innovation 6B | Mdm Anisah Osman | Mrs Diana Cheng |  
+| Innovation 1 | Ms Chan Zi Ping | Ms Doreen Chan |  
+| Innovation 2 | Mdm Nazerah Bte Mohamed | Ms Reshpal Kaur | Mdm Lim Wan Ling 
+| Innovation 3 | Mdm Suriyah Bte Sapari | Mrs Lim Swee Ee |  Mrs Sivodayan Jagatheswari
+| Innovation 4 | Mr Sakthivel Muthu | Ms Yunn Aykaye | Mr Gopinath Menon
+| Innovation 5 | Mr Barry Chin | Ms Wong Fong Ling | Ms Nicolette Pereira
+| Innovation 6A | Mr Ng Wei Chieh | Ms Pak Xin Yan |   
+| Innovation 6B | Mrs Loh Li Li | Mr Harshad Bin Ismail | Mrs Viro Singh
 |
