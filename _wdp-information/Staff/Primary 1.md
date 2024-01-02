@@ -3,6 +3,7 @@ title: Primary 1
 permalink: /wdp-information/staff/p1/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 ### **Primary 1**
 
@@ -10,11 +11,11 @@ third_nav_title: Staff
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| Respect 1 | Ms Chung Choon Boey | Ms Irene Poh|  
-| Respect 2 | Mr Lee Aik Hao | Mdm S Sarasvathy |  
-| Respect 3 | Mdm Li Bo | Mrs Veronica Yap |  
-| Respect 4 | Mrs Nirmala Menon | Mdm Nur Hana |   
-| Respect 5 | Ms Low Hui Yi | Mr Muhammad Azri Bahajjajj |  
-| Respect 6 | Mrs Andrea Sim | Mrs Doris Yeo|   
-| Respect 7 | Ms Jovyn Lim | Mdm Ramlah |  
+| Respect 1 | Mdm Noorzihan | Mdm Woo Wai Kwan |  Mr Mohamed Udori 
+| Respect 2 | Mr Muhammad Azri Bahajjajj | Mrs Rekha Naidu |  
+| Respect 3 | Ms Ang Yan Ling | Mdm Ng Chan Joo |  
+| Respect 4 | Ms Chua Min Li | Mdm Nur Hana |   
+| Respect 5 | Mdm Sithi Salmah | Mrs Doris Yeo |  
+| Respect 6 | Mrs Joycelyn Chin | Mdm Manimegalai | Ms Linden | 
+| Respect 7 | Ms Lam Cheng Cheng | Ms Liyana Dali | Mdm Rajamani 
 |
