@@ -3,17 +3,18 @@ title: Key Personnel
 permalink: /wdp-information/staff/key-personnel/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 ### **Key Personnel**
 #### **Head of Departments**
 
 |  |  |
 |---|---|
+| **HOD – English (Covering)** | Ms Dashni Ravindran |
 | **HOD – Mother Tongue** | Ms Ong Suan Hong |
 | **HOD – Science** | Mrs Michelle Kan |
-| **HOD – Mathematics** | Mdm Nazerah Bte Mohamed |
-| **HOD – Student Management (Covering)** | Mr Narayanasamy Thiagarajan |
-| **HOD – Character & Citizenship Education** | Mrs Soh Heidi-Tan Rui Ying  |
+| **HOD – Mathematics (Covering)** | Ms Chan Zi Ping |
+| **HOD – Student Management (Covering)** | Mr Harshad Bin Ismail |
 | **HOD – ICT** | Mrs Lalitha Sathya Prasad |
 | **HOD – PE, CCA & Aesthetics** | Mrs Amy Soh-Kong Siew Ling |
 | **School Staff Developer** | Ms Ang Yan Ling |
@@ -23,12 +24,11 @@ third_nav_title: Staff
 
 |  |  |
 |---|---|
-| **Year-Head P1/P2** | Mrs Sumathi Elvin |
-| **Year-Head P3/P4** | Mrs Ariel-Thia Woon Ling |
-| **Year-Head P5/P6** | Mdm Mariani Bte Salam |
+| **Year-Head P1 & P2** | Mrs Sumathi Elvin |
+| **Year-Head P3& P4** | Mrs Ariel-Thia Woon Ling |
+| **Year-Head P5 & P6** | Mdm Mariani Bte Salam |
 | **Assistant Year-Head P2**  | Mdm Sharifah Hafsah Bte Md Hanifa |
-| **Assistant Year-Head P3** | Mr Harshad Bin Ismail |
-| **Assistant Year-Head P5** | Mrs Sally Ong-Tan Sock Li |
+| **Assistant Year-Head P6** | Mrs Sally Ong-Tan Sock Li |
 |
 
 #### **Level Heads & Subject Heads**
