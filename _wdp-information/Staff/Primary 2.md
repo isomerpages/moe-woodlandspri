@@ -11,11 +11,11 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| Resilience 1 | Mdm Cahaya Nirmala | Ms Liyana Dali|  
-| Resilience 2 | Mdm Manimegalai | Mdm Sithi Salmah |  Mr Kenny Koo
-| Resilience 3 | Ms Ang Yan Ling | Mrs Rekha Naidu |  
-| Resilience 4 | Mdm Ibrizi Ishak | Mdm Ng Chan Joo |   
-| Resilience 5 | Ms Lam Cheng Cheng | Mr Xu Bin |  
-| Resilience 6 | Ms Low Lee Ling | Mdm Siti Mazelina|   
-| Resilience 7 | Mdm Siti Nuratika | Mdm Noorzihan |  
+| Resilience 1 | Ms Chung Choon Boey | Miss Irene Poh | Mdm Zuraida |  
+| Resilience 2 | Mr Lee Aik Hao | Mdm S Sarasvathy |  
+| Resilience 3 | Mdm Li Bo | Mrs Veronica Yap |  
+| Resilience 4 | Mrs Nirmala Menon | Miss Li Shun |   
+| Resilience 5 | Ms Low Hui Yi | Mdm Cahaya Nirmala |  
+| Resilience 6 | Mrs Andrea Sim | Mdm Ramlah Hassan | Mdm Soo Lihong 
+| Resilience 7 | Ms Jovyn Lim | Mr Shawn Sng | Ms Lew Ern Nah  
 |
