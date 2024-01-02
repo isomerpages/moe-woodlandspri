@@ -35,8 +35,6 @@ variant: markdown
 
 |  |  |
 |---|---|
-| **Level Head – English Language**  | Ms Dashni Ravindran  |
-| **Level Head – Mathematics** | Mdm Chan Zi Ping |
 | **Level Head – Science** | Mdm Kueh Li Li |
 | **Level Head – Chinese Language** | Mdm Lim Wan Ling |
 | **Subject Head – Character Development & Pupil Welfare** | Mr Ng Wei Chieh |
