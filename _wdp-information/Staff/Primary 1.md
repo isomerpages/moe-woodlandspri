@@ -16,6 +16,6 @@ variant: markdown
 | Respect 3 | Ms Ang Yan Ling | Mdm Ng Chan Joo |  
 | Respect 4 | Ms Chua Min Li | Mdm Nur Hana |   
 | Respect 5 | Mdm Sithi Salmah | Mrs Doris Yeo |  
-| Respect 6 | Mrs Joycelyn Chin | Mdm Manimegalai | Ms Linden | 
-| Respect 7 | Ms Lam Cheng Cheng | Ms Liyana Dali | Mdm Rajamani 
+| Respect 6 | Mrs Joycelyn Chin | Mdm Manimegalai | Mdm Linden Lim | 
+| Respect 7 | Ms Lam Cheng Cheng | Ms Liyana Dali | Ms Rajamani 
 |
