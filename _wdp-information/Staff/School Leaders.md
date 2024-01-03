@@ -20,11 +20,7 @@ Mrs Lillian Chen
 
 
 
-<div align="center">
-<br>
-</div>
 <hr>
-
 <div align="center">
 <br>
 	<strong>Vice Principal (Acad)</strong>
@@ -32,9 +28,16 @@ Mrs Lillian Chen
 <br>
 Mr Razali Senin
 	<br>
-	<br><hr>
 	<br>
-	<strong>Vice Principal (Acad)</strong> <br><br><br>
+	</div>
+	
+	
+	
+<hr>
+<div align="center">
+<br>
+<strong>Vice Principal (Acad)</strong>
+<img src="/images/principal_chau.jpg" style="width: 150px">
 <br>
 Ms Susanna Chau
 <br>
