@@ -2,8 +2,9 @@
 title: Character & Citizenship Education
 permalink: /curriculum/cce/
 description: ""
+variant: markdown
 ---
-### **Character & Citizenship Education**
+### **Character &amp; Citizenship Education**
 #### **CCE Framework**
 
 <img src="/images/cce1.jpg" style="width:30%">
@@ -29,15 +30,18 @@ CCE is central to the 21st Century Competencies Framework. It emphasises the int
 
 <img src="/images/cce2.jpg" style="width:45%">
 
-### **Sexuality Education 2023**
+
+<div id="sed">&nbsp;</div>
+
+### **Sexuality Education 2024**
 #### **MOE Sexuality Education in Schools**
 
-1\. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues. 
+1\. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
 2\. The **Goals** of Sexuality Education are:
 *   To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate *knowledge* on human sexuality and the consequences of sexual activity;
 *   To help students know themselves and build healthy and rewarding relationships through the acquisition of *social and emotional skills* of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and 
-*   To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+*   To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.
 
 3\. The **Key Messages** of Sexuality Education are:
 *   Love and respect yourself as you love and respect others;
@@ -45,11 +49,11 @@ CCE is central to the 21st Century Competencies Framework. It emphasises the int
 *   Make responsible decisions for yourself, your family and society; and
 *   Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [**here**](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
+You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-**Overview of Woodlands Primary School’s Sexuality Education Programme for 2023**
+**Overview of Woodlands Primary School’s Sexuality Education Programme for 2024**
 
-4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [**here**](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+4\. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[**here**](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
 5\. The subjects that incorporate topics on sexuality include:<br>
 (a) Science<br>
@@ -62,7 +66,7 @@ You may click [**here**](https://go.gov.sg/moe-sexuality-education) for more i
 7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
 
-##### **At Woodlands Primary School, the following lessons from the Growing Years Programme will be taught in 2022:**
+##### **At Woodlands Primary School, the following lessons from the Growing Years Programme will be taught in 2024:**
 **Primary 5**
 
 | CCE (FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD (e.g. Term 1 Week 2) |
@@ -80,11 +84,10 @@ You may click [**here**](https://go.gov.sg/moe-sexuality-education) for more i
 |  | Are We More than Friends? <br> Lesson 2<br>(60 min) |  In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other. | Term 3 Week 3 |
 |  | Did You Know? *<br>*(60min) | This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **‘Stop-Think-Do’.**<br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 1 Week 7 |
 
-**Please Note:** For 2023,  the Primary 5 lesson "Did You Know?" will also be conducted for the Primary 6 cohort on 15 February 2023. 
 
 #### **Information for Parents**
 8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-9\. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/optoutform.pdf). **The completed opt-out form is to be submitted by 10 February 2023**.
+9\. Parents who wish to opt their children out of the&nbsp;**Growing Years (GY) programme**&nbsp;need to complete an opt-out form.&nbsp;This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/optoutform.pdf). **The completed opt-out form is to be submitted by&nbsp;10 February 2024**.
 
-10\. Parents can contact the school at **6269 7410** for discussion or to seek clarification about the school’s sexuality education programme.
+10\. Parents can contact the school at&nbsp;**6269 7410**&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
