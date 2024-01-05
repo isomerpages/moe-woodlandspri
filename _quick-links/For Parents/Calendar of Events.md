@@ -10,15 +10,15 @@ variant: markdown
 | Week | Date     | Key Events | Remarks|
 | -------- | -------- | -------- | -------- |
 |2 | 8 Jan | Commencement of P5 and P6 Higher Mother Tongue Lessons| Every Monday (2.00pm to 3.00pm) |
-|    | 9 Jan|Commencement of P3 Swimsafer | Every Tuesdays and Wednesdays (11.30am - 2.30pm) | 
+|    | 9 Jan|Commencement of P3 Swimsafer | Every Tuesday and Wednesday (11.30am - 2.30pm) | 
 | |10 Jan | Attendance and Temperature-taking Exercise | All students to bring a working thermometer |
 |  |12 Jan | APEX Leadership Training 1 (for selected P5-P6 Apex student leaders only | 2.00pm - 4.00pm
 |3 | From 15 Jan | Commencement of SDR and RRP lessons:<br><br> **P3 (SDR)** <br> Mon, Wed &amp; Thu/Fri (2.00pm - 3.00pm); <br><br>**P3 (RRP**) <br>Mon &amp; Wed <br>2.00pm - 3.00pm | More details on the respective SDR or RRP groupings will be sent out separately.
 ||| Commencement of P5 &amp; P6 Remedial Lessons (for selected students only) | Every Monday, Wednesday and Friday (2.00pm - 3.00pm) |
-|3|28 Sep| PSLE English Written Exam |  P3 students do not need to report to school| 
-||29 Sep| PSLE Math Written Exam | P3 students do not need to report to school |
-|4|2 Oct| PSLE Mother Tongue Written Exam | P4 students do not need to report to school |
-||3 Oct| PSLE Science Written Exam |P4 students do not need to report to school  |
+|4|26-28 Jan| P5-P6 Scouts Camp @ WDP |  | 
+||26 Jan| Briefing on P4 Overseas Learning Journey (OLJ) for parents (via Zoom) | More details will be sent to parents closer to the date |
+|5|From 31 Jan | Commencement of P4 Remedial Lessons (for selected students only) | Every Wednesday &amp; Friday (2.00pm - 3.00pm)|
+|6|9 Feb| Chinese New Year Celebration | Students will be dismissed at 10.30am|
 ||4 Oct| PSLE Higher Mother Tongue Written Exam  |  |
 ||| Lower Primary Sports Carnival  |  During curriculum hours|
 ||5 Oct| Children's Day Celebration | Students will be dismissed at 10.30am|
