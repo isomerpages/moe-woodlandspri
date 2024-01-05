@@ -13,8 +13,8 @@ variant: markdown
 |    | 9 Jan|Commencement of P3 Swimsafer | Every Tuesdays and Wednesdays (11.30am - 2.30pm) | 
 | |10 Jan | Attendance and Temperature-taking Exercise | All students to bring a working thermometer |
 |  |12 Jan | APEX Leadership Training 1 (for selected P5-P6 Apex student leaders only | 2.00pm - 4.00pm
-| | 22 Sep | P5 EOY Oral Exams - EL | After curriculum hours
-|2|3 Jul | Youth Day | School Holiday|
+|3 | From 15 Jan | Commencement of SDR and RRP lessons:<br><br> **P3 (SDR)** <br> Mon, Wed &amp; Thu/Fri (2.00pm - 3.00pm); <br><br>**P3 (RRP**) <br>Mon &amp; Wed <br>2.00pm - 3.00pm | More details on the respective SDR or RRP groupings will be sent out separately.
+||| Commencement of P5 &amp; P6 Remedial Lessons (for selected students only) | Every Monday, Wednesday and Friday (2.00pm - 3.00pm) |
 |3|28 Sep| PSLE English Written Exam |  P3 students do not need to report to school| 
 ||29 Sep| PSLE Math Written Exam | P3 students do not need to report to school |
 |4|2 Oct| PSLE Mother Tongue Written Exam | P4 students do not need to report to school |
@@ -55,11 +55,11 @@ variant: markdown
 | -------- | -------- | -------- | -------- |
 |1 | 26/27/28 Jun| Commencement of the P3 Swimsafer Programme| Please refer to the separate Swimsafer schedule|
 |     | 26 Jun  | Commencement of P3-P6 Higher Mother Tongue Lessons | Every Monday
-|  |26 Jun | Commencement of P6 Remedial Lessons| Every Monday, Wednesday & Friday (2.00pm - 3.30pm)|
+|  |26 Jun | Commencement of P6 Remedial Lessons| Every Monday, Wednesday &amp; Friday (2.00pm - 3.30pm)|
 |  |29 Jun | Hari Raya Haji |Public Holiday|
 | | 30 Jun | Commencement of P3 FLY Programme | Scheduled Fridays, for identified students only
 |2|3 Jul | Youth Day | School Holiday|
-||5 Jul| Attendance & Temperature-Taking Exercise | All students to bring along a working thermometer. |
+||5 Jul| Attendance &amp; Temperature-Taking Exercise | All students to bring along a working thermometer. |
 ||6/7 Jul| P4 Social Studies Learning Journey | During curriculum hours|
 |3|12 Jul | P6 Prelim Oral Day 1|After curriculum hours|
 || 14 Jul | P6 Prelim Oral Day 2|After curriculum hours|
@@ -71,9 +71,9 @@ variant: markdown
 ||16 Aug| PSLE Oral Exams Day 2| P1-P5 students do not need to report to school.|
 ||17 Aug| P3 Gifted Education Programme (GEP) Screening Test| During curriculum hours|
 ||18 Aug| P6 Prelim - EL/FEL Listening Comprehension, MTL/FMTL Listening Comprehension| |
-|9|21 Aug | P6 Prelim - EL/FEL Paper 1 & 2 | |
+|9|21 Aug | P6 Prelim - EL/FEL Paper 1 &amp; 2 | |
 ||22 Aug | P6 Prelim - MA/FMA |
-||23 Aug| P6 Prelim - MTL/FMTL Paper 1 & 2  |
+||23 Aug| P6 Prelim - MTL/FMTL Paper 1 &amp; 2  |
 ||24 Aug| P6 Prelim -SC/FSC  |
 ||25 Aug| P6 Prelim - HMT  |
 |10|31 Aug| Teachers' Day Celebration  | School hours as per normal|
@@ -102,10 +102,10 @@ P6 Supplementary Lessons | 7-8 Sep|
 | | 4-5 May | Mother Tongue Language (MTL) Fortnight|
 ||6 May| P3-P6 Scouts Field Day|
 |8| 8-12 May| Mother Tongue Language (MTL) Fortnight|
-|9| 15-16 May| P5 & P6 NAPFA Test|5 items|
+|9| 15-16 May| P5 &amp; P6 NAPFA Test|5 items|
 ||15-17 May| Mother Tongue Language (MTL) Fortnight|
 ||17 May| Prefects' Summit 2| For all prefects|
-|10| 22-23 May| P5 & P6 NAPFA Test| 1.6km run|
+|10| 22-23 May| P5 &amp; P6 NAPFA Test| 1.6km run|
 ||24/25 May| P5 Learning Journey: Esplanade| During curriculum hours|
 ||25 May | GLEE Fest Finale | During school assembly|
 ||25-26 May | Parent-Child-Teacher Conference (PCTC) | 25/5: 2pm - 4.30pm      26/5: 8am - 3.30pm 
@@ -127,24 +127,24 @@ P3 Mother Tongue Cultural Camp | 23 Jun|
 
 | Week | Date     | Key Events |
 | -------- | -------- | -------- |
-| 2     | 9 Jan     | Commencement of P5 & P6 Mother Tongue Lessons | 
-|||Commencement of SDR & RRP Lessons |
+| 2     | 9 Jan     | Commencement of P5 &amp; P6 Mother Tongue Lessons | 
+|||Commencement of SDR &amp; RRP Lessons |
 ||11 Jan | Attendance and Temperature-Taking Exercise  |
- 3 | 16 Jan | Commencement of P3 & P4 Higher Mother Tongue|
-|||Commencement of P5 & P6 Remedial Lessons |
+ 3 | 16 Jan | Commencement of P3 &amp; P4 Higher Mother Tongue|
+|||Commencement of P5 &amp; P6 Remedial Lessons |
 || 18 Jan| APEX Leadership Training |
 ||19 Jan | Lunar New Year Celebration|
  4| 22-24 Jan | Public Holiday: Lunar New Year |
 ||25 Jan | Commencement of P4 Remedial Lessons|
-|  6 | 10 Feb | P5 & P6 Meet-The-Parents Session |
-| 7 | 14 Feb | P3 Conversational Chinese & Malay (CCM) |
+|  6 | 10 Feb | P5 &amp; P6 Meet-The-Parents Session |
+| 7 | 14 Feb | P3 Conversational Chinese &amp; Malay (CCM) |
 ||15 Feb | P6 Growing Years |
 ||16 Feb | Total Defence Day Commemoration
-|| 17 Feb | P3 & P4 Meet-The-Parents Session | 
-|8 | 24 Feb |  P3 & P4 Meet-The-Parents Session
+|| 17 Feb | P3 &amp; P4 Meet-The-Parents Session | 
+|8 | 24 Feb |  P3 &amp; P4 Meet-The-Parents Session
 | 9 |1 Mar | Prefects' Summit 1 |
 |  10 | 10 Mar | P3 Learning Journey to the Zoo (3 classes) |
-|||P3-P6 Combined Campfire (APEX, CCA Student Leaders & Scouts)|
+|||P3-P6 Combined Campfire (APEX, CCA Student Leaders &amp; Scouts)|
 |-|11-19 Mar| March School Holidays |
 
 
