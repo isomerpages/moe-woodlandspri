@@ -3,15 +3,16 @@ title: Calendar of Events
 permalink: /quick-links/for-parents/calender-of-events/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
-## **TERM 4**
+## **TERM 1**
 
 | Week | Date     | Key Events | Remarks|
 | -------- | -------- | -------- | -------- |
-|1 | 12 Sep| P3 EOY Oral Exams - MTL      P4 EOY Orals - EL| |
-|     | 13 Sep  |P3 EOY Oral Exams - EL      P4 EOY Oral Exams - MTL | 
-|  |15 Sep | PSLE LC| P1-P5 students do not need to report to school|
-| 2 |20 Sep | P5 EOY Oral Exams -MTL | After curriculum hours
+|2 | 8 Jan | Commencement of P5 and P6 Higher Mother Tongue Lessons| Every Monday (2.00pm to 3.00pm) |
+|    | 9 Jan|Commencement of P3 Swimsafer | Every Tuesdays and Wednesdays (11.30am - 2.30pm) | 
+| |10 Jan | Attendance and Temperature-taking Exercise | All students to bring a working thermometer |
+|  |12 Jan | APEX Leadership Training 1 (for selected P5-P6 Apex student leaders only | 2.00pm - 4.00pm
 | | 22 Sep | P5 EOY Oral Exams - EL | After curriculum hours
 |2|3 Jul | Youth Day | School Holiday|
 |3|28 Sep| PSLE English Written Exam |  P3 students do not need to report to school| 
