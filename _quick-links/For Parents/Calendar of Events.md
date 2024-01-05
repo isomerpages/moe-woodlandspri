@@ -19,7 +19,7 @@ variant: markdown
 ||26 Jan| Briefing on P4 Overseas Learning Journey (OLJ) for parents (via Zoom) | More details will be sent to parents closer to the date |
 |5|From 31 Jan | Commencement of P4 Remedial Lessons (for selected students only) | Every Wednesday &amp; Friday (2.00pm - 3.00pm)|
 |6|9 Feb| Chinese New Year Celebration | Students will be dismissed at 10.30am|
-||4 Oct| PSLE Higher Mother Tongue Written Exam  |  |
+||10-12 Feb| PSLE Higher Mother Tongue Written Exam  |  |
 ||| Lower Primary Sports Carnival  |  During curriculum hours|
 ||5 Oct| Children's Day Celebration | Students will be dismissed at 10.30am|
 ||6 Oct| Children's Day  | School Holiday|
