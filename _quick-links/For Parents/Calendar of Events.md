@@ -19,10 +19,10 @@ variant: markdown
 ||26 Jan| Briefing on P4 Overseas Learning Journey (OLJ) for parents (via Zoom) | More details will be sent to parents closer to the date |
 |5|From 31 Jan | Commencement of P4 Remedial Lessons (for selected students only) | Every Wednesday &amp; Friday (2.00pm - 3.00pm)|
 |6|9 Feb| Chinese New Year Celebration | Students will be dismissed at 10.30am|
-||10-12 Feb| PSLE Higher Mother Tongue Written Exam  |  |
-||| Lower Primary Sports Carnival  |  During curriculum hours|
-||5 Oct| Children's Day Celebration | Students will be dismissed at 10.30am|
-||6 Oct| Children's Day  | School Holiday|
+||10-12 Feb| Chinese New Year Public Holiday | Students to report back to school on 14 Feb |
+|7|13 Feb| School Holiday  |In lieu of Chinese New Year |
+||15 Feb| Children's Day Celebration | Students will be dismissed at 10.30am |
+||6 Oct| Children's Day  | School Holiday |
 |5|9-11 Oct | P5 Camp 2023 @ CCOALC|School hours as per normal for P1-P4 and P6 students|
 |6| 16-18 Oct |PSLE Marking Exercise|All students do not need to report to school. For selected students involved in school activities during this period, details will be issued by the respective teachers-in-charge.
 | | 17-18 Oct| P3 GEP Selection Exercise|Only for shortlisted P3 students
