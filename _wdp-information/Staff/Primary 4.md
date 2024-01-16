@@ -12,7 +12,7 @@ variant: markdown
 | Class | Form Teachers |  |  |
 |---|---|---|---|
 | Adaptability 1 | Mdm Khairunnadiah Binte Razali | Ms Lee Sor Luan |  
-| Adaptability 2 | Mr Derek Khor | Mdm Gwen Yeo | Mdm Chiam  
+| Adaptability 2 | Mr Derek Khor | Mdm Gwen Yeo |
 | Adaptability 3 | Mrs Amy Soh | Mr Timothy Kwok | 
 | Adaptability 4 | Mdm Hairani Bte Sani | Mdm Nur Sabrina Bte Wahid | Ms Low Lee Ling |
 | Adaptability 5 | Ms Chaman Kaur Sandhu | Mrs Elle Tan |  
