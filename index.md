@@ -8,18 +8,18 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Prefect's Investiture 2024
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid02FyCGixESzESPMMMEDa4T9Fa6UVe5nAAfTwkiaupJq6twUWJhgyJ8s1NFLuSMU8ikl
+        - title: Primary 1 First Day
+          description: ""
+          url: ""
         - title: Prize Giving Day 2023
           description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid0xi2Ejsh59WPRog4ox4g36aq9qUupnNGUZsGMPLULFwKZDFQ4xET7nPD6ufj6eafBl
+          url: https://www.facebook.com/woodlandspri/posts/pfbid02AhqtQHzbGHAfTsM7dLCManeJerfd6C4zmtNGRyVgrT1aArhGha1GVzMeFzQsW6u1l
         - title: P5 CAMP
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid0YN2A6QuHEtEFauKNqcmugq3SEePyeddySnQnNvuo6GfHN4My3w5tAQ4dHnrti3xXl
-        - title: CHILDREN'S DAY CELEBRATION
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid02M5ddRZzTBS9yCLVeCtM1rBtBtLYY9e27HSaGR6bNbVKDnmGV2HD5EETmz65Tkb1zl
-        - title: Teachers' Day Celebration
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid027CWvEq5i6NoBzWXGzEftQ5LGsV2oLGkaYKr2yUqbNanArpJKw7Ee5LQ4L8XoqisPl
       background: /images/Homepage Banners/homepage_20231123.jpg
       variant: image
   - infobar:
