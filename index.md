@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Lunar New year Celebration 2024
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid02hXweEkU4eztMvKo7M4ycJgWiQyrk41MhWYz27S4tifMm7VcvQvnrVweBk9pRx5uzl
         - title: Prefect's Investiture 2024
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02FyCGixESzESPMMMEDa4T9Fa6UVe5nAAfTwkiaupJq6twUWJhgyJ8s1NFLuSMU8ikl
@@ -17,9 +20,6 @@ sections:
         - title: Prize Giving Day 2023
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02AhqtQHzbGHAfTsM7dLCManeJerfd6C4zmtNGRyVgrT1aArhGha1GVzMeFzQsW6u1l
-        - title: P5 CAMP
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid0YN2A6QuHEtEFauKNqcmugq3SEePyeddySnQnNvuo6GfHN4My3w5tAQ4dHnrti3xXl
       background: /images/Homepage Banners/homepage_20231123.jpg
       variant: image
   - infobar:
