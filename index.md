@@ -8,16 +8,16 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Lunar New year Celebration 2024
+        - title: Total Defence Day Commemoration
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid028pxx6avJ5HxXY4tai7YgvaZ9e7WxqJ3FGKnqu6uctNV635Svknth1QffXKGHEocyl
+        - title: "Lunar New year Celebration "
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02hXweEkU4eztMvKo7M4ycJgWiQyrk41MhWYz27S4tifMm7VcvQvnrVweBk9pRx5uzl
-        - title: Prefect's Investiture 2024
+        - title: "Prefect's Investiture "
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02FyCGixESzESPMMMEDa4T9Fa6UVe5nAAfTwkiaupJq6twUWJhgyJ8s1NFLuSMU8ikl
         - title: Primary 1 First Day
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid02AhqtQHzbGHAfTsM7dLCManeJerfd6C4zmtNGRyVgrT1aArhGha1GVzMeFzQsW6u1l
-        - title: Prize Giving Day 2023
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02AhqtQHzbGHAfTsM7dLCManeJerfd6C4zmtNGRyVgrT1aArhGha1GVzMeFzQsW6u1l
       background: /images/LNY_2024.jpg
