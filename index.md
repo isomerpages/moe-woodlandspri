@@ -22,11 +22,6 @@ sections:
           url: https://www.facebook.com/woodlandspri/posts/pfbid02AhqtQHzbGHAfTsM7dLCManeJerfd6C4zmtNGRyVgrT1aArhGha1GVzMeFzQsW6u1l
       background: /images/LNY_2024.jpg
       variant: image
-  - infobar:
-      title: P1-P6 Booklists and School Uniform Sales Dates
-      id: infobar
-      button: Click to View
-      url: /quick-links/for-parents/booklist-and-uniform/
   - infopic:
       title: Rhythm in the Woods
       id: infopic
