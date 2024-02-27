@@ -2,10 +2,11 @@
 title: Principal's Message
 permalink: /wdp-information/principals-message/
 description: ""
+variant: markdown
 ---
 ### **Principal's Message**
 
-<img src="/images/principal.jpg" style="width:25%;margin-right:15px;" align = "left"><b></b>**“Every student can learn, just not on the same day or in the same way.” – George Evans**
+<img src="/images/WhatsApp_Image_2024_02_27_at_1_56_28_PM.jpg" style="width:25%;margin-right:15px;" align="left"><b></b>**“Every student can learn, just not on the same day or in the same way.” – George Evans**
 
 Indeed, here in Woodlands Primary School (WDP), we believe that every child wants to and can learn. This belief places our pupils at the heart of our educational decisions, which in turn guide the design and implementation of our school curriculum to cater to pupils’ diverse strengths, aspirations and needs.
 
