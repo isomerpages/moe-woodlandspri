@@ -11,7 +11,7 @@ variant: markdown
 <div align="center">
 <br>
 <strong>Principal</strong>
-<img src="/images/principal1.jpg" style="width: 150px">
+<img src="/images/WhatsApp_Image_2024_02_27_at_1_56_28_PM.jpg" style="width: 150px">
 <br>
 Mrs Lillian Chen
 <br>
