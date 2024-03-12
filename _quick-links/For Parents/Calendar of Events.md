@@ -5,6 +5,32 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
+## **TERM 2**
+
+| Week | Date     | Key Events | Remarks|
+| -------- | -------- | -------- | -------- |
+|1 | 19 Mar |Commencement of P3 Conversational Chinese &amp; Malay (CCM)| Every Tuesday (2.00pm to 3.00pm) <br>8 sessions till 14 May|
+| 2  | 29 Mar|Good Friday | Public Holiday | 
+| 4 |9 Apr | Eve of Hari Raya Puasa | Early dismissal for Muslim students at 10.00am |
+|  |10 Apr | Hari Raya Puasa | Public Holiday|
+|5 | 15-19 Apr | Health Fair &amp; Eye Care Week | 
+|7|1 May| Labour Day  | Public Holiday |
+|8-9|6-14 May| School Health Screening (P1-P6) | During curriculum hours. Classes will be scheduled over the duration. | 
+||6-16 May<br><br>16 May|GLEE Fest Recess Activities <br><br> GLEE Fest Finale | During curriculum hours |
+|9|17 May | Prefects' Summit 2 | For all Prefects|
+|10|22 May| Vesak Day | Public Holiday|
+||23-24 May| P1 - P6 Parent-Child-Teacher Conference (PCTC) | For all P1-P6 students<br>23 May: 2.00pm - 4.30pm<br>24 May: 8.00am - 3.30pm  |
+
+| June Holiday Programmes | Date  |Remarks |
+| -------- | -------- | -------- |
+|P3 MT Cultural Camp | 27 May| For all P3 students |
+| P4 Reporters Programme (part of the school's Applied Learning Programme)|27-28 May | For selected P4 students |
+|P4 Leadership Fiesta| 29 May | For all P4 students|
+|Hari Raya Haji | 17 Jun | Public Holiday|
+|P6 Learning Journey to Sungei Buloh | 18 Jun | |
+|P4 Art Learning Journey | 18-19 Jun | Classes will be scheduled over the 2 days |
+| P6 Supplementary Lessons | 19-20 Jun| More details will be shared closer to the date|
+
 ## **TERM 1**
 
 | Week | Date     | Key Events | Remarks|
@@ -37,5 +63,3 @@ variant: markdown
 | -------- | -------- | 
 |Choir Exchange Programme | 14 Mar|
 | P5 Reporter Programme (part of school's Applied Learning Programme) <br><br>P6 Supplementary Lessons| 14-15 Mar
-
-
