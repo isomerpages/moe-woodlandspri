@@ -19,7 +19,8 @@ variant: markdown
 ||6-16 May<br><br>16 May|GLEE Fest Recess Activities <br><br> GLEE Fest Finale | During curriculum hours |
 |9|17 May | Prefects' Summit 2 | For all Prefects|
 |10|22 May| Vesak Day | Public Holiday|
-||23-24 May| P1 - P6 Parent-Child-Teacher Conference (PCTC) | For all P1-P6 students<br>23 May: 2.00pm - 4.30pm<br>24 May: 8.00am - 3.30pm  |
+||23 May| P1 - P6 Parent-Child-Teacher Conference (PCTC) Day 1 | 2.00pm - 4.30pm |
+||24 May | P1 - P6 Parent-Child-Teacher Conference (PCTC) Day 2|8.00am - 3.30pm  |
 
 | June Holiday Programmes | Date  |Remarks |
 | -------- | -------- | -------- |
