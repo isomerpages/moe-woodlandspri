@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Primary 4 OLJ to Johor Bahru
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid0mh6W3AVKzdYJXS9WzPBfT6bMd8G6mqwcBgFnfazpcnNWNkTsHGFzih5ZcChJge2ol
         - title: Total Defence Day Commemoration
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid028pxx6avJ5HxXY4tai7YgvaZ9e7WxqJ3FGKnqu6uctNV635Svknth1QffXKGHEocyl
@@ -17,9 +20,6 @@ sections:
         - title: Prefect's Investiture
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02FyCGixESzESPMMMEDa4T9Fa6UVe5nAAfTwkiaupJq6twUWJhgyJ8s1NFLuSMU8ikl
-        - title: Primary 1 First Day
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid02AhqtQHzbGHAfTsM7dLCManeJerfd6C4zmtNGRyVgrT1aArhGha1GVzMeFzQsW6u1l
       background: /images/LNY_2024.jpg
       variant: image
   - infopic:
