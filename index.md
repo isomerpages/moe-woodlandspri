@@ -8,18 +8,18 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: OARS Award & Raffles Scholarship
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid02c7Zd8apESvxnX4sPNUAy8jq5NUfQQfWW9edcvqW9Xhh5qgkR5SZ9DMTcVBM9D88Vl
+        - title: "NSG: Volleyball Woodlands ACE!"
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid0293T2YpzRGxLUFhBPFwWkh5uugXUGjeVAFvop4cQXYrVMxiaf97m51USGwFn7cgAAl
+        - title: Mural Launch on Overhead Bridge
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid025HMdes9PUwVp2bzdDhE4kCviJXtMpsd1peZUKBR9t55AeE4AauMthYqeECTNVhAtl
         - title: Primary 4 OLJ to Johor Bahru
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid0mh6W3AVKzdYJXS9WzPBfT6bMd8G6mqwcBgFnfazpcnNWNkTsHGFzih5ZcChJge2ol
-        - title: Total Defence Day Commemoration
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid028pxx6avJ5HxXY4tai7YgvaZ9e7WxqJ3FGKnqu6uctNV635Svknth1QffXKGHEocyl
-        - title: Lunar New year Celebration
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid02hXweEkU4eztMvKo7M4ycJgWiQyrk41MhWYz27S4tifMm7VcvQvnrVweBk9pRx5uzl
-        - title: Prefect's Investiture
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid02FyCGixESzESPMMMEDa4T9Fa6UVe5nAAfTwkiaupJq6twUWJhgyJ8s1NFLuSMU8ikl
       background: /images/LNY_2024.jpg
       variant: image
   - infopic:
