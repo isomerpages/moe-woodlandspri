@@ -20,7 +20,7 @@ sections:
         - title: Primary 4 OLJ to Johor Bahru
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid0mh6W3AVKzdYJXS9WzPBfT6bMd8G6mqwcBgFnfazpcnNWNkTsHGFzih5ZcChJge2ol
-      background: /images/LNY_2024.jpg
+      background: /images/Banner2.jpg
       variant: image
   - infopic:
       title: Rhythm in the Woods
