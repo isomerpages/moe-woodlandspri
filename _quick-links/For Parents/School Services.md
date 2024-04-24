@@ -3,6 +3,7 @@ title: School Services
 permalink: /quick-links/for-parents/school-services/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 ### **School Services**
 #### **1\. Transportation**
@@ -26,14 +27,13 @@ Operating Hours: 8.30 am to 3.00 pm (Monday)<br>
 Operating Hours: 8.30 am to 4.00 pm (Tuesday to Friday)
 
 #### **3\. School Uniform**
-**Company: Sowell Garment Pte Ltd (Co Regn: 198302123N)**
+**Company: Asencio Pte Ltd**
 
-Address: 80 Playfair Road #01-14 Kapo Factory Building S367998<br>
-Tel : 86183083 &nbsp;<br>
-Open Weekdays : Mon - Fri<br>
-Time : 10am to 4pm.<br>
-Lunch hour : 12.30pm to 1.30pm<br>
-Closed : Public Holidays, Christmas Eve and&nbsp;New&nbsp;Year's&nbsp;Eve<br>
+**Address:** 120 Hillview Avenue #05-02 Kewalram Hillview S669594<br>
+**Tel :** 6764 3102 (Weekdays: 9.00 am to 6.00 pm)<br>
+**Operating Hours:** <br>Mon - Fri (9.00 am - 5.00 pm)<br> Sat (9.00am to 1.00 pm)<br>
+**Lunch hour:**  12.00 noon to 1.30pm<br>
+Closed on Sundays, Public Holidays, Eve of Public Holidays (Chinese New Year Eve, Christmas Eve and New Year Eve)<br>
 
 Note: School uniforms can also be purchased from School Bookshop.
 
