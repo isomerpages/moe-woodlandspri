@@ -18,7 +18,6 @@ variant: markdown
 
 |  |  |
 |---|---|
-| **Senior Teacher – English Language** | Mrs Lim-Guek Swee Ee |
 | **Senior Teacher – Mathematics** | Mdm Nazerah Bte Mohamed |
 | **Senior Teacher – Science** | Mdm Lee Soon Hong |
 | **Senior Teacher – Chinese Language** | Ms Chung Choon Boey
