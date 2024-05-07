@@ -186,7 +186,7 @@ sex, and make wise, informed and responsible decisions on sexuality matters.</p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keeping Myself Safe
+<p>The Changes in Me
 <br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -207,14 +207,17 @@ so that the students will feel more comfortable during the discussions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keeping Myself Safe
+<p>Did You Know?
 <br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In this lesson, students will learn about sexual abuse, how it can happen
-during online and offline interactions and the impact of such abuse on
-victims. They also learn how to take precautionary measures to be safe
-and how to seek help for themselves and their friends.</p>
+<p>This lesson focuses on helping students know what pornography is and how
+it can affect themselves and others. Students will learn about the dangers
+of being exposed to sexually explicit materials and reject the viewing
+and/or reading of pornographic materials. They will learn to evaluate their
+own responses when they encounter pornography by applying the strategy
+‘<strong>Stop-Think-Do’.</strong>
+</p>
 <p>This lesson is conducted separately for boys and girls in different classrooms,
 so that the students will feel more comfortable during the discussions.</p>
 </td>
@@ -227,17 +230,14 @@ so that the students will feel more comfortable during the discussions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Did You Know?
+<p>Keeping Myself Safe
 <br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students know what pornography is and how
-it can affect themselves and others. Students will learn about the dangers
-of being exposed to sexually explicit materials and reject the viewing
-and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy
-‘<strong>Stop-Think-Do’.</strong>
-</p>
+<p>In this lesson, students will learn about sexual abuse, how it can happen
+during online and offline interactions and the impact of such abuse on
+victims. They also learn how to take precautionary measures to be safe
+and how to seek help for themselves and their friends.</p>
 <p>This lesson is conducted separately for boys and girls in different classrooms,
 so that the students will feel more comfortable during the discussions.</p>
 </td>
