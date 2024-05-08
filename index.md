@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: "Performing Arts Achievement @ SYF 2024 "
+        - title: Performing Arts Achievement @ SYF 2024
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid0mc6xdZxuckfehyo2c9k3B6pzuEj4ywYFXBMRDi9wd4F1TezjRwezSosLeF9rx7VMl
         - title: OARS Award & Raffles Scholarship 2024
