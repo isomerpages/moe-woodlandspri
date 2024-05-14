@@ -2,10 +2,11 @@
 title: History
 permalink: /wdp-information/history/
 description: ""
+variant: markdown
 ---
 ### **WDP History**
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSrvJPs_Z0UJD0PWNxz4GYRrVyCNGcDX-y-2l1Y1YPRyTT63hGg7u3E35T7vHPEl_Z3QibrCak9Tp7d/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSEWT0FT4Hth1GZK-KG7Vo4ngofvjBDg5K_cq9pH9lO8DqRQt3YomsUq9nHeNU-1gYwZOCWGb3yIjtT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Do you know that Woodlands Primary School originated from Sungei Kadut School? It was built in the midst of a kampong setting in 1953 under the Frisby Five-Year Plan. That school had served the people of Sungei Kadut, Mandai, Kranji, Marsiling, Woodlands and even Johor Bahru for 22 years. During the 22 years of its existence, its student population was about 600. In fact, no one would ever dream of seeing a Government English School situated on a hillock.
 
@@ -20,4 +21,3 @@ As more space and better facilities were needed, WDP was relocated to Woodlands 
 Under PRIME, Woodlands Primary School shifted to this present site in Woodlands Drive 50 on Nov/Dec 2003.
 
 With better facilities, more space, dedicated teachers and outstanding principals, the school was able to keep pace with the rapid changes in education today and meet many challenges. It continues to produce outstanding pupils who do well in the PSLE and CCA. Woodlands Primary School will continue to strive in bringing out the greatest potential in its pupils.
-
