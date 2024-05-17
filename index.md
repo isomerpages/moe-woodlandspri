@@ -23,9 +23,10 @@ sections:
       background: /images/Banner2.jpg
       variant: image
   - infopic:
-      title: Rhythm in the Woods
+      title: Joint Advisory Mid-Year School Holidays
       id: infopic
-      description: The latest issue of our newsletter is now available.
+      description: View the Joint Advisory for mid-year school holidays. Stay safe by
+        following these tips.
       button: Click to read!
       url: https://www.woodlandspri.moe.edu.sg/files/News%20Letters/newsletter_2023_1.pdf
       image: /images/Sections2.png
