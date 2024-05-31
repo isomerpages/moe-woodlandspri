@@ -15,7 +15,7 @@ variant: markdown
  </figcaption>
 </figure>
 
-[Click to download](/files/News%20Letters/newsletter_2024_1.pdf)
+[Click to download](/files/News%20Letters/newsletter_2024_1.pdf) | [View it on Canva](https://www.canva.com/design/DAF-hBCuC9s/c8TPh62oDpNiuC8v2T8AMQ/view?utm_content=DAF-hBCuC9s&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor#3)
 
 ---------------------------------------------------------------------------
 
