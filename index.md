@@ -23,6 +23,16 @@ sections:
       background: /images/Banner2.jpg
       variant: image
   - infopic:
+      title: Rhythm in the Woods 2024 Issue 1
+      subtitle: Add an image and text
+      id: infopic
+      description: The latest issue of our school newsletter, Rhythm in the Woods, is
+        ready for viewing.
+      button: Start Reading
+      url: https://www.woodlandspri.moe.edu.sg/curriculum/languages-math-and-science/english/newsletters/
+      image: /images/News Letters/newsletter_2024_1.jpg
+      alt: Image alt text
+  - infopic:
       title: Joint Advisory Mid-Year School Holidays
       id: infopic
       description: View the Joint Advisory for mid-year school holidays. Stay safe by
