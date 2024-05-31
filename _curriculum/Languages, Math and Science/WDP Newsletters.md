@@ -3,9 +3,21 @@ title: WDP Newsletters
 permalink: /curriculum/languages-math-and-science/english/newsletters/
 description: ""
 third_nav_title: Languages, Math and Science
+variant: markdown
 ---
 ### **WDP Newsletters**
 
+
+
+<figure>
+<img src="/images/News Letters/newsletter_2024_1.jpg" style="width:65%">
+	<figcaption> <br> Rhythm in the Woods<br> 2024 Issue No. 1 
+ </figcaption>
+</figure>
+
+[Click to download](/files/News%20Letters/newsletter_2024_1.pdf)
+
+---------------------------------------------------------------------------
 
 
 
