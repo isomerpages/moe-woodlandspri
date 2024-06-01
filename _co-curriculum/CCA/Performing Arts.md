@@ -3,6 +3,7 @@ title: Performing Arts
 permalink: /co-curriculum/cca/performing-arts/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 ### **Performing Arts**
 
@@ -10,15 +11,13 @@ third_nav_title: CCA
 
 Priding ourselves as an established and fine choir with an excellent track record, the Woodlands Primary School Choir has the hard work and dedication put in by the choristers, teachers, and instructors through the decades to thank for. We frequently celebrate the achievements and successes of our choristers, who are between the ages of 8 to 12.&nbsp;
 
-  
+  ![](/images/choir2.jpg)
+
 
 In Woodlands Primary, we envision every chorister to be a confident and gracious singer, who possesses the discipline and zest to achieve excellence in his or her musical pursuit. We hope to develop in all our choristers the skills and knowledge for continuous learning, so they will continue to enjoy musical and artistic pursuits in the future.
 
+![](/images/choir.jpg)
 
-
-<img src="/images/perfarts1.jpg" style="width:85%">
-
-<img src="/images/perfarts2.jpg" style="width:85%">
 
 #### **Handbells and Handchimes Ensemble**
 
