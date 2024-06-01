@@ -8,18 +8,18 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: GLEE Fest 2024!
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid0mvgb4nNv9RHVycN7wPRMbjuK976v6BWTJrc6z5nfdETCKpvqzGc6daq1x56yVWEBl
+        - title: 2024 Youth Innovation & STEM Sprint
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid02WBMjCedYm5mfcThiLdvJeRefT54xuDFiFXte5T8WqtYPp13zDJeTKYA2Xikz4VrDl
         - title: Performing Arts Achievement @ SYF 2024
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid0mc6xdZxuckfehyo2c9k3B6pzuEj4ywYFXBMRDi9wd4F1TezjRwezSosLeF9rx7VMl
         - title: OARS Award & Raffles Scholarship 2024
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid02c7Zd8apESvxnX4sPNUAy8jq5NUfQQfWW9edcvqW9Xhh5qgkR5SZ9DMTcVBM9D88Vl
-        - title: "NSG 2024: Volleyball Woodlands ACE!"
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid0293T2YpzRGxLUFhBPFwWkh5uugXUGjeVAFvop4cQXYrVMxiaf97m51USGwFn7cgAAl
-        - title: Mural Launch on Overhead Bridge
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid025HMdes9PUwVp2bzdDhE4kCviJXtMpsd1peZUKBR9t55AeE4AauMthYqeECTNVhAtl
       background: /images/Banner2.jpg
       variant: image
   - infopic:
