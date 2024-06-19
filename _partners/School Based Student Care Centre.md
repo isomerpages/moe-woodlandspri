@@ -24,10 +24,6 @@ variant: markdown
 
 [Online Registration Form](https://form.gov.sg/66278c512d516563cd16c75a)
 
-[Application Form for P1 (2024)](https://woodlandspri.moe.edu.sg/files/SCC/2%20application%20form%202024_p1.pdf)
-
-[Application Form for P2-P6 (2024)](https://woodlandspri.moe.edu.sg/files/SCC/3%20application%20form%202024_p2-p6.pdf)
-
 
 
 #### **Commit Learning School House Profile Description**
