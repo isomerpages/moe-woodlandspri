@@ -16,7 +16,7 @@ variant: markdown
 | 4 |17 Jul | P6 Prelim Oral Day 1 |After curriculum hours|
 |  |18 Jul | Racial Harmony Day commemoration | Students can come to school in ethnic attires and school shoes.|
 || 19 Jul | P6 Prelim Oral Day 2 | After curriculum hours |
-|5| 24/26 Jul| P4 Social Studies Learning Journey to Kreta Ayer Heritage Gallery| During curriculum hours. Each P1 class will be scheduled to attend the LJ on one of the two days.|
+|5| 24/26 Jul| P4 Social Studies Learning Journey to Kreta Ayer Heritage Gallery| During curriculum hours. Each P4 class will be scheduled to attend the LJ on one of the two days.|
 |6|31 Jul| P4-P6 Student Leaders' Summit 3| For all P4-P6 student leaders, after curriculum hours|
 |7| 8 Aug| National Day Celebration| Students will be dismissed at 10.30am|
 | | 9 Aug | National Day | Public Holiday|
