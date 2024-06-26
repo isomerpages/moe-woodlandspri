@@ -5,6 +5,40 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
+## **TERM 3**
+
+| Week | Date     | Key Events | Remarks|
+| -------- | -------- | -------- | -------- |
+|1 | 26-28 Jun |P5 Overseas Learning Journey to Danang, Vietnam| For selected P5 students only|
+| 2  | 1 Jul|Youth Day | School Holiday | 
+| | 2-11 Jul| Mother Tongue Language Fortnight Activities|During curriculum hours|
+| | 3 Jul|Attendance &amp; Temperature-taking Exercise (Semester 2) | All students to bring along a working thermometer |
+| 4 |17 Jul | P6 Prelim Oral Day 1 |After curriculum hours|
+|  |18 Jul | Racial Harmony Day commemoration | Students can come to school in ethnic attires and school shoes.|
+|| 19 Jul | P6 Prelim Oral Day 2 | After curriculum hours |
+|5| 24/26 Jul| P4 Social Studies Learning Journey to Kreta Ayer Heritage Gallery| During curriculum hours. Each P1 class will be scheduled to attend the LJ on one of the two days.|
+|6|31 Jul| P4-P6 Student Leaders' Summit 3| For all P4-P6 student leaders, after curriculum hours|
+|7| 8 Aug| National Day Celebration| Students will be dismissed at 10.30am|
+| | 9 Aug | National Day | Public Holiday|
+|8| 13 -14 Aug| PSLE Oral Exams | P1 - P5 students do not need to report to school.|
+|| 15 Aug| P3 Gifted Education Programme (GEP) Screening Exercise| For all P3 students, during curriculum hours.|
+||16 Aug| P6 Prelim Listening Comprehension (LC) - EL/FEL &amp; MTL/FMTL) | During curriculum hours|
+|9|19-21 Aug| P5 3D2N Camp 2024 @ CCOALC| |
+||19 Aug | P1 Home-Based Learning (HBL) | Only P1 students do not need to report to school on this day.
+||20-21 Aug|P2 Home-Based Learning (HBL)| Only P2 students do not need to report to school on these 2 days. |
+|| 19 Aug| P6 Prelim - EL/FEL Paper 1 &amp; 2||
+||20 Aug | P6 Prelim - MA/FMA ||
+||21 Aug| P6 Prelim MTL/FMTL||
+||22 Aug|P6 SC/FSC||
+||23 Aug| P6 Prelim HMT Paper 1 &amp; 2||
+|10| 29 Aug| Teacher's Day Celebration| Students will be dismissed at 10.30am |
+||30 Aug| Teacher's Day| School Holiday|
+
+| September Holiday Programmes | Date  |Remarks |
+| -------- | -------- | -------- |
+|P6 Supplementary Classes | 5-6 Sep|  |
+
+
 ## **TERM 2**
 
 | Week | Date     | Key Events | Remarks|
