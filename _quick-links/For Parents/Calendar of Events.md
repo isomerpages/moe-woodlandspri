@@ -5,6 +5,31 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
+## **TERM 3**
+
+| Week | Date     | Key Events | Remarks|
+| -------- | -------- | -------- | -------- |
+|1 | 26-28 Jun |P5 Overseas Learning Journey to Danang, Vietnam| For selected P5 students only|
+| 2  | 1 Jul|Youth Day | School Holiday | 
+| | 2-11 Jul| Mother Tongue Language Fortnight Activities|During curriculum hours|
+| | 3 Jul|Attendance &amp; Temperature-taking Exercise (Semester 2) | All students to bring along a working thermometer |
+| 4 |17 Jul | P6 Prelim Oral Day 1 |After curriculum hours|
+|  |18 Jul | Racial Harmony Day commemoration | Students can come to school in ethnic attires and school shoes.|
+|| 19 Jul | P6 Prelim Oral Day 2 | After curriculum hours |
+|5| 24/26 Jul| P4 Social Studies Learning Journey to Kreta Ayer Heritage Gallery| During curriculum hours. Each P1 class will be scheduled to attend the LJ on one of the two days.|
+||31 Jul| P4-P6 Student Leaders' Summit 3| For all P4-P6 student leaders, after curriculum hours|
+
+| June Holiday Programmes | Date  |Remarks |
+| -------- | -------- | -------- |
+|P3 MT Cultural Camp | 27 May| For all P3 students |
+| P4 Reporters Programme (part of the school's Applied Learning Programme)|27-28 May | For selected P4 students |
+|P4 Leadership Fiesta| 29 May | For all P4 students|
+|Hari Raya Haji | 17 Jun | Public Holiday|
+|P6 Learning Journey to Sungei Buloh | 18 Jun | |
+|P4 Art Learning Journey | 18-19 Jun | Classes will be scheduled over the 2 days |
+| P6 Supplementary Lessons | 19-20 Jun| More details will be shared closer to the date|
+
+
 ## **TERM 2**
 
 | Week | Date     | Key Events | Remarks|
