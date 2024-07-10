@@ -18,7 +18,37 @@ Procedure below.</p>
 <p><strong>Service Requirements</strong>
 </p>
 <p></p>
-<p></p>
 <p><strong>Application Procedure</strong>
 </p>
 <p>1. Complete the</p>
+<p>2. Submit the completed Call for Proposal – Annex A by closing date, 22
+July 2024, to the School’s General Office.</p>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: 10 Woodlands Drive 50 Singapore 738853</p>
+</li>
+<li>
+<p>Contact No: 6269 7410</p>
+</li>
+<li>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">wdp@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>Contact Person: Ms Teo Hsiao Ying</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>How to get there?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nearest MRT: Woodlands MRT (NS9) Walking 7 mins from Exit C</p>
+</li>
+<li>
+<p>Bus number: Bus 912 Walking 1 mins from bus stop B46669</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p></p>
