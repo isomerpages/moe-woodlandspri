@@ -24,20 +24,20 @@ Procedure below.</p>
 <p></p>
 <p><strong>Service Requirements</strong>
 </p>
+<p>(Click on the link to download the files)</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Call for Proposals
+<p><a href="/files/School Bus Advertisement 2024/Call_for_Proposals__For_Group_Service_in_Woodlands_Region_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposals</a>
 <br>
 </p>
 </li>
 <li>
-<p>Terms and Conditions for School
+<p><a href="/files/School Bus Advertisement 2024/Terms_and_Conditions_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Group_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School</a>
 <br>
 </p>
 </li>
 <li>
-<p>Request for School Bus Service and T&amp;C Governing the Request for Services
-(For Group Service)
+<p><a href="/files/School Bus Advertisement 2024/Terms_and_Conditions_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Group_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Service and Governing T&amp;C</a>
 <br>
 </p>
 </li>
@@ -46,7 +46,7 @@ Procedure below.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the Call for Proposal - Annex A.
+<p>Complete the <a href="/files/School Bus Advertisement 2024/Call_for_Proposal___Annex_A__Information_Required_from_Vendor_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A.</a>
 <br>
 </p>
 </li>
