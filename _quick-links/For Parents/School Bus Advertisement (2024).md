@@ -51,8 +51,8 @@ Procedure below.</p>
 </p>
 </li>
 <li>
-<p>Submit the completed Call for Proposal – Annex A by closing date, 22 July
-2024, to the School’s General Office.</p>
+<p>Submit the completed Call for Proposal – Annex A by closing date, <strong>1pm 22 July 2024</strong>,
+to the School’s General Office.</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
