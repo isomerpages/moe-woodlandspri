@@ -27,7 +27,10 @@ Procedure below.</p>
 <p>(Click on the link to download the files)</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/School Bus Advertisement 2024/Call_for_Proposals__For_Group_Service_in_Woodlands_Region_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposals</a>
+<p><a href="/files/School Bus Advertisement 2024/Call_for_Proposals__For_Group_Service_in_Woodlands_Region__updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposals</a>
+<br>*Update: Please note that the closing date for the submission of proposals
+indicated in Clauses 1.4 and 6.1 in the Call for Proposal have been amended
+to 29 July 2024.
 <br>
 </p>
 </li>
@@ -51,8 +54,17 @@ Procedure below.</p>
 </p>
 </li>
 <li>
-<p>Submit the completed Call for Proposal – Annex A by closing date, <strong>1pm 22 July 2024</strong>,
-to the School’s General Office.</p>
+<p>Bus vendors may use the following historical data when drafting your proposals.
+Please note that this data is intended as a reference guide only and is
+subject to change.</p>
+<p><a href="/files/School Bus Advertisement 2024/Additional_info___Historical_Bus_Data_for_Group_School_Bus_Service__Woodlands_Region_.pdf" rel="noopener noreferrer nofollow" target="_blank">Additional Info - Historical Bus Data for Group School Bus Service (Woodlands Region)</a>
+<br>
+</p>
+</li>
+<li>
+<p>Submit the completed Call for Proposal – Annex A by closing date, which
+has been extended to <strong>5pm 29 July 2024</strong>, to the School’s
+General Office.</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
