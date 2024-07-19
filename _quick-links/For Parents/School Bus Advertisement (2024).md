@@ -27,7 +27,8 @@ Procedure below.</p>
 <p>(Click on the link to download the files)</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/School Bus Advertisement 2024/Call_for_Proposals__For_Group_Service_in_Woodlands_Region_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposals</a>
+<p><a href="/files/School Bus Advertisement 2024/Call_for_Proposals__For_Group_Service_in_Woodlands_Region_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Propo</a>
+<a href="/files/School Bus Advertisement 2024/Call_for_Proposals__For_Group_Service_in_Woodlands_Region__updated.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/School Bus Advertisement 2024/Call_for_Proposals__For_Group_Service_in_Woodlands_Region_.pdf" rel="noopener noreferrer nofollow" target="_blank">sals</a>
 <br>*Update: Please note that the closing date for the submission of proposals
 indicated in Clauses 1.4 and 6.1 in the Call for Proposal have been amended
 to 29 July 2024.
