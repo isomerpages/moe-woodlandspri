@@ -23,6 +23,8 @@ variant: markdown
 
 
 [Online Registration Form](https://form.gov.sg/66278c512d516563cd16c75a)
+<br>Applications for Primary 1 (2025) pupils will open from **October 15, 2024, to November 8, 2024.**
+
 
 
 
