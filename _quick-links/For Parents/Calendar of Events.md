@@ -5,6 +5,43 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
+## **TERM 4**
+
+| Week | Date     | Key Events | Remarks|
+| -------- | -------- | -------- | -------- |
+|1 | 11 Sep |P5 EOY Oral Exams (MTL) | |
+|  | 13 Sep|PSLE Listening Comprehension| P1-P5 students do not need to report to school | 
+|2| 18 Sep| P3 EOY Oral Exams - MTL <br>P4 EOY Oral Exams - EL||
+| | 19 Sep|P3 EOY Oral Exams - EL <br> P4 EOY Oral Exams - MTL ||
+| |20 Sep | P5 EOY Oral Exams - EL/FEL|After curriculum hours|
+|3|23-24 Sep| P1 Social Studies LJ to Kampung Admiralty |During curriculum hours. Each P1 class will be scheduled to attend the LJ on one of the two days.|
+|3|26-27 Sep|P3 Home-Based Learning (HBL)|Only P3 students do not need to report to school on these two days.|
+|4|30 Sep-1 Oct|P4 Home-Based Learning (HBL)|Only P4 students do not need to report to school on these two days.
+|3-4|26 Sep-2 Oct |PSLE Written Exams||
+|4| 2 Oct|Lower Primary Sports Carnival| During curriculum hours|
+||3 Oct|Children's Day Celebration|Students will be dismissed at 10.30am|
+||4 Oct|Children's Day|School Holiday|
+|5|8 Oct|EOY Exams (P3-P5) - EL LC <br> EOY Exams (P3-P5) - MTL Paper 1 <br>||
+||9 Oct|EOY Exams (P3-P5) MTL LC <br> EOY Exams (P3-P5) - EL Paper 1||
+|6|14-16 Oct|PSLE Marking Exercise|All students do not need to report to school|
+||15-16 Oct|P2 Social Studies LJ to National Orchid Garden| During curriculum hours. Each P2 class will be scheduled to attend the LJ on one of the two days.|
+||| P3 GEP Selection Exercise|Only for shortlisted P3 students|
+||18 Oct| EOY Exams (P5) - HMT||
+|7|21 Oct|EOY Exams (P3-P5) - EL Paper 2||
+||22 Oct|EOY Exams (P3-P5) - MTL/FMTL||
+||23 Oct|EOY Exams (P3-P5) - Science/FSC||
+||24 Oct|EOY Exams (P3-P5) - Mathematics/FMA||
+|8|30 Oct|Eve of Deepavali|Half-day for Hindu students &amp; staff (dismissal at 10.30am)|
+||31 Oct|Deepavali|Public Holiday|
+|9|1 &amp; 4 Nov|P6 Games Day &amp; Finale||
+||5 Nov|P5 Games Day||
+||6 Nov|Admin Day|All students do not need to report to school|
+|||P4-P6 Leadership Summit #4|For all P4-P6 student leaders|
+||8 Nov| P4 Games Day||
+|10|15 Nov|Prize Giving Day|Only for all prize recipients &amp; selected students|
+
+
+
 ## **TERM 3**
 
 | Week | Date     | Key Events | Remarks|
