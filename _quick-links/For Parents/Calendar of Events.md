@@ -17,7 +17,7 @@ variant: markdown
 |3||23-24 Sep| P1 Social Studies LJ to Kampung Admiralty |During curriculum hours. Each P1 class will be scheduled to attend the LJ on one of the two days.|
 ||23-25 Sep|P6 Study Break|Students from all other levels are required to report to school.|
 ||26-27 Sep|P3 Home-Based Learning (HBL)|Only P3 students do not need to report to school on these two days.|
-|3-4||26 Sep-2 Oct |PSLE Written Exams||
+|3-4|26 Sep-2 Oct |PSLE Written Exams||
 |4|30 Sep-1 Oct|P4 Home-Based Learning (HBL)|Only P4 students do not need to report to school on these two days.| 2 Oct|Lower Primary Sports Carnival| During curriculum hours|
 ||3 Oct|Children's Day Celebration|Students will be dismissed at 10.30am|
 ||4 Oct|Children's Day|School Holiday|
