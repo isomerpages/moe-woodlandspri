@@ -37,8 +37,8 @@ variant: markdown
 |9|1 &amp; 4 Nov|P6 Games Day &amp; Finale||
 ||5 Nov|P5 Games Day||
 ||6 Nov|Admin Day|All students do not need to report to school|
-|||P4-P6 Leadership Summit #4|For all P4-P6 student leaders|
-||8 Nov| P4 Games Day||
+||8 Nov|P4-P6 Leadership Summit #4|For all P4-P6 student leaders|
+||| P4 Games Day||
 |10|15 Nov|Prize Giving Day|Only for all prize recipients &amp; selected students|
 
 
