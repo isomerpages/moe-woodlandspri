@@ -14,11 +14,11 @@ variant: markdown
 |2| 18 Sep| P3 EOY Oral Exams - MTL <br>P4 EOY Oral Exams - EL||
 | | 19 Sep|P3 EOY Oral Exams - EL <br> P4 EOY Oral Exams - MTL ||
 | |20 Sep | P5 EOY Oral Exams - EL/FEL|After curriculum hours|
-|3|23-24 Sep| P1 Social Studies LJ to Kampung Admiralty |During curriculum hours. Each P1 class will be scheduled to attend the LJ on one of the two days.|
+|3||23-24 Sep| P1 Social Studies LJ to Kampung Admiralty |During curriculum hours. Each P1 class will be scheduled to attend the LJ on one of the two days.|
+||23-25 Sep|P6 Study Break|Students from all other levels are required to report to school.|
 ||26-27 Sep|P3 Home-Based Learning (HBL)|Only P3 students do not need to report to school on these two days.|
-|4|30 Sep-1 Oct|P4 Home-Based Learning (HBL)|Only P4 students do not need to report to school on these two days.
-|3-4|26 Sep-2 Oct |PSLE Written Exams||
-|4| 2 Oct|Lower Primary Sports Carnival| During curriculum hours|
+|3-4||26 Sep-2 Oct |PSLE Written Exams||
+|4|30 Sep-1 Oct|P4 Home-Based Learning (HBL)|Only P4 students do not need to report to school on these two days.| 2 Oct|Lower Primary Sports Carnival| During curriculum hours|
 ||3 Oct|Children's Day Celebration|Students will be dismissed at 10.30am|
 ||4 Oct|Children's Day|School Holiday|
 |5|8 Oct|EOY Exams (P3-P5) - EL LC <br> EOY Exams (P3-P5) - MTL Paper 1 <br>||
