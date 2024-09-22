@@ -14,7 +14,7 @@ sections:
         - title: P5 Camp 2024
           description: ""
           url: https://www.facebook.com/share/p/oTFfiAWBGQmfw53o/
-        - title: GLEE Fest 2024!
+        - title: GLEE Fest 2024
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid0mvgb4nNv9RHVycN7wPRMbjuK976v6BWTJrc6z5nfdETCKpvqzGc6daq1x56yVWEBl
         - title: Performing Arts Achievement @ SYF 2024
