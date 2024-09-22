@@ -31,7 +31,7 @@ sections:
         learning in action.
       button: Learn More
       url: https://www.woodlandspri.moe.edu.sg/news-and-events/prime-minister-visit-2024/
-      image: /images/PM Visit 2024/pm_visit_class_photo.jpg
+      image: /images/PM Visit 2024/pm_visit_playing_game.jpg
       alt: Image alt text
   - infopic:
       title: Rhythm in the Woods 2024 Issue 1
