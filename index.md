@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: PBL with PM Wong
+        - title: PBL with Prime Minister
           description: ""
           url: ""
         - title: P5 Camp 2024
