@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Prime Minister PBL Visit 2024.md
       - P4 Storytelling Coding Workshop 2022.md
       - National Day Celebration 2022.md
       - P5 NE Show 2022.md
