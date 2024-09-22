@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: PBL with PM Wong
+          description: ""
+          url: ""
         - title: GLEE Fest 2024!
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid0mvgb4nNv9RHVycN7wPRMbjuK976v6BWTJrc6z5nfdETCKpvqzGc6daq1x56yVWEBl
@@ -17,10 +20,7 @@ sections:
         - title: Performing Arts Achievement @ SYF 2024
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid0mc6xdZxuckfehyo2c9k3B6pzuEj4ywYFXBMRDi9wd4F1TezjRwezSosLeF9rx7VMl
-        - title: OARS Award & Raffles Scholarship 2024
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid02c7Zd8apESvxnX4sPNUAy8jq5NUfQQfWW9edcvqW9Xhh5qgkR5SZ9DMTcVBM9D88Vl
-      background: /images/Banner2.jpg
+      background: /images/Homepage Banners/homepage_banner_pm_visit.jpg
       variant: image
   - infopic:
       title: Rhythm in the Woods 2024 Issue 1
