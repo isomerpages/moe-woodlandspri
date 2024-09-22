@@ -23,6 +23,15 @@ sections:
       background: /images/Homepage Banners/homepage_banner_pm_visit.jpg
       variant: image
   - infopic:
+      title: Play-Based Learning with Prime Minister
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Learn More
+      url: https://www.woodlandspri.moe.edu.sg/news-and-events/prime-minister-visit-2024/
+      image: /images/PM Visit 2024/pm_visit_class_photo.jpg
+      alt: Image alt text
+  - infopic:
       title: Rhythm in the Woods 2024 Issue 1
       subtitle: Add an image and text
       id: infopic
@@ -31,15 +40,6 @@ sections:
       button: Start Reading
       url: https://www.woodlandspri.moe.edu.sg/curriculum/languages-math-and-science/english/newsletters/
       image: /images/News Letters/newsletter_2024_1.jpg
-      alt: Image alt text
-  - infopic:
-      title: Joint Advisory Mid-Year School Holidays
-      id: infopic
-      description: View the Joint Advisory for mid-year school holidays. Stay safe by
-        following these tips.
-      button: Click to read!
-      url: https://docs.google.com/presentation/d/e/2PACX-1vTxPuJgYcDssi8Lz3hcHDhk4qB-KZfdtuf96LKnAm4MsSsl5hWMeeYQTZM2haiMLA/pub?start=false&loop=false&delayms=3000
-      image: /images/joint_advisory_2024.jpg
       alt: Image alt text
   - infopic:
       title: Learning For Life Programme
