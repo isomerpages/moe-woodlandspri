@@ -29,6 +29,6 @@ creativity and critical thinking among young learners.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="570" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLawrenceWongST%2Fposts%2Fpfbid06YqTjfZF699U5zHWkQ77txMu674HtkUnCHntNodUWdauy3kyKaKcfCBwcPU9oP7wl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="700" width="800" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLawrenceWongST%2Fposts%2Fpfbid06YqTjfZF699U5zHWkQ77txMu674HtkUnCHntNodUWdauy3kyKaKcfCBwcPU9oP7wl&amp;show_text=true&amp;width=800"></iframe>
 </div>
 <p></p>
