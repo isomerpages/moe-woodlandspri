@@ -29,7 +29,7 @@ sections:
         special visit to Woodlands Primary School to experience play-based
         learning in action.
       button: Learn More
-      url: /news-and-events/prime-minister-visit-2024/
+      url: /prime-minister-visit-2024/
       image: /images/PM Visit 2024/pm_visit_playing_game.jpg
       alt: Image alt text
   - infopic:
