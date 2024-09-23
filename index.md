@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: PBL with Prime Minister
           description: ""
-          url: https://www.woodlandspri.moe.edu.sg/news-and-events/prime-minister-visit-2024/
+          url: https://www.woodlandspri.moe.edu.sg/prime-minister-visit-2024/
         - title: P5 Camp 2024
           description: ""
           url: https://www.facebook.com/share/p/oTFfiAWBGQmfw53o/
