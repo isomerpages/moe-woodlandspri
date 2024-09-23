@@ -34,7 +34,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Rhythm in the Woods 2024 Issue 1
-      subtitle: Add an image and text
       id: infopic
       description: The latest issue of our school newsletter, Rhythm in the Woods, is
         ready for viewing.
