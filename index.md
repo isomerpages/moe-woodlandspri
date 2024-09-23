@@ -38,7 +38,7 @@ sections:
       description: The latest issue of our school newsletter, Rhythm in the Woods, is
         ready for viewing.
       button: Start Reading
-      url: https://www.woodlandspri.moe.edu.sg/curriculum/languages-math-and-science/english/newsletters/
+      url: /curriculum/languages-math-and-science/english/newsletters/
       image: /images/News Letters/newsletter_2024_1.jpg
       alt: Image alt text
   - infopic:
