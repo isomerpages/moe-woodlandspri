@@ -5,7 +5,7 @@ variant: tiptap
 description: Play-Based Learning; Prime Minister Visit
 ---
 <h3>Play-Based Learning with Prime Minister</h3>
-<p>On Tuesday, 17th October 2024, Prime Minister Lawrence Wong made a special
+<p>On Tuesday, 17th September 2024, Prime Minister Lawrence Wong made a special
 visit to Woodlands Primary School. PM Wong joined a Mathematics lesson
 with 4 Adaptability 1 to experience play-based learning in action. The
 atmosphere was filled with excitement as pupils engaged in hands-on activities
