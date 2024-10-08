@@ -25,8 +25,8 @@ sections:
   - infopic:
       title: Play-Based Learning with Prime Minister
       id: infopic
-      description: On Tuesday, 17th October 2024, Prime Minister Lawrence Wong made a
-        special visit to Woodlands Primary School to experience play-based
+      description: On Tuesday, 17th September 2024, Prime Minister Lawrence Wong made
+        a special visit to Woodlands Primary School to experience play-based
         learning in action.
       button: Learn More
       url: /prime-minister-visit-2024/
