@@ -7,17 +7,26 @@ variant: markdown
 ---
 ### **School Services**
 #### **1\. Transportation**
-**Company: JK59 Transport Pte Ltd**
+**Company: RushOwl Singapore Pte Ltd**
+  
+For any school bus transport matters, please contact Zoe at **6871 8817** or email [school@rushowl.sg](mailto:school@rushowl.sg).
 
-Dismissal Pick Up Time<br>
-– 1.30 pm / 4.15 pm (Monday)<br>
-– 1.30 pm / 4.00 pm (Tuesday to Friday)<br>
+  
+To register your interest in the school bus service for your child, please complete the Google Form via this link: [RushOwl School Bus Transportation Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeRplxEBZG_jP7Lk7tibjZk3FrxR-bZGnIqVbH9scecYp35Gw/viewform)
 
-Tel: 6465 5959<br>
-Fax: 6466 5959<br>
-Email: [transport@jk59.com](mailto:transport@jk59.com)<br>
-Contact Person: Miss Jasmine Lee / Mr Lincoln Lye / Mr Robin Chua<br>
-Address: 17 Lorong Kilat #01-10 Kilat Court Singapore 598139
+Bus Fare
+Period: **1 Jan 2025 to 31 Dec 2026**
+
+
+| Distance Range Category | 1-Way | 2-Way |
+| -------- | -------- | -------- |
+| Up to 2km     | $149     | $175     |
+| &gt; 2-4km     | $166     | $195     |
+|  |  |  |
+
+
+
+
 
 #### **2\. School Bookshop**
 **Company: Pacific Bookstores Pte Ltd**
