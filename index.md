@@ -39,7 +39,7 @@ sections:
         Joint Year-End School Holidays Advisory.
       button: Learn More
       url: /curriculum/languages-math-and-science/english/newsletters/
-      image: /images/News Letters/newsletter_2024_1.jpg
+      image: /images/advisory2024.png
       alt: Image alt text
   - infopic:
       title: Learning For Life Programme
