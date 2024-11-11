@@ -33,13 +33,13 @@ sections:
       image: /images/PM Visit 2024/pm_visit_playing_game.jpg
       alt: Image alt text
   - infopic:
-      title: Rhythm in the Woods 2024 Issue 1
+      title: Joint Year-End School Holidays Advisory
       id: infopic
-      description: The latest issue of our school newsletter, Rhythm in the Woods, is
-        ready for viewing.
-      button: Start Reading
-      url: /curriculum/languages-math-and-science/english/newsletters/
-      image: /images/News Letters/newsletter_2024_1.jpg
+      description: School holidays are coming. Stay safe by following the tips in the
+        Joint Year-End School Holidays Advisory.
+      button: Learn More
+      url: /files/2024_End_Of_Year_Joint_Advisory.pdf
+      image: /images/advisory2024.png
       alt: Image alt text
   - infopic:
       title: Learning For Life Programme
