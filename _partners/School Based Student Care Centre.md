@@ -5,47 +5,33 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>School Based Student Care Centre</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/scscc1.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Nascans_Logo.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/scscc2.jpg">
-</div>
-<h4><strong>Introduction Letter and FAQs</strong></h4>
-<p><a href="https://woodlandspri.moe.edu.sg/files/SCC/1%20introduction%20letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Introduction Letter</a>
-</p>
-<p><a href="https://woodlandspri.moe.edu.sg/files/SCC/4%20wdp%20scc%20faqs.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>
-</p>
-<h4><strong>Application Forms</strong></h4>
-<p><a href="https://form.gov.sg/66278c512d516563cd16c75a" rel="noopener noreferrer nofollow" target="_blank">Online Registration Form</a>
-<br>Applications for Primary 1 (2025) pupils will open from <strong>October 15, 2024, to November 8, 2024.</strong>
+<h4><strong>Nascans @ Woodlands Primary School</strong></h4>
+<p><strong><a href="https://www.nascans.com/school-based-student-care-centres/" rel="noopener nofollow" target="_blank">https://www.nascans.com/school-based-student-care-centres/</a></strong>
 </p>
 <p></p>
+<p>Established in 2006, NASCANS is currently one of the largest student care
+operators in Singapore with over 30 centres islandwide. Our mission is
+to help children develop positive, healthy thinking habits and leadership
+skills, and to build strength of character through fun learning activities.
+We work closely with the school and parents to provide homework supervision,
+quality enrichment and character development programmes to help develop
+students holistically in the after-school hours.</p>
+<h4><strong>Contact Information</strong></h4>
+<p>Email Address: <strong><a href="mailto: wlscc@nascans.com" rel="noopener noreferrer nofollow" target="_blank">wlscc@nascans.com</a></strong>
+</p>
+<p>Contact Number: <strong>81574820 </strong>
+<br>
+</p>
 <p></p>
-<h4><strong>Commit Learning School House Profile Description</strong></h4>
-<p>For the last 10 years, Commit Learning SchoolHouse (CLS) has been the
-upcoming national provider of student care services. CLS wants to play
-an important pillar in partnering schools in supporting the holistic development
-of our students. Committing to a better tomorrow and excel beyond expectations.
-CLS is committed to design an interactive, participative and technologically
-enabled learning Student Care Centre (SCC) holistic experience to help
-every child to develop into broadly educated individuals, with depth of
-knowledge and capabilities required to thrive in the 21st century which
-complements every child’s primary school education. Our curriculum has
-been thoughtfully designed with the students in mind — we place top priority
-in creating engaging and exciting learning experiences. CLS wants to partner
-with parents, school and the community to nurture the Change-makers of
-Tomorrow, Today.</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/scscc3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/scscc4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/scscc5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/scscc6.jpg">
-</div>
+<h4><strong>Student Care Enrollment Interest Form</strong></h4>
+<p>Please submit your interest via this link:</p>
+<p><strong><a href="https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ujYieYWwrT84dLpX93LNjwE=" rel="noopener nofollow" target="_blank">https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ujYieYWwrT84dLpX93LNjwE=</a></strong>
+</p>
+<p><strong><em>Note:</em></strong><em> Submission of this form does not guarantee enrollment. Our team will review and contact you to discuss availability.</em>
+</p>
+<p></p>
 <p></p>
