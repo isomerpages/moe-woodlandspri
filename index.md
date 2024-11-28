@@ -59,4 +59,12 @@ sections:
       url: /curriculum/alp/
       alt: Image alt text
       image: /images/homepage-ALP.png
+  - infopic:
+      title: Rhythm in the Woods 2024 Issue 2
+      id: infopic
+      description: The latest issue of our school newsletter, Rhythm in the Woods, is
+        ready for viewing.
+      button: Start Reading
+      url: news_letter
+      alt: Image alt text
 ---
