@@ -67,4 +67,5 @@ sections:
       button: Start Reading
       url: news_letter
       alt: Image alt text
+      image: /images/News Letters/newsletter_2024_2.jpg
 ---
