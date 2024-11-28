@@ -10,6 +10,19 @@ variant: markdown
 
 
 <figure>
+<img src="/images/News Letters/newsletter_2024_2.jpg" style="width:65%">
+	<figcaption> <br> Rhythm in the Woods<br> 2024 Issue No. 2 
+ </figcaption>
+</figure>
+
+[Click to download](/files/News%20Letters/newsletter_2024_2.pdf) | [View it on Canva](https://www.canva.com/design/DAGFQtXB9rw/VhxPwiezIAP2U1eSEduY3w/view?utm_content=DAGFQtXB9rw&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h52b2fa387a)
+
+---------------------------------------------------------------------------
+
+
+
+
+<figure>
 <img src="/images/News Letters/newsletter_2024_1.jpg" style="width:65%">
 	<figcaption> <br> Rhythm in the Woods<br> 2024 Issue No. 1 
  </figcaption>
