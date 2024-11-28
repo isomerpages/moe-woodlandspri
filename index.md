@@ -38,7 +38,7 @@ sections:
       description: The latest issue of our school newsletter, Rhythm in the Woods, is
         ready for viewing.
       button: Start Reading
-      url: news_letter
+      url: /curriculum/languages-math-and-science/english/newsletters/
       alt: Image alt text
       image: /images/News Letters/newsletter_2024_2.jpg
   - infopic:
