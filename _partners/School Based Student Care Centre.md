@@ -21,7 +21,7 @@ We work closely with the school and parents to provide homework supervision,
 quality enrichment and character development programmes to help develop
 students holistically in the after-school hours.</p>
 <h4><strong>Contact Information</strong></h4>
-<p>Email Address: <strong><a rel="noopener noreferrer nofollow" target="_blank">wlscc@nascans.com</a></strong>
+<p>Email Address: <strong><a href="mailto: wlscc@nascans.com" rel="noopener noreferrer nofollow" target="_blank">wlscc@nascans.com</a></strong>
 </p>
 <p>Contact Number: <strong>81574820 </strong>
 <br>
