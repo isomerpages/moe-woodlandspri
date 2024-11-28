@@ -10,7 +10,7 @@ variant: tiptap
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Nascans_Logo.png">
 </div>
 <h4><strong>Nascans @ Woodlands Primary School</strong></h4>
-<p><a href="https://www.nascans.com/school-based-student-care-centres/" rel="noopener nofollow" target="_blank">https://www.nascans.com/school-based-student-care-centres/</a>
+<p><strong><a href="https://www.nascans.com/school-based-student-care-centres/" rel="noopener nofollow" target="_blank">https://www.nascans.com/school-based-student-care-centres/</a></strong>
 </p>
 <p></p>
 <p>Established in 2006, NASCANS is currently one of the largest student care
@@ -29,7 +29,7 @@ students holistically in the after-school hours.</p>
 <p></p>
 <h4><strong>Student Care Enrollment Interest Form</strong></h4>
 <p>Please submit your interest via this link:</p>
-<p><a href="https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ujYieYWwrT84dLpX93LNjwE=" rel="noopener nofollow" target="_blank">https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ujYieYWwrT84dLpX93LNjwE=</a>
+<p><strong><a href="https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ujYieYWwrT84dLpX93LNjwE=" rel="noopener nofollow" target="_blank">https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2ujYieYWwrT84dLpX93LNjwE=</a></strong>
 </p>
 <p><strong><em>Note:</em></strong><em> Submission of this form does not guarantee enrollment. Our team will review and contact you to discuss availability.</em>
 </p>
