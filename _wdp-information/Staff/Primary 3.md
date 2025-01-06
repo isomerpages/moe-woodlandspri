@@ -11,9 +11,9 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| Passion 1 | Ms Mishon Lew | Ms Tan Suat Horng |  
-| Passion 2 | Mdm Neo Siew Bee | Mdm Tan Yin Fun | Mdm Arivelagan Theivanai |
-| Passion 3 | Mrs Lalitha Sathya Prasad | Mr Lim Say Hwee | Mr Suppiah Chandran Sagaran |
-| Passion 4 | Mrs Komathi Jayaraman |Mr Zainuddin Bin Mohamad | Ms Hazel Tan |  
-| Passion 5 | Ms Lee Soon Hong | Mr Tamilarasan S/O Palani Welu |  
-| Passion 6 | Ms Melissa Chan | Mdm Siti Mazelina Bte Abdul Aziz |
+| 3 Integrity | Ms Chaman Kaur | Ms Chua Min Li | Mrs Elle Tan |
+| 3 Collaboration | Miss Lee Sor Luan | Ms Sabrina | Mdm Soo Li Hong |
+| 3 Adaptability | Mdm Hairani Sani | Ms Yunn | Miss Hani | 
+| 3 Respect | Miss Leng Xue Li | Miss Li Shun|
+| 3 Resilience | Miss Dhiviya Selva Raju | Mdm Li Bo | Mdm Yeo Huay Ling |
+| 3 Empathy | Ms Marcia Koh | Mrs Komathi Jayaraman |

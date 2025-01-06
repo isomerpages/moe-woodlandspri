@@ -11,11 +11,11 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| Respect 1 | Mdm Noorzihan | Mdm Woo Wai Kwan |  Mr Mohamed Udori 
-| Respect 2 | Mr Muhammad Azri Bahajjajj | Mrs Rekha Naidu |  
-| Respect 3 | Ms Ang Yan Ling | Mdm Ng Chan Joo |  
-| Respect 4 | Ms Chua Min Li | Mdm Nur Hana |   
-| Respect 5 | Mdm Sithi Salmah | Mrs Doris Yeo |  
-| Respect 6 | Mrs Joycelyn Chin | Mdm Manimegalai | Mdm Linden Lim | 
-| Respect 7 | Ms Lam Cheng Cheng | Ms Liyana Dali | Ms Rajamani 
+| 1 Integrity  | Mrs Nirmala Menon | Miss Irene |  
+| 1 Collaboration |  Mrs Andrea Sim | Mr Zainuddin | Mr Udori| 
+| 1 Adaptability | Mrs Veronica Yap | Mr Sakthivel |  
+| 1 Respect | Ms Lee Aik Hao | Mdm Noorzihan Hussein |   
+| 1 Resilience | Mr Barry Chin | Ms Jovyn Lim | 
+| 1 Responsibility | Mdm Cahaya Nirmala | Ms Low Lee Ling | Ms  Zuraida | 
+| 1 Empathy | Miss Low Hui Yi | Mdm Ramlah | Ms Lew Ern Nah
 |

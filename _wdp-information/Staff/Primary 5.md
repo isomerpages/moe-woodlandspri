@@ -11,10 +11,10 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| Collaboration 1 | Mr Kenny Koo | Mrs Michelle Kan |  
-| Collaboration 2 | Mrs Low Mui Hong | Mdm Stella Mak | Mdm Hameeda Beevi Abdullah |
-| Collaboration 3 | Ms Fatin Nazurah | Mdm Zhao Xiao Fei |  
-| Collaboration 4 | Mr Teng Aik Jin | Mdm Siti Nuratika Bte Abdullah |   
-| Collaboration 5 | Ms Ong Suan Hong | Mrs Diana Cheng | Mdm Ibrizi Bte Ishak |
-| Collaboration 6 | Mdm Anisah Bte Osman | Ms Dashni Ravindran | Ms Norhaslinda Bte Mokhtar |
+| 5 Integrity| Mdm Nazerah | Mr Shawn | Mrs Sivo |  
+| 5 Collaboration | Zi Ping | Mdm Khairunnadiah | Mdm Sarasvathy |
+| 5 Adaptability | Mr Ng Wei Chieh | Mrs Joycelyn Chin | Mdm Wong Fong Ling | Mdm Chiam|
+| 5 Respect | Ms Doreen Chan | Mrs Loh Li Li | Mr Chandra |
+| 5 Resilience | Mr Derek Khor | Mdm Lim Wan Ling | Ms Nicolette Pereira |
+| 5 Empathy | Mrs Lim Swee Ee | Mdm Misliana | Mr Nazrul |
 |
