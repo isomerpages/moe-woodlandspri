@@ -38,12 +38,17 @@ variant: markdown
 |6|1 May| Public Holiday: Labour Day
 ||2-3 May|2D1N Student Leaders Camp cum Student Leaders Summit 2| For selected P4 to P6 student leaders|
 |8|12 May| Public Holiday: Vesak Day 
-|6, 19 , 23 May| P4 Art Museum-based Learning Journey| Classes will be scheduled on one of the days (11.00am - 4.00pm)
+||6, 19 , 23 May| P4 Art Museum-based Learning Journey| Classes will be scheduled on one of the days (11.00am - 4.00pm)
+|9|22 May| GLEE Fest Finale | During curriculum hours 
+|10| 27 or 28 May| P3 Music Learning Journey to the Esplanade.| During curriculum hours.
+|10|29-30 May | P1 - P6 Parent-Child-Teacher Conference (PCTC) | For all P1-P6 pupils. 
 
 
 
 **June Holiday Programmes**
 | Date     | Key Events | Remarks|
 | -------- | -------- | -------- |
-| 20-21 Mar | P5 Reporter Programme (ALP) | For selected pupils only.
-|21 Mar| Student Leaders Exchange Programme with partner schools| For selected P5 and P6 student leaders (8.30am - 12.00pm)
+| 2 Jun | P3 MT Cultural Camp | For all P3 pupils *8.30am - 4.00pm) 
+|2-3 Jun| P4 Reporters Programme (ALP)| For selected P4 students
+|24-25| P6 Supplementary Lessons|
+|26 Jun| P6 Learning Journey to Sungei Buloh 
