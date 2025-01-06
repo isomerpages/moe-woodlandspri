@@ -21,12 +21,6 @@ variant: markdown
 |Mar Hols| 20-21 Mar| P5 Reporter Programme (ALP)|For selected pupils only.
 ||21 Mar|Student Leaders Exchange Programme with partner schools|For selected P5 and P6 student leaders (8.30am - 12.00pm).
 
-### **March Holiday Programmes**
-|Date|Key Events|Remarks|
-| -------- | -------- | -------- |
-|20-21 Mar|P5 Reporter Programme (ALP)|For selected pupils only.
-|21 Mar|Student Leaders Exchange Programme with partner schools|For selected P5 and P6 student leaders (8.30am - 12.00pm).
-
 
 ## **TERM 2**
 
