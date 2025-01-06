@@ -11,11 +11,9 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| Adaptability 1 | Mdm Khairunnadiah Binte Razali | Ms Lee Sor Luan |  
-| Adaptability 2 | Mr Derek Khor | Mdm Gwen Yeo |
-| Adaptability 3 | Mrs Amy Soh | Mr Timothy Kwok | 
-| Adaptability 4 | Mdm Hairani Bte Sani | Mdm Nur Sabrina Bte Wahid | Ms Low Lee Ling |
-| Adaptability 5 | Ms Chaman Kaur Sandhu | Mrs Elle Tan |  
-| Adaptability 6A | Ms Leng Xue Li | Mdm Nur Izzah Binte Mohamed Yatim |   
-| Adaptability 6B | Miss Dhiviya Selva Raju | Ms Marcia Koh | Mdm Misliana Bte Roslinor
-|
+| 4 Integrity | Mdm Ang Yan Ling | Ms Mishon Lew | Mdm Tan Suat Horng|  
+| 4 Collaboration | Mdm Theivanai | Mdm Neo Siew Bee | Mdm Tan Yin Fun|
+| 4 Adaptability | Mrs Lalitha Sathya Prasad | Mr Lim Say Hwee | 
+| 4 Respect | Miss Pak Xin Yan | Mrs Diana Cheng | Ms Hazel |
+| 4 Resilience | Ms Lee Soon Hong | |
+| 4 Empathy | Ms Leng Xue Li | Mdm Nur Izzah Binte Mohamed Yatim |   
