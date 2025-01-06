@@ -11,7 +11,7 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| 6 Integrity | Mr Kenny Koo | Mrs Michelle |  
+| 6 Integrity | Mr Kenny Koo | Ms Michelle |  
 | 6 Collaboration | Mrs Low Mui Hong | Mdm Stella Mak | Mdm Hameeda| 
 | 6 Adaptability | Ms Nazurah | Mr Timothy Kwok |  Mdm Zhao Xiao Fei|
 | 6 Respect| Mdm Atikah | Mr Teng Aik Jin | Ms Teo Xuan Rui |
