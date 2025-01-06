@@ -11,7 +11,7 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| 3 Integrity | Ms Chaman Kaur | Ms Chua Min Li | Ms Elle Lim |
+| 3 Integrity | Ms Chaman Kaur | Ms Chua Min Li | Mrs Elle Tan |
 | 3 Collaboration | Miss Lee Sor Luan | Ms Sabrina | Mdm Soo Li Hong |
 | 3 Adaptability | Mdm Hairani Sani | Ms Yunn | Miss Hani | 
 | 3 Respect | Miss Leng Xue Li | Miss Li Shun|
