@@ -19,8 +19,10 @@ Mr Seenivasagam Subramaniam
 |  | |  |  | |
 |---|---|---|---|---|
 | **Cleaning Team** | 
-Mdm Jua'riah Binte Dulkamid |
-Mr Abdul Rahman Bin Abdullah |
-Mr Kasian Bin Tamser |
-Mdm Kasma Bte Selamat |
-Mdm Ong Mee Kew |
+Tan Geok Tin |
+Koenadi Bin Rabo |
+Homaili Bin Awi |
+Mawi Bin Subadi|
+Lee Ngak Eng |
+Ruzimah Bte AB Manap|
+Norsa Bin Subadi 
