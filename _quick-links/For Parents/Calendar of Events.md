@@ -15,15 +15,15 @@ variant: markdown
 |4 | 28 Jan | Chinese New Year Celebration | All pupils will be dismissed at 10.30am.
 || 29-30 Jan | Public Holiday: Chinese New Year | All pupils to report back to school on 31 Jan (Fri). 
 |5| 6-7 Feb| P4 Road Safety Games | During curriculum hours. P4 classes will be scheduled to go either day.
-|7 | 19 Feb | student Leaders Summit 1 | For selected P4 to P6 student leaders (2.00pm - 4.30pm).
+|7 | 19 Feb | Student Leaders Summit 1 | For selected P4 to P6 student leaders (2.00pm - 4.30pm).
 |8| 27 Feb | Student Leaders Investiture | During curriculum hours.
 |10 | 12 or 14 Mar | P6 Parent-Child-Teacher Conference | More details will be provided nearer to the date.
 
 ### **March Holiday Programmes**
-| Date     | Key Events | Remarks|
+|Date|Key Events|Remarks|
 | -------- | -------- | -------- |
-| 20-21 Mar | P5 Reporter Programme (ALP) | For selected pupils only.
-|21 Mar| Student Leaders Exchange Programme with partner schools| For selected P5 and P6 student leaders (8.30am - 12.00pm)
+|20-21 Mar|P5 Reporter Programme (ALP)|For selected pupils only.
+|21 Mar|Student Leaders Exchange Programme with partner schools|For selected P5 and P6 student leaders (8.30am - 12.00pm).
 
 
 ## **TERM 2**
