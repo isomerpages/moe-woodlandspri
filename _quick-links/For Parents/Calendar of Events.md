@@ -51,4 +51,4 @@ variant: markdown
 | 2 Jun | P3 MT Cultural Camp | For all P3 pupils *8.30am - 4.00pm) 
 |2-3 Jun| P4 Reporters Programme (ALP)| For selected P4 students
 |24-25| P6 Supplementary Lessons|
-|26 Jun| P6 Learning Journey to Sungei Buloh 
+|26 Jun| P6 Learning Journey to Sungei Buloh
