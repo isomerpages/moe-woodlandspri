@@ -25,7 +25,7 @@ variant: markdown
 |  |  |
 |---|---|
 | **Year-Head P1 & P2** | Mrs Sumathi Elvin |
-| **Year-Head P3& P4** | Mrs Ariel-Thia Woon Ling |
+| **Year-Head P3 & P4** | Mrs Ariel-Thia Woon Ling |
 | **Year-Head P5 & P6** | Mdm Mariani Bte Salam |
 | **Assistant Year-Head P2**  | Mdm Sharifah Hafsah Bte Md Hanifa |
 | **Assistant Year-Head P6** | Mrs Sally Ong-Tan Sock Li |
