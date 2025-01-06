@@ -44,3 +44,4 @@ variant: markdown
 | **Subject Head – Malay Language** | Mdm Suriyah Bte Sapari |
 | **Subject Head – Physical Education/CCA** | Mr Barry Chin |
 | **Subject Head – VIA & Partnership** | Mr Zainuddin Mohamad |
+|**Student Leadership** | Mr Derek Khor|
