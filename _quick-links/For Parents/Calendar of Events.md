@@ -19,11 +19,12 @@ variant: markdown
 |8| 27 Feb | Student Leaders Investiture | During curriculum hours.
 |10 | 12 or 14 Mar | P6 Parent-Child-Teacher Conference | More details will be provided nearer to the date.
 
-**March Holiday Programmes**
+### **March Holiday Programmes**
 | Date     | Key Events | Remarks|
 | -------- | -------- | -------- |
 | 20-21 Mar | P5 Reporter Programme (ALP) | For selected pupils only.
 |21 Mar| Student Leaders Exchange Programme with partner schools| For selected P5 and P6 student leaders (8.30am - 12.00pm)
+
 
 ## **TERM 2**
 
