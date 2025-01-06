@@ -11,7 +11,7 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| Respect 1 | Mdm Noorzihan | Mdm Woo Wai Kwan |  Mr Mohamed Udori 
+| 1 Integrity  | Mdm Noorzihan | Mdm Woo Wai Kwan |  Mr Mohamed Udori 
 | Respect 2 | Mr Muhammad Azri Bahajjajj | Mrs Rekha Naidu |  
 | Respect 3 | Ms Ang Yan Ling | Mdm Ng Chan Joo |  
 | Respect 4 | Ms Chua Min Li | Mdm Nur Hana |   
