@@ -25,7 +25,6 @@ Ms Elizabeth Lim Hui Min |
 |  | |  |  | |
 |---|---|---|---|---|
 | **Teaching & Learning** | 
- |1. Mrs Chang Choo Siew Hwee | 
- |2. Mdm Norlizah Binti Naemat | 
- |3. Mdm Jo Tan|
+ |1. Mdm Norlizah Binti Naemat | 
+ |2. Mdm Jo Tan |
  |
