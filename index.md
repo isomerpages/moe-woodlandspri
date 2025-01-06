@@ -42,15 +42,6 @@ sections:
       alt: Image alt text
       image: /images/News Letters/newsletter_2024_2.jpg
   - infopic:
-      title: Joint Year-End School Holidays Advisory
-      id: infopic
-      description: School holidays are coming. Stay safe by following the tips in the
-        Joint Year-End School Holidays Advisory.
-      button: Learn More
-      url: /files/2024_End_Of_Year_Joint_Advisory.pdf
-      image: /images/advisory2024.png
-      alt: Image alt text
-  - infopic:
       title: Learning For Life Programme
       description: Developing Character through Sports is an important component of
         holistic development of pupils, and sportsmen must possess sound values
