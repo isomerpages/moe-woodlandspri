@@ -17,9 +17,7 @@ variant: markdown
 | 4. Mdm Misliana Bte Roslinor |
 | 5. Mr Mohamed Udori |
 | 6. Mr Muhammad Azri Bahajjajj| 
-| 7. Mdm Nur Izzah |
-| 8. Ms Sharifah Hafsah |
-| 9. Mdm Siti Nuratika |
-| 10. Mdm Suriyah Bte Sapari |
-| 11. Mr Zainuddin Bin Mohamad |
-|
+| 7. Ms Sharifah Hafsah |
+| 8. Mdm Siti Nuratikah |
+| 9. Mdm Suriyah Bte Sapari |
+| 10. Mr Zainuddin Bin Mohamad|
