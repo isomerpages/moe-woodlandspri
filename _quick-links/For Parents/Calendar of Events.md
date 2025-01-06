@@ -44,12 +44,10 @@ variant: markdown
 |10|29-30 May | P1 - P6 Parent-Child-Teacher Conference (PCTC) | For all P1-P6 pupils. 
 
 
-
-**June Holiday Programmes**
+### **June Holiday Programmes**
 | Date | Key Event | Remarks |
 | -------- | -------- | -------- |
 | 2 Jun | P3 MT Cultural Camp  |For all P3 pupils (8.30am - 4.00pm)  |
 | 2-3 Jun | P4 Reporters Programme (ALP)  |For selected P4 students  |
 |24-25 Jun| P6 Supplementary Lesson||
 |26 Jun|P6 Learning Journey to Sungei Buloh||
-
