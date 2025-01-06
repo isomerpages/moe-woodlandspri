@@ -10,11 +10,11 @@ variant: markdown
 
 |  |  |
 |---|---|
-| **HOD – English (Covering)** | Ms Dashni Ravindran |
+| **HOD – English (Covering)** | Ms Doreen Chan |
 | **HOD – Mother Tongue** | Ms Ong Suan Hong |
 | **HOD – Science** | Mrs Michelle Kan |
-| **HOD – Mathematics (Covering)** | Ms Chan Zi Ping |
-| **HOD – Student Management (Covering)** | Mr Harshad Bin Ismail |
+| **HOD – Mathematics** | Ms Chan Zi Ping |
+| **HOD – Student Management** | Mr Harshad Bin Ismail |
 | **HOD – ICT** | Mrs Lalitha Sathya Prasad |
 | **HOD – PE, CCA & Aesthetics** | Mrs Amy Soh-Kong Siew Ling |
 | **School Staff Developer** | Ms Ang Yan Ling |
