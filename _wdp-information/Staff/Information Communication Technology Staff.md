@@ -10,7 +10,7 @@ variant: markdown
 |  | |  |  | |
 |---|---|---|---|---|
 | **ICT Associate** | 
-|Mdm Khairunnisa Binte Ali | 
+|Mr Soh Kee Seng | 
 |
 
 |  | |  |  | |
