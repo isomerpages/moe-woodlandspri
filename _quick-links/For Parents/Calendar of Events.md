@@ -39,12 +39,7 @@ variant: markdown
 |9|22 May| GLEE Fest Finale | During curriculum hours 
 |10| 27 or 28 May| P3 Music Learning Journey to the Esplanade.| During curriculum hours.
 |10|29-30 May | P1 - P6 Parent-Child-Teacher Conference (PCTC) | For all P1-P6 pupils. 
-
-
-### **June Holiday Programmes**
-| Date | Key Event | Remarks |
-| -------- | -------- | -------- |
-| 2 Jun | P3 MT Cultural Camp  |For all P3 pupils (8.30am - 4.00pm)  |
-| 2-3 Jun | P4 Reporters Programme (ALP)  |For selected P4 students  |
-|24-25 Jun| P6 Supplementary Lesson||
-|26 Jun|P6 Learning Journey to Sungei Buloh||
+|Jun Hols|2 Jun| P3 MT Cultural Camp| For all P3 pupils (8.30am - 4.00pm).
+||2-3 Jun| P4 Reporters Programme (ALP)| For selected P4 students.
+||24-25 Jun|P6 Supplementary Lessons
+||26 Jun|P6 Learning Journey to Sungei Buloh
