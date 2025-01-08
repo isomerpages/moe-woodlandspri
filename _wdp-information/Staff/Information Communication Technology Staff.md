@@ -9,7 +9,7 @@ variant: markdown
 
 |  | |  |  | |
 |---|---|---|---|---|
-| **ICT Associate** | 
+| **ICT Manager** | 
 |Mr Soh Kee Seng | 
 |
 
