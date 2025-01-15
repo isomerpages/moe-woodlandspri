@@ -12,11 +12,13 @@ variant: markdown
 | **Library Assistant** | 
 Mr Lee Swee Peng |
 
-|  | |  |  
-|---|---|---|
+
+|  | |  |  | |
+|---|---|---|---|---|
 | **Security Guards** | 
 Mdm Sarathi d/o Arjunan |
 Mr Seenivasagam Subramaniam
+|
 
 |  | |  |  | |
 |---|---|---|---|---|
@@ -24,7 +26,8 @@ Mr Seenivasagam Subramaniam
 Tan Geok Tin |
 Koenadi Bin Rabo |
 Homaili Bin Awi |
-Mawi Bin Subadi|
+Mawi Bin Subadi |
 Lee Ngak Eng |
-Ruzimah Bte AB Manap|
+Ruzimah Bte AB Manap |
+
 Norsa Bin Subadi
