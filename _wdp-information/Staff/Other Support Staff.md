@@ -29,5 +29,3 @@ Homaili Bin Awi |
 Mawi Bin Subadi |
 Lee Ngak Eng |
 Ruzimah Bte AB Manap |
-
-Norsa Bin Subadi
