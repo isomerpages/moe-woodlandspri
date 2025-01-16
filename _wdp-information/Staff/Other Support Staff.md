@@ -12,13 +12,12 @@ variant: markdown
 | **Library Assistant** | 
 Mr Lee Swee Peng |
 
-
 |  | |  |  | |
 |---|---|---|---|---|
 | **Security Guards** | 
 Mdm Sarathi d/o Arjunan |
-Mr Seenivasagam Subramaniam
-|
+Mr Seenivasagam Subramaniam |
+
 
 |  | |  |  | |
 |---|---|---|---|---|
