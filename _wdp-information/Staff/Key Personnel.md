@@ -3,45 +3,281 @@ title: Key Personnel
 permalink: /wdp-information/staff/key-personnel/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
-### **Key Personnel**
-#### **Head of Departments**
-
-|  |  |
-|---|---|
-| **HOD – English (Covering)** | Ms Doreen Chan |
-| **HOD – Mother Tongue** | Ms Ong Suan Hong |
-| **HOD – Science** | Mrs Michelle Kan |
-| **HOD – Mathematics** | Ms Chan Zi Ping |
-| **HOD – Student Management** | Mr Harshad Bin Ismail |
-| **HOD – ICT** | Mrs Lalitha Sathya Prasad |
-| **HOD – PE, CCA & Aesthetics** | Mrs Amy Soh-Kong Siew Ling |
-| **School Staff Developer** | Ms Ang Yan Ling |
-|
-
-#### **Year-Heads & Assistant Year-Heads**
-
-|  |  |
-|---|---|
-| **Year-Head P1 & P2** | Mrs Sumathi Elvin |
-| **Year-Head P3 & P4** | Mrs Ariel-Thia Woon Ling |
-| **Year-Head P5 & P6** | Mdm Mariani Bte Salam |
-| **Assistant Year-Head P2**  | Mdm Sharifah Hafsah Bte Md Hanifa |
-| **Assistant Year-Head P6** | Mrs Sally Ong-Tan Sock Li |
-|
-
-#### **Level Heads & Subject Heads**
-
-|  |  |
-|---|---|
-| **Level Head – Science** | Mdm Kueh Li Li |
-| **Level Head – Chinese Language** | Mdm Lim Wan Ling |
-| **Subject Head – Character Development & Pupil Welfare** | Mr Ng Wei Chieh |
-| **Subject Head – Citizenship Education & Social Studies** | Mrs Sivodayan |
-| **Subject Head – ICT** | Mr Xu Bin Benny |
-| **Subject Head – Information Management** | Mrs Low Mui Hong |
-| **Subject Head – Malay Language** | Mdm Suriyah Bte Sapari |
-| **Subject Head – Physical Education/CCA** | Mr Barry Chin |
-| **Subject Head – VIA & Partnership** | Mr Zainuddin Mohamad |
-| **Subject Head – Student Leadership** | Mr Derek Khor|
+<h3><strong>Key Personnel</strong></h3>
+<h4><strong>Head of Departments</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD – English (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Doreen Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD – Mother Tongue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Suan Hong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD – Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Michelle Kan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD – Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Zi Ping</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD – Student Management</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Harshad Bin Ismail</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD – ICT</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lalitha Sathya Prasad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD – PE, CCA &amp; Aesthetics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Amy Soh-Kong Siew Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Staff Developer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Yan Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Year-Heads &amp; Assistant Year-Heads</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year-Head P1 &amp; P2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sumathi Elvin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year-Head P3 &amp; P4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ariel-Thia Woon Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year-Head P5 &amp; P6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mariani Bte Salam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year-Head P2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sharifah Hafsah Bte Md Hanifa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year-Head P6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sally Ong-Tan Sock Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Level Heads &amp; Subject Heads</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head – Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kueh Li Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head – Chinese Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Wan Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head – Character Development &amp; Pupil Welfare</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Wei Chieh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head – Citizenship Education &amp; Social Studies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sivodayan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head – ICT</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Xu Bin Benny</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head – Information Management</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Low Mui Hong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head – Malay Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Suriyah Bte Sapari</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head – Physical Education/CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Barry Chin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head – VIA &amp; Partnership</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zainuddin Mohamad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head – Student Leadership (Internal)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Derek Khor</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
