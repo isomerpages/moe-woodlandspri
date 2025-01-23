@@ -74,12 +74,12 @@ citizen.</p>
 <img style="width:45%" height="auto" width="100%" src="/images/cce2.jpg">
 </div>
 <p>&nbsp;</p>
-<h3><strong>Sexuality Education 2024</strong></h3>
+<h3><strong>Sexuality Education 2025</strong></h3>
 <h4><strong>MOE Sexuality Education in Schools</strong></h4>
-<p>1. Sexuality Education (SEd) in schools is about enabling students to
-understand the physiological, social and emotional changes they experience
-as they mature, develop healthy and rewarding relationships including those
-with members of the opposite sex, and make wise, informed and responsible
+<p>1. Sexuality Education (SEd) in schools aims to enable students to understand
+the physiological, social and emotional changes they experience as they
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
 decisions on sexuality matters. SEd is premised on the importance of the
 family as the basic unit of society. This means encouraging healthy, heterosexual
 marriages and stable nuclear family units with extended family support.
@@ -89,24 +89,20 @@ on sexuality issues.</p>
 <p>2. The <strong>Goals</strong> of Sexuality Education are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To help students make wise, responsible and informed decisions through
-the provision of accurate, current and age-appropriate <em>knowledge</em> on
-human sexuality and the consequences of sexual activity;</p>
+<p>Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
 </li>
 <li>
-<p>To help students know themselves and build healthy and rewarding relationships
-through the acquisition of <em>social and emotional skills</em> of self-awareness,
-management of their thoughts, feelings and behaviours, development of empathy
-for others, possession of effective communication, problem-solving and
-decision-making skills; and</p>
+<p>Guide students to make wise, informed and responsible decisions on sexuality
+matters.</p>
 </li>
 <li>
-<p>To help students develop a moral compass, respect for themselves and for
-others as sexual beings, premised on the family as the basic unit of society,
-through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about
-sexuality.</p>
+<p>Help students develop a moral compass and respect for themselves and others
+by having positive mainstream values and attitudes about sexuality that
+are premised on the family as the basic unit of society.</p>
 </li>
 </ul>
+<p></p>
 <p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -127,7 +123,7 @@ ones.</p>
 </ul>
 <p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Woodlands Primary School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Woodlands Primary School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum.&nbsp;The content for Sexuality Education is grouped into five
@@ -149,14 +145,16 @@ ready for sexual activity sooner without necessarily having the corresponding
 cognitive or emotional maturity to modulate their behaviours. Furthermore,
 our young are also exposed to a wide range of influences that could endanger
 health and undermine the integrity of the family. Our students require
-guidance so that they can respond with discernment to the sexual messages
-in the media and other sources.</p>
+close guidance so that they can respond with discernment to the sexual
+messages in the media and other sources.</p>
 <p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP)
-at Primary 5 and 6. In SEd, students learn to understand the physiological,
-social and emotional changes they experience as they mature, develop healthy
-and rewarding relationships including those with members of the opposite
-sex, and make wise, informed and responsible decisions on sexuality matters.</p>
-<h5><strong>At Woodlands Primary School, the following lessons from the Growing Years Programme will be taught in 2024:</strong></h5>
+at Primary 5 and 6. Through these lessons, students will learn healthy
+ways to manage the physiological, social and emotional changes in their
+growing years. They learn to build healthy and rewarding relationships
+with others, including those with members of the opposite sex. Students
+are also guided to make wise, informed and responsible decisions to keep
+themselves safe from sexuality-related risks.</p>
+<h5><strong>At Woodlands Primary School, the following lessons from the Growing Years Programme will be taught in 2025:</strong></h5>
 <p><strong>Primary 5</strong>
 </p>
 <table style="minWidth: 100px">
@@ -195,8 +193,9 @@ caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
 affected, even when one’s body is experiencing changes due to puberty.</p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 8</p>
@@ -215,11 +214,11 @@ so that the students will feel more comfortable during the discussions.</p>
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy
-‘<strong>Stop-Think-Do’.</strong>
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
 </p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 4 Week 2</p>
@@ -238,11 +237,12 @@ so that the students will feel more comfortable during the discussions.</p>
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
 and how to seek help for themselves and their friends.</p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 3</p>
+<p>Term 4 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -291,7 +291,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -321,8 +321,10 @@ and learn to behave maturely towards each other.</p>
 and/or supplementary sexuality education programmes by MOE-approved external
 providers.</p>
 <p>9. Parents who wish to opt their children out of the&nbsp;<strong>Growing Years (GY) programme</strong>&nbsp;need
-to complete an opt-out form.&nbsp;This form will be distributed to parents
-at the start of the year and is also downloadable&nbsp;<a href="/files/optoutform2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. <strong>The completed opt-out form is to be submitted by&nbsp;10 February 2024</strong>.</p>
+to complete an opt-out form.&nbsp;This form will be communicated &nbsp;to
+parents at the start of the year and is also downloadable <a href="https://form.gov.sg/67908037a3dde37902820a09" rel="noopener noreferrer nofollow" target="_blank">here</a> (For
+P5) or <a href="https://form.gov.sg/65a3dcc6e008a8001153fc28" rel="noopener noreferrer nofollow" target="_blank">here</a> (For
+P6). The completed opt-out form is to be submitted by 12/02/2025.</p>
 <p>10. Parents can contact the school at&nbsp;<strong>6269 7410</strong>&nbsp;for
 discussion or to seek clarification about the school’s sexuality education
 programme.</p>
