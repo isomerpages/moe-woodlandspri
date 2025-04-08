@@ -5,11 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>WDP Rules and Regulations</strong></h3>
-<h5><strong>A) National Anthem &amp; Pledge</strong></h5>
+<h5><strong>A) NATIONAL ANTHEM &amp; PLEDGE</strong></h5>
 <p>Students who are Singapore citizens must sing the National Anthem and
 take the Pledge. Students will take the Pledge with the right fist placed
 over the heart.</p>
-<h5><strong>B) Attire &amp; APPEARANCE</strong></h5>
+<h5><strong>B) ATTIRE &amp; APPEARANCE</strong></h5>
 <ol data-tight="true" class="tight">
 <li>
 <p>Students are to wear the prescribed school uniform and modification to
@@ -28,53 +28,96 @@ the first button at the top.</p>
 </li>
 <li>
 <p><strong>The Male Student’s Uniform</strong>
-</p>
-<p>The shorts should not be too tight.</p>
+<br>The shorts should not be too tight.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" src="/images/attire1.jpg">
+</div>
+</li>
+<li>
+<p><strong>The Female Student’s Uniform</strong>
+<br>The skirt should be at knee length and not be too tight.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" src="/images/attire2.jpg">
+</div>
+</li>
+<li>
+<p>All students are to wear white shoes without any coloured markings, stripes
+or logos.</p>
+</li>
+<li>
+<p>All students are to wear standard white school socks as part of their
+school uniform. Socks have to be visible above the ankles.</p>
+</li>
+<li>
+<p><strong>Physical Education (PE) Attire</strong>
+<br>All students must be in their PE attire (School T-shirt and maroon PE
+shorts) during PE lessons.
+<br>Name Tag should be worn above the school crest.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" src="/images/attire3.jpg">
+</div>
+<p>Primary 1-2:
+<br>Students can remain in their PE attire throughout the day.
+<br>Primary 3-6:
+<br>Female students are to put on their school skirts before and after PE
+lessons. Male students can remain in their PE attire throughout the day.
+<br>All pupils are to wear&nbsp;<strong>white shoes</strong>&nbsp;without
+any colored markings, stripes or logos.</p>
+</li>
+<li>
+<p>Male students must neat in appearance, clean shaven and no facial is allowed.</p>
+</li>
+<li>
+<p>Male students should have short and neatly combed hair. It should not
+touch the ears, collars, or eyebrows. Spiky/ pointed hair is not allowed.</p>
+</li>
+<li>
+<p>Female students with shoulder length hair or longer should tie their hair.
+The hair / fringe should not touch the eyebrows. Female students should
+only use black / maroon / white hair bands, hair clips or scrunchies. No
+fanciful hair accessories allowed.</p>
+</li>
+<li>
+<p>The school reserves the right to determine whether the student’s hairstyle
+is acceptable.</p>
+</li>
+<li>
+<p>Students should retain the natural colour of their hair. They are not
+allowed to colour their hair.</p>
+</li>
+<li>
+<p>Students are not allowed to wear jewellery to school. Female students
+are only allowed to wear a pair of small stud earrings, one on each ear.
+The colour of the stud earrings should be confined to gold, silver or black.
+Make-up is not allowed.</p>
+</li>
+<li>
+<p>Students are not allowed to wear coloured contact lenses.</p>
+</li>
+<li>
+<p>Fingernails should be kept short and clean. Nail polish is strictly not
+allowed.</p>
 </li>
 </ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/attire1.jpg">
-</div>
-<p>3) The Girl’s Uniform – The skirt length should cover the knee.</p>
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/attire2.jpg">
-</div>
-<p>4) All pupils are to wear&nbsp;<strong>white shoes</strong>&nbsp;without
-any colored markings, stripes or logos.</p>
-<p>5) All pupils are to wear standard white socks as part of their school
-uniform. Socks have to be visible above the ankle.</p>
-<p>6)&nbsp;<strong>Physical Education (PE) Attire</strong>
-<br>All pupils must be in their PE attire during PE lessons and they can remain
-in that attire throughout the whole day.</p>
-<p><strong>Boy’s and Girl’s PE Attire:</strong>
-<br>School T-shirt and maroon PE shorts. Name tag should be above the school
-crest.</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/attire3.jpg">
-</div>
-<p>7) Pupils must be neat in appearance. Boys are not allowed to keep facial
-hair and boys with facial hair will be required to be clean-shaven.</p>
-<p>8) Boys should have a student haircut. Their hair should be short and
-neatly combed. Spiky/ pointed hair is not allowed.</p>
-<p>9) Girls with shoulder length hair or longer should tie their hair. The
-hair / fringe should not touch the eyebrows. Girls should only use black
-/ maroon / white hair bands, hair clips or scrungies. No fanciful hair
-accessories allowed.</p>
-<p>10) Pupils should retain the natural colour of their hair. They are not
-allowed to colour their hair.</p>
-<p>11) Pupils are not allowed to wear jewellery to school. Girls are only
-allowed to wear a pair of small stud earrings, one on each ear. The colour
-of the stud earrings should be confined to gold, silver or black.</p>
-<p>12) Pupils are not allowed to wear coloured contact lenses.</p>
-<p>13) Watches containing animated or game features that cause distraction
-in class are not allowed.</p>
-<h5><strong>C) Punctuality</strong></h5>
-<p>1) All pupils are expected to be punctual for school.</p>
-<p>2) All pupils are strongly encouraged to be at the assembly areas by 7.25am
-so that the morning assembly can start promptly at 7.30am</p>
-<p>3) When the chime is sounded five minutes before recess ends, pupils are
-to start assembling in the hall.</p>
-<h5><strong>D) Canteen Rules</strong></h5>
+<h5><strong>C) PUNCTUALITY</strong></h5>
+<ol data-tight="true" class="tight">
+<li>
+<p>All students are expected to be punctual for school.</p>
+</li>
+<li>
+<p>All students are required to be at the assembly areas by 7.25 a.m. so
+that the morning assembly can start promptly at 7.30 a.m.</p>
+</li>
+<li>
+<p>Students who are not at the assembly areas by the time morning assembly
+commences will be considered late.</p>
+</li>
+<li>
+<p>When the chime is sounded five minutes before recess ends, students are
+to start assembling at the basketball court.</p>
+</li>
+</ol>
+<h5><strong>D) SAFETY MATTERS</strong></h5>
 <p>1) Pupils are to queue up to buy food.</p>
 <p>2) After eating, all plates and utensils are to be returned to the respective
 basins in front of the stalls. Food remnants left on the table are to be
