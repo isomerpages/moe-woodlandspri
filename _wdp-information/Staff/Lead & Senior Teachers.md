@@ -12,6 +12,8 @@ variant: markdown
 |  |  |
 |---|---|
 | **LEAD Teacher – English Language** | Mdm Chan Siew Li Doreen |
+| **Senior Teacher – Physical Education (PE)** | Ms Mishon Lew |
+
 |
 
 #### **Senior Teachers**
@@ -23,5 +25,4 @@ variant: markdown
 | **Senior Teacher – Chinese Language** | Ms Chung Choon Boey
 | **Senior Teacher – Malay Language** | Mdm Ibrizi Bte Ishak |
 | **Senior Teacher – Tamil Language** | Mdm S Sarasvathy |
-| **Senior Teacher – Physical Education (PE)** | Ms Mishon Lew |
 |**Senior Teacher - Character & Citizenship Education** | Mdm Hairani Bte Sani
