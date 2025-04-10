@@ -14,7 +14,7 @@ variant: markdown
 | **LEAD Teacher – English Language** | Mdm Chan Siew Li Doreen |
 | **Senior Teacher – Physical Education (PE)** | Ms Mishon Lew |
 
-|
+
 
 #### **Senior Teachers**
 
