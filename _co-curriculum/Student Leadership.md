@@ -2,6 +2,7 @@
 title: Student Leadership
 permalink: /co-curriculum/student-leadership/
 description: ""
+variant: markdown
 ---
 ### **Student Leadership**
 
@@ -25,7 +26,7 @@ Our specially designed Student Leadership Core Programmes provide student leader
 
 <img src="/images/sl2.jpg" style="width:65%">
 
-#### **Core Programmes 2023:**
+#### **Core Programmes 2025:**
 *   Class-based Student Leadership Training
 *   P4 Leadership Fiesta
 *   Woodlands Primary School Prefectorial Board

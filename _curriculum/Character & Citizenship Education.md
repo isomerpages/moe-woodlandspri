@@ -67,13 +67,9 @@ together as a nation.</p>
 <p>Demonstrate the ability to reflect on and respond to community, national
 and global issues, and to make informed and responsible decisions as a
 citizen.</p>
+<p>&nbsp;</p>
 </li>
 </ul>
-<h4><strong>IN TOUCH Programme</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/cce2.jpg">
-</div>
-<p>&nbsp;</p>
 <h3><strong>Sexuality Education 2025</strong></h3>
 <h4><strong>MOE Sexuality Education in Schools</strong></h4>
 <p>1. Sexuality Education (SEd) in schools aims to enable students to understand
