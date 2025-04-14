@@ -2,6 +2,7 @@
 title: ICT
 permalink: /curriculum/ict/
 description: ""
+variant: markdown
 ---
 ### **ICT**
 #### **ICT Framework**
@@ -18,8 +19,3 @@ At Woodlands Primary, all pupils from Primary 1 – Primary 5 are exposed to Dig
 The Media Studio is equipped with audio video studio equipment that allow live streaming and casting. Our language department has integration to its curriculum where pupils conceptualize story, build props and perform against a green screen for a virtual scene. Fellow classmates will preview a live casting for critic session
 
 <img src="/images/ict3.jpg" style="width:65%">
-
-#### **Garage Band**
-P3 and P4 pupils will be taught how to use the various instruments on the iPad Garageband, and compose their very own original song by the end of the course.
-
-<img src="/images/ict4.jpg" style="width:60%">
