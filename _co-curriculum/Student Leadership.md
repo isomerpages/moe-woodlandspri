@@ -7,7 +7,6 @@ variant: tiptap
 <h3><strong>Student Leadership</strong></h3>
 <h3><strong>Our Vision</strong></h3>
 <p>"Every Woodlander is a Gracious Leader with the Zest to Excel"</p>
-<p>&nbsp;</p>
 <p>We believe every student can grow to become a gracious leader who uplifts
 others and leads with purpose and integrity. At the heart of our leadership
 philosophy is the conviction that good leadership is not just about influence,
@@ -51,8 +50,7 @@ contexts—leading within the school and contributing positively to the broader
 community.</p>
 <h3><strong>Leadership Opportunities</strong></h3>
 <p>We develop our students through four progressive tiers:</p>
-<p><strong>Tier 1: Self Leadership (All Students)</strong>
-</p>
+<h4>Tier 1: Self Leadership (All Students)</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Values-based leadership lessons</p>
@@ -67,8 +65,7 @@ community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Class Leaders Role Familiarisation Training" src="/images/2025 Student Leadership/Photo_2.jpg">
 </div>
-<p><strong>Tier 2: Class Leadership</strong>
-</p>
+<h4>Tier 2: Class Leadership</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Classroom leadership opportunities</p>
@@ -77,8 +74,7 @@ community.</p>
 <p>Peer support initiatives</p>
 </li>
 </ul>
-<p><strong>Tier 3: School Leadership</strong>
-</p>
+<h4>Tier 3: School Leadership</h4>
 <p>Our Student Leaders Board comprises of:</p>
 <p><strong>Prefects</strong> who:</p>
 <ul data-tight="true" class="tight">
@@ -104,8 +100,7 @@ community.</p>
 <p>Lead student well-being initiatives</p>
 </li>
 </ul>
-<p><strong>Tier 4: Executive Committee</strong>
-</p>
+<h4>Tier 4: Executive Committee</h4>
 <p>Led by the Head Prefect, three subcommittees drive key initiatives:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -124,7 +119,6 @@ community.</p>
 <h3><strong>Leadership Programmes</strong></h3>
 <p>Our structured development journey comprises training, experiential learning,
 and recognition:</p>
-<p>&nbsp;</p>
 <h4>Leadership Development</h4>
 <ul data-tight="true" class="tight">
 <li>
