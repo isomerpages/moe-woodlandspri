@@ -16,7 +16,7 @@ progressive leadership development journey, we nurture Woodlanders to be
 proactive, committed, and equipped with the skills and compassion to lead
 with heart.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Teachers’ Day 2024 Student Leaders Group Photo" src="/images/2025 Student Leadership/Photo_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Teachers’ Day 2024 Student Leaders Group Photo" src="/images/2025 Student Leadership/Photo_1.jpg">
 </div>
 <h3><strong>Student Leadership Framework</strong></h3>
 <p>At Woodlands Primary School, leadership is a journey of growth, character
@@ -65,7 +65,7 @@ community.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Class Leaders Role Familiarisation Training" src="/images/2025 Student Leadership/Photo_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Class Leaders Role Familiarisation Training" src="/images/2025 Student Leadership/Photo_2.jpg">
 </div>
 <p><strong>Tier 2: Class Leadership</strong>
 </p>
@@ -119,7 +119,7 @@ community.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Group photo of 2025 SLB EXCO members" src="/images/2025 Student Leadership/Photo_4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Group photo of 2025 SLB EXCO members" src="/images/2025 Student Leadership/Photo_4.jpg">
 </div>
 <h3><strong>Leadership Programmes</strong></h3>
 <p>Our structured development journey comprises training, experiential learning,
@@ -147,7 +147,7 @@ and recognition:</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students leaders participating in leadership training activities" src="/images/2025 Student Leadership/Photo_5.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Students leaders participating in leadership training activities" src="/images/2025 Student Leadership/Photo_5.jpg">
 </div>
 <h4>Key Events</h4>
 <ul data-tight="true" class="tight">
