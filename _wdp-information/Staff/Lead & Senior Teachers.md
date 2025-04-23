@@ -20,6 +20,7 @@ variant: markdown
 
 |  |  |
 |---|---|
+| **Senior Teacher – English** | Mdm Chaman Kaur Sandhu |
 | **Senior Teacher – Mathematics** | Mdm Nazerah Bte Mohamed |
 | **Senior Teacher – Science** | Ms Lee Soon Hong |
 | **Senior Teacher – Chinese Language** | Ms Chung Choon Boey
