@@ -10,21 +10,22 @@ variant: markdown
 |  | |  |  | |
 |---|---|---|---|---|
 | **Library Assistant** | 
-Mr Lee Swee Peng |
+Lee Swee Peng, Mr |
 
 |  | |  |  | |
 |---|---|---|---|---|
 | **Security Guards** | 
-Mdm Sarathi d/o Arjunan |
-Mr Seenivasagam Subramaniam |
+Sarathi d/o Arjunan, Mdm |
+Seenivasagam Subramaniam, Mr |
 
 
 |  | |  |  | |
 |---|---|---|---|---|
 | **Cleaning Team** | 
-Tan Geok Tin |
-Koenadi Bin Rabo |
 Homaili Bin Awi |
-Mawi Bin Subadi |
+Koenadi Bin Rabo |
 Lee Ngak Eng |
+Mawi Bin Subadi |
+Michelle Tan Geok Tin (Supervisor)|
+Norsa Bin Subadi|
 Ruzimah Bte AB Manap |
