@@ -63,7 +63,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Harshad Bin Ismail</p>
+<p>Harshad Bin Ismail, Mr</p>
 </td>
 </tr>
 <tr>
@@ -212,7 +212,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Wei Chieh</p>
+<p>Ng Wei Chieh, Mr</p>
 </td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Xu Bin Benny</p>
+<p>Xu Bin Benny, Mr</p>
 </td>
 </tr>
 <tr>
@@ -257,7 +257,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chin Junli Barry</p>
+<p>Chin Junli Barry, Mr</p>
 </td>
 </tr>
 <tr>
@@ -266,7 +266,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zainuddin Bin Mohamad</p>
+<p>Zainuddin Bin Mohamad, Mr</p>
 </td>
 </tr>
 <tr>
@@ -275,7 +275,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Khor Kian Lum Derek</p>
+<p>Khor Kian Lum Derek, Mr</p>
 </td>
 </tr>
 </tbody>
