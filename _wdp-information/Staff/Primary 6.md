@@ -11,9 +11,9 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| 6 Integrity | Mr Kenny Koo | Ms Michelle |  
-| 6 Collaboration | Mrs Low Mui Hong | Mdm Stella Mak | Mdm Hameeda| 
-| 6 Adaptability | Ms Nazurah | Mr Timothy Kwok |  Mdm Zhao Xiao Fei|
-| 6 Respect| Mdm Atikah | Mr Teng Aik Jin | Ms Teo Xuan Rui |
-| 6 Resilience | Mdm Ibrizi | Ms Ong Suan Hong | Ms Reshpal Kaur|
-| 6 Empathy | Mdm Anisah | Mr Thiagarajan | Miss Haslinda |
+| 6 Integrity | Koo Jianhua Kenny | Peh Michelle (Mrs Kan) |  
+| 6 Collaboration | Hameeda Beevi Abdullah, Mdm | Lim Mui Hong (Mrs Low) | Mak Yin Fun Stella, Mdm| 
+| 6 Adaptability | Fatin Nazurah Binte Md Yusof, Ms | Kwok Shee Sang Timothy | Zhao Xiao Fei, Mdm|
+| 6 Respect| Siti Nuratika Bte Abdullah, Mdm | Teng Aik Jin | Teo Xuan Rui, Ms |
+| 6 Resilience | Ibrizi Bte Ishak, Mdm | Ong Suan Hong, Ms | Reshpal Kaur, Ms |
+| 6 Empathy | Anisah Bte Osman, Mdm | Narayanasamy Thiagarajan | Norhaslinda Bte Mokhtar, Ms |
