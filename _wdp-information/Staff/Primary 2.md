@@ -11,7 +11,7 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| 2 Integrity | Liyana Dali, Ms | Woo Wai Kwan, Mdm | Ling Yi Chin, Ms
+| 2 Integrity | Liyana Dali, Ms | Woo Wai Kwan, Mdm | 
 | 2 Collaboration | Muhammad Azri Bahajjajj Bin Shaik, Mr | Rekha Naidu, Mrs |  
 | 2 Adaptability | Kong Siew Ling Amy (Mrs Soh)  | Ng Chan Joo, Mdm |  
 | 2 Respect | Chung Choon Boey, Ms | Nur Hana Bte Abdul Hamid, Mdm|   
