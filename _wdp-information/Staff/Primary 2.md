@@ -12,9 +12,9 @@ variant: markdown
 | Class | Form Teachers |  |  |
 |---|---|---|---|
 | 2 Integrity | Liyana Dali, Ms | Woo Wai Kwan, Mdm | Ling Yi Chin, Ms
-| 2 Collaboration | Muhammad Azri Bahajjajj Bin Shaik | Rekha Naidu, Mrs |  
+| 2 Collaboration | Muhammad Azri Bahajjajj Bin Shaik, Mr | Rekha Naidu, Mrs |  
 | 2 Adaptability | Kong Siew Ling Amy (Mrs Soh)  | Ng Chan Joo, Mdm |  
 | 2 Respect | Chung Choon Boey, Ms | Nur Hana Bte Abdul Hamid, Mdm|   
 | 2 Resilience | Sithi Salmah d/o Sagul Hamid, Mdm | Tan Khar Choo Doris (Mrs Yeo)|
-| 2 Responsibility | Manimegalai d/o Chinna G, Mdm| Xu Bin Benny |Linden Lim Kim Eng, Mdm| 
+| 2 Responsibility | Manimegalai d/o Chinna G, Mdm| Xu Bin Benny, Mr |Linden Lim Kim Eng, Mdm| 
 | 2 Empathy | Lam Cheng Cheng, Ms | Suriyah Bte Sapari, Mdm |
