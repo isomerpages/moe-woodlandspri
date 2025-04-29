@@ -11,9 +11,9 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| 3 Integrity | Ms Chaman Kaur | Ms Chua Min Li | Mrs Elle Tan |
-| 3 Collaboration | Miss Lee Sor Luan | Ms Sabrina | Mdm Soo Li Hong |
-| 3 Adaptability | Mdm Hairani Sani | Ms Yunn | Miss Hani | 
-| 3 Respect | Miss Leng Xue Li | Miss Li Shun|
-| 3 Resilience | Miss Dhiviya Selva Raju | Mdm Li Bo | Mdm Yeo Huay Ling |
-| 3 Empathy | Ms Marcia Koh | Mrs Komathi Jayaraman |
+| 3 Integrity | Chaman Kaur Sandhu, Ms | Chua Min Li, Ms | Lim Yi Xi Elle (Mrs Tan) |
+| 3 Collaboration | Lee Sor Luan, Ms  | Nur Sabrina Bte Wahid, Mdm | Soo Li Hong, Mdm |
+| 3 Adaptability | Hairani Bte Sani, Mdm | Yunn Aykaye, Ms | Nursarah Hanie Binte Mohamad Feiruz, Ms | 
+| 3 Respect | Leng Xue Li, Ms | Li Shun, Ms |
+| 3 Resilience | Dhiviya Selva Raju, Ms | Li Bo, Mdm | Yeo Huay Ling Gwen, Mdm |
+| 3 Empathy | Koh Ming Li Marcia, Ms | Komathi Jayaraman, Mrs |
