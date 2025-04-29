@@ -12,6 +12,7 @@ variant: markdown
 |  |
 |---|
 | Ang Yan Ling, Ms|
+| Chiam Gok Chiang, Mdm|
 | Chung Choon Boey, Ms|
 | Lee Sor Luan |
 | Li Bo, Mdm|
@@ -21,7 +22,7 @@ variant: markdown
 | Oh Yee Lu Joycelyn (Mrs Chin) |
 | Ong Suan Hong, Ms |
 | Pak Xin Yan, Ms |
-| Soo Li Hong, Ms|
+| Soo Li Hong, Mdm|
 | Wong Fong Ling, Ms |
 | Woo Wai Kwan, Mdm |
 | Xu Bin Benny, Mr |
