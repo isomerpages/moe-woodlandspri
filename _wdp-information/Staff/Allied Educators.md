@@ -6,10 +6,11 @@ third_nav_title: Staff
 variant: markdown
 ---
 ### **Allied Educators**
+
 |  | |  |  | |
 |---|---|---|---|---|
 | **School Counsellor** | 
-Lee Hui Min, Elizabeth, Ms
+|Lee Hui Min, Elizabeth, Ms|
 |
 
 |  | |  |  | |
