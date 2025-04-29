@@ -10,12 +10,12 @@ variant: markdown
 |  | |  |  | |
 |---|---|---|---|---|
 | **ICT Manager** | 
-|Mr Soh Kee Seng | 
+|Soh Kee Seng| 
 |
 
 |  | |  |  | |
 |---|---|---|---|---|
 | **Desktop Engineers** | 
-|1. Mr Kesavan Kalithasan |
-|2. Mr Razin Zami
+|Kesavan Kalithasan |
+|Razin Zamir Bin Mohamad Noor|
 |
