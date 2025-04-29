@@ -23,65 +23,65 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD – English (Covering)</strong>
+<p><strong>HOD English (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Doreen Chan</p>
+<p>Chan Siew Li Doreen, Ms</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD – Mother Tongue</strong>
+<p><strong>HOD Mother Tongue</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Suan Hong</p>
+<p>Ong Suan Hong, Ms</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD – Science</strong>
+<p><strong>HOD Science</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Michelle Kan</p>
+<p>Peh Michelle (Mrs Kan)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD – Mathematics</strong>
+<p><strong>HOD Mathematics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Zi Ping</p>
+<p>Chan Zi Ping, Ms</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD – Student Management</strong>
+<p><strong>HOD Student Management</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Harshad Bin Ismail</p>
+<p>Harshad Bin Ismail</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD – ICT</strong>
+<p><strong>HOD ICT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lalitha Sathya Prasad</p>
+<p>Lalitha Sathya Prasad, Mrs</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD – PE, CCA &amp; Aesthetics</strong>
+<p><strong>HOD PE, CCA &amp; Aesthetics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Amy Soh-Kong Siew Ling</p>
+<p>Kong Siew Ling Amy (Mrs Soh)</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Yan Ling</p>
+<p>Ang Yan Ling, Ms</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sumathi Elvin</p>
+<p>Sumathi d/o Vadiveloo (Mrs Elvin)</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ariel-Thia Woon Ling</p>
+<p>Thia Woon Ling (Mrs Ariel)</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mariani Bte Salam</p>
+<p>Mariani Bte Salam, Mdm</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharifah Hafsah Bte Md Hanifa</p>
+<p>Sharifah Hafsah Bte Md Hanifa, Mdm</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sally Ong-Tan Sock Li</p>
+<p>Tan Sock Li, Sally (Mrs Ong)</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +194,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kueh Li Li</p>
+<p>Kueh Li Li (Mrs Loh)</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Wan Ling</p>
+<p>Lim Wan Ling, Mdm</p>
 </td>
 </tr>
 <tr>
@@ -212,7 +212,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Wei Chieh</p>
+<p>Ng Wei Chieh</p>
 </td>
 </tr>
 <tr>
@@ -221,7 +221,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sivodayan</p>
+<p>Sivodayan Jagatheswari, Mrs</p>
 </td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Xu Bin Benny</p>
+<p>Xu Bin Benny</p>
 </td>
 </tr>
 <tr>
@@ -239,7 +239,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Low Mui Hong</p>
+<p>Lim Mui Hong (Mrs Low)</p>
 </td>
 </tr>
 <tr>
@@ -248,7 +248,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suriyah Bte Sapari</p>
+<p>Suriyah Bte Sapari, Mdm</p>
 </td>
 </tr>
 <tr>
@@ -257,7 +257,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Barry Chin</p>
+<p>Chin Junli Barry</p>
 </td>
 </tr>
 <tr>
@@ -266,7 +266,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zainuddin Mohamad</p>
+<p>Zainuddin Bin Mohamad</p>
 </td>
 </tr>
 <tr>
@@ -275,7 +275,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Derek Khor</p>
+<p>Khor Kian Lum Derek</p>
 </td>
 </tr>
 </tbody>
