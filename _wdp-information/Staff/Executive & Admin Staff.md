@@ -10,35 +10,36 @@ variant: markdown
 |  | |  |  | |
 |---|---|---|---|---|
 | **Admin Manager** | 
-Ms Teo Hsiao Ying| 
+Teo Hsiao Ying, Ms| 
 |
 
 |  | |  |  | |
 |---|---|---|---|---|
 | **Operation Manager** | 
-Mr Siew Wai Hong |
+Siew Wai Hong, Mr |
 |
 
 |  | |  |  | |
 |---|---|---|---|---|
 | **Administrative Executive** | 
-Ms Chew Xiuzi |
+Chew Xiuzi, Ms|
 |
 
 
 |  | |  |  | |
 |---|---|---|---|---|
 | **Corporate Support Officers** | 
-Mdm Leamathi d/o Murugiah Krisnan |
-Mdm Loy Soo Fong, Adelin | 
+|Leamathi d/o Murugiah Krisnan, Mdm |
+|Loy Soo Fong, Adelin, Mdm | 
 |
 
 
 |  | |  |  | |
 |---|---|---|---|---|
 | **Operations Support Officers** | 
-Mdm Badariah Binte Atan (Admin) |
-Mr Ng Kim Seng |
-Mdm Sabiah Binte Ariffin |
-Mdm Oh Guek Hong |
+|Badariah Binte Atan, Mdm (Admin) |
+|Ng Kim Seng, Mr |
+|Sabiah Binte Ariffin, Mdm |
+|Oh Guek Hong, Mdm |
+|Phea Ah Ai, Mdm|
 |
