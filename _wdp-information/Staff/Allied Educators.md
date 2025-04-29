@@ -9,22 +9,23 @@ variant: markdown
 |  | |  |  | |
 |---|---|---|---|---|
 | **School Counsellor** | 
-Ms Elizabeth Lim Hui Min |
+Lee Hui Min, Elizabeth, Ms |
 |
 
 |  | |  |  | |
 |---|---|---|---|---|
 | **Learning Behavioural Support** | 
-|1. Mr Bernard Liang|
-|2. Ms Bithiah Cheong |
-|3. Mdm Junita Binte Menoler | 
-|4. Mdm Thoraiyyah Binte Omar | 
+|Liang Yaowen Bernard, Mr|
+|Cheong Yang'En Bithiah, Ms |
+|Junita Binte Menoler, Mdm | 
+|Thoraiyah Binte Omar, Mdm|
 |
+
 
 
 |  | |  |  | |
 |---|---|---|---|---|
 | **Teaching & Learning** | 
- |1. Mdm Norlizah Binti Naemat | 
- |2. Mdm Jo Tan |
+ |Norlizah Binti Naemat, Mdm | 
+ |Tan Geok Choon Jo, Mdm |
  |
