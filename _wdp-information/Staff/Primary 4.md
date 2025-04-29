@@ -11,9 +11,9 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| 4 Integrity | Mdm Ang Yan Ling | Ms Mishon Lew | Mdm Tan Suat Horng|  
-| 4 Collaboration | Mdm Theivanai | Mdm Neo Siew Bee | Mdm Tan Yin Fun|
-| 4 Adaptability | Mrs Lalitha Sathya Prasad | Mr Lim Say Hwee | 
-| 4 Respect | Miss Pak Xin Yan | Mrs Diana Cheng | Ms Hazel |
-| 4 Resilience | Ms Lee Soon Hong | Mr Tamilarasan |
-| 4 Empathy | Ms Melissa | Mdm Siti Mazelina | Mrs Aru|
+| 4 Integrity | Ang Yan Ling, Ms | Lew Kooi Eng, Ms | Tan Suat Horng, Ms |  
+| 4 Collaboration | Arivelagan Theivanai, Mdm | Neo Siew Bee, Mdm | Tan Yin Fun, Mdm |
+| 4 Adaptability | Lalitha Sathya Prasad, Mrs | Lim Say Hwee | 
+| 4 Respect | Pak Xin Yan, Ms | Yoong Seek Ling (Mrs Diana Cheng) | Tan Tang Eng Hazel, Ms |
+| 4 Resilience | Lee Soon Hong, Ms | Tamilarasan s/o Palani Welu |
+| 4 Empathy | Chan Hui-wen Melissa, Ms | Siti Mazelina Bte Abdul Aziz, Mdm | Ramayee D/O Marimuthu, Mdm |
