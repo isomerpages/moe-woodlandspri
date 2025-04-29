@@ -11,11 +11,11 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| 1 Integrity  | Mrs Nirmala Menon | Miss Irene |  
-| 1 Collaboration |  Mrs Andrea Sim | Mr Zainuddin | Mr Udori| 
-| 1 Adaptability | Mrs Veronica Yap | Mr Sakthivel |  
-| 1 Respect | Mr Lee Aik Hao | Mdm Noorzihan Hussein |   
-| 1 Resilience | Mr Barry Chin | Ms Jovyn Lim | 
-| 1 Responsibility | Mdm Cahaya Nirmala | Ms Low Lee Ling | Ms  Zuraida | 
-| 1 Empathy | Miss Low Hui Yi | Mdm Ramlah 
+| 1 Integrity  | KP Nirmala (Mrs Menon) | Poh Hui Lin Irene, Ms|  
+| 1 Collaboration | Tan Poh Geok Andrea (Mrs Sim) | Zainuddin Bin Mohamad | Mohamaed Udori Bin Rodi | 
+| 1 Adaptability | Ng Lay Way Veronica (Mrs Yap) | Sakthivel S/O Muthu |  
+| 1 Respect | Lee Aik Hao | Mdm Noorzihan Hussein, Mdm |   
+| 1 Resilience | Chin Junli Barry | Lim Bee Yan Jovyn, Ms | 
+| 1 Responsibility | Cahaya Nirmala Bte Ahmad, Mdm | Low Lee Ling, Ms | Zuraida Bte Neti, Mdm | 
+| 1 Empathy | Low Hui Yi, Ms | Ramlah Bte Hassan, Mdm | Lew Ern Nah, Ms
 |
