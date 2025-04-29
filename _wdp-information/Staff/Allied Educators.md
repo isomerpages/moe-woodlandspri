@@ -9,7 +9,7 @@ variant: markdown
 |  | |  |  | |
 |---|---|---|---|---|
 | **School Counsellor** | 
-Lee Hui Min, Elizabeth, Ms |
+Lee Hui Min, Elizabeth, Ms
 |
 
 |  | |  |  | |
