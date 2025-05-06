@@ -17,5 +17,5 @@ variant: markdown
 | 1 Respect | Lee Aik Hao, Mr | Mdm Noorzihan Hussein, Mdm |   
 | 1 Resilience | Chin Junli Barry, Mr | Lim Bee Yan Jovyn, Ms | 
 | 1 Responsibility | Cahaya Nirmala Bte Ahmad, Mdm | Low Lee Ling, Ms | Zuraida Bte Neti, Mdm | 
-| 1 Empathy | Low Hui Yi, Ms | Ramlah Bte Hassan, Mdm | Lew Ern Nah, Ms
+| 1 Empathy | Low Hui Yi, Ms | Ramlah Bte Hassan, Mdm |
 |
