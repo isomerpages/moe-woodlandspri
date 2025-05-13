@@ -21,10 +21,14 @@ Stall 8 | Tan Yap Keng, Ms
 |  | |  |  | |
 |---|---|---|---|---|
 | **Cleaning Team** | 
+Chew Kuan Yam, Mr |
 Homaili Bin Awi, Mr |
 Koenadi Bin Rabo, Mr |
 Lee Ngak Eng, Ms |
 Michelle Tan Geok Tin, Ms (Supervisor)|
+Ong Yee Keok, Ms|
+Tan Shi Yin, Ms|
+Tumini Bte Puniman, Ms|
 |
 
 
