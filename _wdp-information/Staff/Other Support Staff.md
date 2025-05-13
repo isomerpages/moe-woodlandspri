@@ -21,13 +21,10 @@ Stall 8 | Tan Yap Keng, Ms
 |  | |  |  | |
 |---|---|---|---|---|
 | **Cleaning Team** | 
-Homaili Bin Awi |
-Koenadi Bin Rabo |
-Lee Ngak Eng |
-Mawi Bin Subadi |
-Michelle Tan Geok Tin (Supervisor)|
-Norsa Bin Subadi|
-Ruzimah Bte AB Manap |
+Homaili Bin Awi, Mr |
+Koenadi Bin Rabo, Mr |
+Lee Ngak Eng, Ms |
+Michelle Tan Geok Tin, Ms (Supervisor)|
 |
 
 
