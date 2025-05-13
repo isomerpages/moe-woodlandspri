@@ -10,24 +10,21 @@ variant: markdown
 |  | |  |  | |
 |---|---|---|---|---|
 | **Canteen** | 
-Stall 1 | Chio Tee Seng | Tay Thiam Huay|
-Stall 2 | Kamariah Binte Kabol| Zalinah Binte Abdul Razuk| 
-Stall 3| Wee Chwee Ang | Chew Kam Fong|
-Stall 5| Law Tian Seng | Law Ah Moi|
-Stall 7 | Sabariah Binte Ali | Siti Norizzura Binte Amiruddin | Amiruddin Bin Abdullah |
-Stall 8 | Tan Yap Keng
+Stall 1 | Chio Tee Seng, Mr | Tay Thiam Huay, Ms|
+Stall 2 | Kamariah Binte Kabol, Ms| Zalinah Binte Abdul Razuk, Ms| 
+Stall 3| Wee Chwee Ang, Mr | Chew Kam Fong, Ms|
+Stall 5| Law Tian Seng, Mr | Law Ah Moi, Ms|
+Stall 7 | Sabariah Binte Ali, Ms | Siti Norizzura Binte Amiruddin, Ms | Amiruddin Bin Abdullah, Mr |
+Stall 8 | Tan Yap Keng, Ms
 |
 
 |  | |  |  | |
 |---|---|---|---|---|
 | **Cleaning Team** | 
-Homaili Bin Awi |
-Koenadi Bin Rabo |
-Lee Ngak Eng |
-Mawi Bin Subadi |
-Michelle Tan Geok Tin (Supervisor)|
-Norsa Bin Subadi|
-Ruzimah Bte AB Manap |
+Homaili Bin Awi, Mr |
+Koenadi Bin Rabo, Mr |
+Lee Ngak Eng, Ms |
+Michelle Tan Geok Tin, Ms (Supervisor)|
 |
 
 
