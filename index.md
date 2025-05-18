@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Double Champions @ Volleyball NSG 2025!
+          description: ""
+          url: https://www.facebook.com/woodlandspri/posts/pfbid0zQqN8oQ4RzJnFUM94pQv4pwEK13QcSSWDLJAHK5R1SnvGNdk2Lw26K4docwKX6ewl
         - title: PBL with Prime Minister
           description: ""
           url: /prime-minister-visit-2024/
@@ -17,9 +20,6 @@ sections:
         - title: National Day Celebration 2024
           description: ""
           url: https://www.facebook.com/share/p/5SwDS8U69qMotZ39/
-        - title: GLEE Fest 2024
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid0mvgb4nNv9RHVycN7wPRMbjuK976v6BWTJrc6z5nfdETCKpvqzGc6daq1x56yVWEBl
       background: /images/Banner_Photo.jpg
       variant: image
   - infopic:
