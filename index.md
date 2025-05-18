@@ -20,7 +20,7 @@ sections:
         - title: GLEE Fest 2024
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid0mvgb4nNv9RHVycN7wPRMbjuK976v6BWTJrc6z5nfdETCKpvqzGc6daq1x56yVWEBl
-      background: /images/Homepage Banners/homepage_banner_pm_visit.jpg
+      background: /images/Banner_Photo.jpg
       variant: image
   - infopic:
       title: Play-Based Learning with Prime Minister
