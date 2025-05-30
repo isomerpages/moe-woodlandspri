@@ -23,6 +23,15 @@ sections:
       background: /images/Banner_Photo.jpg
       variant: image
   - infopic:
+      title: Joint Mid-Year School Holidays Advisory
+      id: infopic
+      description: School holidays are coming. Stay safe by following the tips in the
+        Joint Mid-Year Holidays Advisory.
+      button: Start Reading
+      url: /files/2025_Mid_Of_Year_Joint_Advisory.pdf
+      alt: Image alt text
+      image: /images/Hero_sections/MID_YEAR_ADVISORY.jpg
+  - infopic:
       title: Play-Based Learning with Prime Minister
       id: infopic
       description: On Tuesday, 17th September 2024, Prime Minister Lawrence Wong made
@@ -32,15 +41,6 @@ sections:
       url: /prime-minister-visit-2024/
       image: /images/PM Visit 2024/pm_visit_playing_game.jpg
       alt: Image alt text
-  - infopic:
-      title: Rhythm in the Woods 2024 Issue 2
-      id: infopic
-      description: The latest issue of our school newsletter, Rhythm in the Woods, is
-        ready for viewing.
-      button: Start Reading
-      url: /curriculum/languages-math-and-science/english/newsletters/
-      alt: Image alt text
-      image: /images/News Letters/newsletter_2024_2.jpg
   - infopic:
       title: Learning For Life Programme
       description: Developing Character through Sports is an important component of
