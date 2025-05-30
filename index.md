@@ -28,9 +28,9 @@ sections:
       description: School holidays are coming. Stay safe by following the tips in the
         Joint Mid-Year Holidays Advisory.
       button: Start Reading
-      url: /curriculum/languages-math-and-science/english/newsletters/
+      url: /files/2025_Mid_Of_Year_Joint_Advisory.pdf
       alt: Image alt text
-      image: /images/News Letters/newsletter_2024_2.jpg
+      image: /images/Hero_sections/MID_YEAR_ADVISORY.jpg
   - infopic:
       title: Play-Based Learning with Prime Minister
       id: infopic
