@@ -32,7 +32,7 @@ academic level.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Complete the Transfer Wait List FormSG: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6617513ce9cef831282f05e3</a>
+<p>Complete the Transfer Wait List FormSG: <a href="https://form.gov.sg/6617513ce9cef831282f05e3" rel="noopener nofollow" target="_blank">https://form.gov.sg/6617513ce9cef831282f05e3</a>
 </p>
 </li>
 </ul>
@@ -57,7 +57,7 @@ in the following year.</p>
 <p>📞 6269 7410</p>
 </li>
 <li>
-<p>✉️ <a rel="noopener noreferrer nofollow" target="_blank">wdp@moe.edu.sg</a>
+<p>✉️<a href="wdp@moe.edu.sg" rel="noopener nofollow" target="_blank"> wdp@moe.edu.sg</a>
 </p>
 </li>
 </ul>
