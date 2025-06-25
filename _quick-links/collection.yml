@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - For Parents/Transfer Wait List.md
       - For Parents/.keep
       - For Parents/2025 Booklists and Uniform Sales Dates.md
       - For Parents/MOE Finanical Assistance Scheme (FAS).md
