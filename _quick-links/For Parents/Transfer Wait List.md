@@ -36,8 +36,7 @@ academic level.</p>
 </p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong><u>Notification</u></strong>
 <br>Applicants will be contacted only if a suitable vacancy arises. We seek
 your understanding that the school may not be able to respond to every
