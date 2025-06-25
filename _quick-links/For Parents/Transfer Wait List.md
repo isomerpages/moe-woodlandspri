@@ -57,8 +57,7 @@ in the following year.</p>
 <p>📞 6269 7410</p>
 </li>
 <li>
-<p>✉️<a href="wdp@moe.edu.sg" rel="noopener nofollow" target="_blank"> wdp@moe.edu.sg</a>
-</p>
+<p>✉️ wdp@moe.edu.sg</p>
 </li>
 </ul>
 <p></p>
