@@ -2,16 +2,16 @@ collections:
   quick-links:
     output: true
     order:
+      - For Parents/Transfer Wait List.md
+      - For Parents/.keep
       - For Parents/2025 Booklists and Uniform Sales Dates.md
       - For Parents/MOE Finanical Assistance Scheme (FAS).md
-      - For Parents/For Parents.md
       - "For Parents/P1 Registration: Parent Volunteer Scheme.md"
       - For Parents/Calendar of Events.md
       - For Parents/Circulars.md
       - For Parents/PSG Registration.md
       - For Parents/School Services.md
       - For Parents/School Social Media Links.md
-      - For Parents/.keep
       - For Students/For Students.md
       - For Students/Leave of Absence (LOA) Scheme.md
       - For Students/HBL Info.md
