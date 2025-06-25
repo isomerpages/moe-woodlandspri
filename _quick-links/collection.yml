@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/For Parents.md
       - For Parents/2025 Booklists and Uniform Sales Dates.md
       - For Parents/MOE Finanical Assistance Scheme (FAS).md
       - "For Parents/P1 Registration: Parent Volunteer Scheme.md"
