@@ -14,7 +14,6 @@ variant: markdown
 | Ang Yan Ling, Ms|
 | Chiam Gok Chiang, Mdm|
 | Chung Choon Boey, Ms|
-| Lee Sor Luan, Ms |
 | Li Bo, Mdm|
 | Lim Wan Ling, Mdm |
 | Li Shun, Ms |
