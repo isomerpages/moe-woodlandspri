@@ -13,7 +13,7 @@ variant: markdown
 |---|---|---|---|
 | 4 Integrity | Ang Yan Ling, Ms | Lew Kooi Eng, Ms | Tan Suat Horng, Ms |  
 | 4 Collaboration | Arivelagan Theivanai, Mdm | Neo Siew Bee, Mdm | Tan Yin Fun, Mdm |
-| 4 Adaptability | Lalitha Sathya Prasad, Mrs | Lim Say Hwee, Mr | 
+| 4 Adaptability | Lalitha Sathya Prasad, Mrs | Chay Hui Ying, Ms | 
 | 4 Respect | Pak Xin Yan, Ms | Yoong Seek Ling (Mrs Diana Cheng) | Tan Tang Eng Hazel, Ms |
 | 4 Resilience | Lee Soon Hong, Ms | Tamilarasan s/o Palani Welu, Mr |
 | 4 Empathy | Chan Hui-wen Melissa, Ms | Siti Mazelina Bte Abdul Aziz, Mdm | Ramayee D/O Marimuthu, Mdm |
