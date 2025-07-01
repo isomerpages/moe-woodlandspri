@@ -23,7 +23,7 @@ variant: markdown
 | **Senior Teacher – English** | Chaman Kaur Sandhu, Ms |
 | **Senior Teacher – Mathematics** | Nazerah Bte Mohamed, Mdm |
 | **Senior Teacher – Science** | Lee Soon Hong, Ms |
-| **Senior Teacher – Chinese Language** | Chung Choon Boey, Ms
+| **Senior Teacher – Chinese Language** | Chung Choon Boey, Ms |
 | **Senior Teacher – Malay Language** | Ibrizi Bte Ishak, Mdm |
 | **Senior Teacher – Tamil Language** | S Sarasvathy, Mdm |
 |**Senior Teacher - Character & Citizenship Education** | Hairani Bte Sani, Mdm
