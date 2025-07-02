@@ -44,3 +44,35 @@ variant: markdown
 ||2-3 Jun| P4 Reporters Programme (ALP)| For selected P4 students.
 ||24-25 Jun|P6 Supplementary Lessons
 ||26 Jun|P6 Learning Journey to Sungei Buloh
+
+
+## **TERM 3**
+
+| Week | Date     | Key Events | Remarks|
+| -------- | -------- | -------- | -------- |
+1 | 2 Jul | P4 Social Studies Learning Journey (LJ) to Kreta Ayer Heritage Gallery | During curriculum hours. Each Each P4 class will be scheduled to attend the LJ on one of the 2 days. 
+|| 2-5 JulP5 Overseas Learning Journey (OLJ) to Danang, Vietnam (4D3N) | For selected P5 pupils only. 
+|1-3| 3-17 Jul | Mother Tongue Language Fornight Activities | During curriculum hours.
+|2 | 7 Jul | Youth Day | School Holiday
+|| 9 Jul | Attendance & Temperature-Taking Exercise (Semester 2) | All pupils to bring along a working thermometer.
+||| Student Leaders Summit 3 | After curriculum hours. For all student leaders only.
+| | 12 Jul | P5 National Education (NE) Show| For all P5 pupils only.
+|3|17-18 Jul |Class Photo-Taking Session| Classes will be scheduled over the 2 days.
+|4|23 Jul | P5 LJ to Indian Heritage Centre (IHC) | During curriculum hours. Each P5 class will be scheduled to attend the LJ on one of the two days.
+||| P6 Prelim Oral Day 1 | After curriculum hours |
+||24 Jul | Racial Harmony Day commemoration| Pupils can come to school in ethnic attires and school shoes.
+||25 Jul| P6 Prelim Oral Day 2| After curriculum hours.
+|5| 29 Jul| P4 Social Studies Learning Journey (LJ) to Kreta Ayer Heritage Gallery | During curriculum hours. Each P4 class will be scheduled to attend the LJ on one of the 2 days. 
+|6| 8 Aug| National Day Celebration| Pupils will be dismissed at 10.30am.
+||9 Aug| National Day | Public Holiday|
+|7|11 Aug| School Holiday (in lieu of National Day)| Pupils will return back to school on 12 Aug (Tue).
+||13-14 Aug| PSLE Oral Exams Day 1 & 2| P1-P5 pupils do not need to report to school. 
+|8| 18 Aug| P6 Prelim Listening Comprehension (LC) - EL/FEL & MTL/FMTL| During curriculum hours.
+||20 Aug| P6 Prelim - MA/FMA|
+||21 Aug| P6 Prelim- EL/FEL Paper 1 & 2|
+||22 Aug| P6 Prelim MTL/FMTL Paper 1 & 2|
+|9| 25 Aug| P6 Prelim SC/FSC|
+||26 Aug| P6 Prelim - HMT Paper 1 & 2|
+|10| 4 Sep| Teachers' Day Celebration| Pupils will be dismissed at 10.30am. 
+||5 Sep| Teachers' Day| School Holiday|
+|Sep Hols| 11-12 Sep| P6 Supplementary Lessons|Details of programmes will be provided closer to the actual date. 
