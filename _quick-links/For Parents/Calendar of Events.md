@@ -51,7 +51,7 @@ variant: markdown
 | Week | Date     | Key Events | Remarks|
 | -------- | -------- | -------- | -------- |
 1 | 2 Jul | P4 Social Studies Learning Journey (LJ) to Kreta Ayer Heritage Gallery | During curriculum hours. Each Each P4 class will be scheduled to attend the LJ on one of the 2 days. 
-|| 2-5 JulP5 Overseas Learning Journey (OLJ) to Danang, Vietnam (4D3N) | For selected P5 pupils only. 
+|| 2-5 Jul|P5 Overseas Learning Journey (OLJ) to Danang, Vietnam (4D3N) | For selected P5 pupils only. 
 |1-3| 3-17 Jul | Mother Tongue Language Fornight Activities | During curriculum hours.
 |2 | 7 Jul | Youth Day | School Holiday
 || 9 Jul | Attendance & Temperature-Taking Exercise (Semester 2) | All pupils to bring along a working thermometer.
@@ -75,4 +75,4 @@ variant: markdown
 ||26 Aug| P6 Prelim - HMT Paper 1 & 2|
 |10| 4 Sep| Teachers' Day Celebration| Pupils will be dismissed at 10.30am. 
 ||5 Sep| Teachers' Day| School Holiday|
-|Sep Hols| 11-12 Sep| P6 Supplementary Lessons|Details of programmes will be provided closer to the actual date. 
+|Sep Hols| 11-12 Sep| P6 Supplementary Lessons|Details of programmes will be provided closer to the actual date.
