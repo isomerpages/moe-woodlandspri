@@ -101,5 +101,21 @@ variant: markdown
 ||9 Oct| Student Leaders Investiture cum Appreciation Lunch| For all student leaders only.
 |5|13 Oct| P2 Learning Journey (LJ) to Gardens By The Bay| Classes will be scheduled over the 2 days.
 ||13-15 Oct| PSLE Marking Exercise| All pupils do not need to report to school.
-||13-15| P5 Remedial Sessions| For selected P5 pupils only. 
-
+||13-14 Oct| P5 Remedial Sessions| For selected P5 pupils only.
+||14 Oct| P2 Learning Journey (LJ) to Gardens By The Bay| Classes will be scheduled over the 2 days.
+|6| 20 Oct| Deepavali| Public Holiday
+||23 Oct| P3-P5 EOY Exams - EL LC|
+|||P3-P5 EOY Exams - MTL Paper 1|
+||24 Oct| P3-P5 EOY Exams MTL LC|
+|||P3-P5 EOY Exams EL Paper 1|
+|7|30 Oct| P3-P5 EOY Exams - MA/FMA|
+||31 Oct| P3-P5 EOY Exams - EL Paper 2|
+|8| 3 Nov|P3-P5 EOY Exams - MTL/FMTL|
+||4 Nov| P3-P5 EOY Exams - Science/FSC|
+||5 Nov| P3-P5 EOY Exams - HMT|
+|9|10-11 Nov| P6 Games Day & Finale|
+||12 Nov| P5 Games Day|
+||13 Nov| Admin Day| All pupils do not need to report to school.
+||14 Nov| P4 Games Day |
+|10|19 Nov| Student Leaders Workshop| For all student leaders only.
+||21 Nov| Prize Giving Day| Only for all prize recipients & selected invited student guests.
