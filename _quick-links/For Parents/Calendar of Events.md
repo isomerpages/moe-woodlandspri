@@ -76,3 +76,30 @@ variant: markdown
 |10| 4 Sep| Teachers' Day Celebration| Pupils will be dismissed at 10.30am. 
 ||5 Sep| Teachers' Day| School Holiday|
 |Sep Hols| 11-12 Sep| P6 Supplementary Lessons|Details of programmes will be provided closer to the actual date.
+
+## **TERM 4**
+
+| Week | Date     | Key Events | Remarks|
+| -------- | -------- | -------- | -------- |
+|1 | 16 Sep | PSLE Listening Comprehension| P1-P5 pupils do not need to report to school.
+||17 Sep| Student Leaders Summit 4| After curriculum hours and for all student leaders only. 
+||19 Sep| P5 EOY Oral Exams (EL/FEL)|
+|2| 22 Sep| P1 Learning Journey (LJ) to Woodlands Civic Centre| Classes will be scheduled over the 2 days. 
+||22-24 Sep| P6 Study Break| All other pupils are required to report to school.
+||23 Sep | P1 Learning Journey (LJ) to Woodlands Civic Centre| Classes will be scheduled over the 2 days. 
+|||P3 EOY Oral Exams - MTL|
+|||P4 EOY Oral Exams - EL|
+||24 Sep| P3 EOY Oral Exams - EL|
+|||P3 EOY Oral Exams - MTL|
+||25-26 Sep| P3 Home-Based Learning (HBL)| Only P3 pupils do not need to report to school on these two days.
+|2-3|25 Sep - 1 Oct| PSLE Written Exams|
+|3| 29-20 Sep| P4 Home-Based Learning (HBL)| Only P4 pupils do not need to report to school on these two days.
+|3| 29 Sep - 1 Oct| P5 3D2N Camp 2025 @ CCOALC|Details of programmes will be provided closer to the actual date.
+||2 Oct| Children's Day Celebration| Pupils will be dismissed at 10.30am 
+||3 Oct| Children's Day | School Holiday
+|4|8 Oct| P5 EOY Oral Exams (MT/FMT)|
+||9 Oct| Student Leaders Investiture cum Appreciation Lunch| For all student leaders only.
+|5|13 Oct| P2 Learning Journey (LJ) to Gardens By The Bay| Classes will be scheduled over the 2 days.
+||13-15 Oct| PSLE Marking Exercise| All pupils do not need to report to school.
+||13-15| P5 Remedial Sessions| For selected P5 pupils only. 
+
