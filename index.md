@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: National Day Celebration 2025
+          description: ""
+          url: https://www.facebook.com/share/p/19QDF23WGJ/
         - title: Double Champions @ Volleyball NSG 2025!
           description: ""
           url: https://www.facebook.com/woodlandspri/posts/pfbid0zQqN8oQ4RzJnFUM94pQv4pwEK13QcSSWDLJAHK5R1SnvGNdk2Lw26K4docwKX6ewl
@@ -17,9 +20,6 @@ sections:
         - title: P5 Camp 2024
           description: ""
           url: https://www.facebook.com/share/p/oTFfiAWBGQmfw53o/
-        - title: National Day Celebration 2024
-          description: ""
-          url: https://www.facebook.com/share/p/5SwDS8U69qMotZ39/
       background: /images/Banner_Photo.jpg
       variant: image
   - infopic:
