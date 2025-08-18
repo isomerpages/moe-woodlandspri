@@ -15,6 +15,6 @@ variant: markdown
 | 5 Collaboration | Chan Zi Ping, Ms | Khairunnadiah Binte Razali, Ms | S.Sarasvathy, Mdm |
 | 5 Adaptability | Ng Wei Chieh, Mr | Oh Yee Lu Joycelyn (Mrs Chin) | Wong Fong Ling, Ms | Chiam Gok Chiang, Mdm |
 | 5 Respect | Chan Siew Li Doreen, Ms | Kueh Li Li (Mrs Loh) | Suppiah Chandra Sagaran, Mr | Eng Li Hwa Sally, Ms|
-| 5 Resilience | Khor Kian Lum Derek, Mr | Lim Wan Ling, Mdm | Nicolette Brigette Pereira, Ms |
-| 5 Empathy | Guek Swee Ee (Mrs Lim) | 
+| 5 Resilience | Khor Kian Lum Derek, Mr | Lim Wan Ling, Mdm | 
+| 5 Empathy | Guek Swee Ee (Mrs Lim) | Nicolette Brigette Pereira, Ms |
 |
