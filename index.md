@@ -8,15 +8,15 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: Student Leaders' Investiture 2025/2026
+          description: ""
+          url: https://www.facebook.com/share/p/1Do9rMgr6w/?mibextid=wwXIfr
         - title: National Day Celebration 2025
           description: ""
           url: https://www.facebook.com/share/p/19QDF23WGJ/
         - title: P5 OLJ to Danang, Vietnam 2025
           description: ""
           url: https://www.facebook.com/share/p/1Ci8psrHv8/
-        - title: Double Champions @ Volleyball NSG 2025!
-          description: ""
-          url: https://www.facebook.com/woodlandspri/posts/pfbid0zQqN8oQ4RzJnFUM94pQv4pwEK13QcSSWDLJAHK5R1SnvGNdk2Lw26K4docwKX6ewl
         - title: PBL with Prime Minister
           description: ""
           url: /prime-minister-visit-2024/
