@@ -30,7 +30,7 @@ sections:
       button: Start Reading
       url: /files/Joint Advisory/2025_End_Of_Year_Joint_Advisory.pdf
       alt: Image alt text
-      image: /images/Hero_sections/MID_YEAR_ADVISORY.jpg
+      image: /images/2025_EOY_Joint_Advisory.png
   - infopic:
       title: Play-Based Learning with Prime Minister
       id: infopic
