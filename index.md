@@ -23,14 +23,14 @@ sections:
       background: /images/Banner_Photo.jpg
       variant: image
   - infopic:
-      title: Joint Mid-Year School Holidays Advisory
+      title: Joint Year-End School Holidays Advisory
       id: infopic
       description: School holidays are coming. Stay safe by following the tips in the
-        Joint Mid-Year Holidays Advisory.
+        Joint Year-End Holidays Advisory.
       button: Start Reading
-      url: /files/2025_Mid_Of_Year_Joint_Advisory.pdf
+      url: /files/Joint Advisory/2025_End_Of_Year_Joint_Advisory.pdf
       alt: Image alt text
-      image: /images/Hero_sections/MID_YEAR_ADVISORY.jpg
+      image: /images/2025_EOY_Joint_Advisory.png
   - infopic:
       title: Play-Based Learning with Prime Minister
       id: infopic
