@@ -23,6 +23,14 @@ sections:
       background: /images/Banner_Photo.jpg
       variant: image
   - infopic:
+      title: Rhythm in the Woods 2025
+      id: infopic
+      description: Our school newsletter, Rhythm in the Woods, is ready for viewing.
+      button: Start Reading
+      url: https://www.canva.com/design/DAGmrVprlNg/Fy85g5V9zYZOnUIgRC3wyQ/view?utm_content=DAGmrVprlNg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h302941fe4a
+      alt: Image alt text
+      image: /images/News Letters/newsletter_2025.jpg
+  - infopic:
       title: Joint Year-End School Holidays Advisory
       id: infopic
       description: School holidays are coming. Stay safe by following the tips in the
