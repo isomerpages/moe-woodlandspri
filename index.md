@@ -29,6 +29,7 @@ sections:
       button: Start Reading
       url: https://www.canva.com/design/DAGmrVprlNg/Fy85g5V9zYZOnUIgRC3wyQ/view?utm_content=DAGmrVprlNg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h302941fe4a
       alt: Image alt text
+      image: /images/News Letters/newsletter_2025.jpg
   - infopic:
       title: Joint Year-End School Holidays Advisory
       id: infopic
