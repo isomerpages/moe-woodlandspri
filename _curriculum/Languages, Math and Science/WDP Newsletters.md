@@ -8,6 +8,20 @@ variant: markdown
 ### **WDP Newsletters**
 
 
+<figure>
+<img src="/images/News Letters/newsletter_2025_full.jpg" style="width:65%">
+	<figcaption> <br> Rhythm in the Woods<br> 2025 Issue 
+ </figcaption>
+</figure>
+
+[View it on Canva](https://www.canva.com/design/DAGmrVprlNg/Fy85g5V9zYZOnUIgRC3wyQ/view?utm_content=DAGmrVprlNg&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h302941fe4a)
+
+---------------------------------------------------------------------------
+
+
+
+
+
 
 <figure>
 <img src="/images/News Letters/newsletter_2024_2.jpg" style="width:65%">
