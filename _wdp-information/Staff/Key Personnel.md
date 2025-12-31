@@ -23,16 +23,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD English (Covering)</strong>
+<p><strong>HOD English Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Siew Li Doreen, Ms</p>
+<p>Fairuzaman Haidzir, Mr</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Mother Tongue</strong>
+<p><strong>HOD Mother Tongue Languages</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,7 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Student Management</strong>
+<p><strong>HOD Student Development</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,11 +68,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD ICT</strong>
+<p><strong>HOD CCE (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lalitha Sathya Prasad, Mrs</p>
+<p>Ng Wei Chieh, Mr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD ICT (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xu Bin Benny, Mr</p>
 </td>
 </tr>
 <tr>
@@ -93,14 +102,6 @@ variant: tiptap
 <p>Ang Yan Ling, Ms</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Year-Heads &amp; Assistant Year-Heads</strong></h4>
@@ -111,20 +112,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year-Head P1 &amp; P2</strong>
+<p><strong>Year-Head P1 &amp; P2 (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sumathi d/o Vadiveloo (Mrs Elvin)</p>
+<p>Sharifah Hafsah Bte Md Hanifa, Mdm</p>
 </td>
 </tr>
 <tr>
@@ -147,11 +140,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year-Head P2</strong>
+<p><strong>Assistant Year-Head P4 (Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sharifah Hafsah Bte Md Hanifa, Mdm</p>
+<p>Yunn Aykaye, Ms</p>
 </td>
 </tr>
 <tr>
@@ -181,12 +174,31 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head – Chinese Language</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Wan Ling, Mdm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head – English Language (Internal)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Khairunnadiah Binte Razali, Ms</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head – Mathematics (Internal)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Sabrina Bte Wahid, Mdm</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -199,47 +211,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head – Chinese Language</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Wan Ling, Mdm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head – Character Development &amp; Pupil Welfare</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ng Wei Chieh, Mr</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Subject Head – Citizenship Education &amp; Social Studies</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sivodayan Jagatheswari, Mrs</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head – ICT</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Xu Bin Benny, Mr</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head – Information Management</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Mui Hong (Mrs Low)</p>
 </td>
 </tr>
 <tr>
@@ -262,20 +238,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Subject Head – Student Leadership</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Khor Kian Lum Derek, Mr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Subject Head – VIA &amp; Partnership</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zainuddin Bin Mohamad, Mr</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head – Student Leadership (Internal)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Khor Kian Lum Derek, Mr</p>
 </td>
 </tr>
 </tbody>
