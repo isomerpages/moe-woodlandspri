@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **Primary 2**
 
-#### **Primary 2 Form Teachers**
+#### **Primary 2 Form Teachers (2026)**
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
