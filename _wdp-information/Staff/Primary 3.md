@@ -11,9 +11,9 @@ variant: markdown
 
 | Class | Form Teachers |  |  |  |
 |---|---|---|---|---|
-| 3 Integrity | Chaman Kaur Sandhu, Ms | Chua Min Li, Ms | Lim Yi Xi Elle (Mrs Tan) |
-| 3 Collaboration  | Nur Sabrina Bte Wahid, Mdm | Soo Li Hong, Mdm | Kieran Christopher Monteiro, Mr
-| 3 Adaptability | Hairani Bte Sani, Mdm | Yunn Aykaye, Ms | Tan Chek Chee, Mdm |
-| 3 Respect | Leng Xue Li, Ms | Li Shun, Ms |
-| 3 Resilience | Dhiviya Selva Raju, Ms | Li Bo, Mdm | Yeo Huay Ling Gwen, Mdm |
-| 3 Empathy | Koh Ming Li Marcia, Ms | Komathi Jayaraman, Mrs |
+| 3 Integrity | Tan Suat Horng, Ms | Xu Bin Benny, Mr |
+| 3 Collaboration  | Neo Siew Bee, Mdm | Teo Xuan Rui, Ms | 
+| 3 Adaptability | Lee Soon Hong, Ms | Tamilarasan s/o Palani Welu, Mr |
+| 3 Respect | Reshpal Kaur,Ms | Chung Choon Boey, Ms | Hameeda Beevi Abdullah, Mdm |
+| 3 Resilience | Tan Yin Fun, Mdm | Suriyah Bte Sapari, Mdm | Lim Say Hwee, Mr |
+| 3 Empathy | Lam Cheng Cheng, Ms | Siti Mazelina Bte Abdul Aziz, Mdm | Zainuddin Bin Mohamad, Mr |
