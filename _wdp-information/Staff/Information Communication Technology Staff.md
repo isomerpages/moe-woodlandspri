@@ -9,8 +9,9 @@ variant: markdown
 
 |  | |  |  | |
 |---|---|---|---|---|
-| **ICT Manager** | 
+| **ICT Managers** | 
 |Soh Kee Seng, Mr| 
+|Tan Geok Choon Jo, Mdm |
 |
 
 |  | |  |  | |
