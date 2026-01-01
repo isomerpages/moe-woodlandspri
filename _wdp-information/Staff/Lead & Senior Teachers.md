@@ -11,7 +11,6 @@ variant: markdown
 
 |  |  |
 |---|---|
-| **Lead Teacher – English Language** | Chan Siew Li Doreen, Ms |
 | **Lead Teacher – Physical Education (PE)** | Mishon Lew Kooi Eng, Ms|
 
 
