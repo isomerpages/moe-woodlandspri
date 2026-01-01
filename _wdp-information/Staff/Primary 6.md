@@ -7,13 +7,13 @@ variant: markdown
 ---
 ### **Primary 6**
 
-#### **Primary 6 Form Teachers**
+#### **Primary 6 Form Teachers (2026)**
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| 6 Integrity | Koo Jianhua Kenny, Mr | Peh Michelle (Mrs Kan) |  
-| 6 Collaboration | Hameeda Beevi Abdullah, Mdm | Lim Mui Hong (Mrs Low) | Mak Yin Fun Stella, Mdm| 
-| 6 Adaptability | Fatin Nazurah Binte Md Yusof, Ms | Kwok Shee Sang Timothy, Mr | Zhao Xiao Fei, Mdm|
-| 6 Respect| Siti Nuratika Bte Abdullah, Mdm | Teng Aik Jin, Mr | Teo Xuan Rui, Ms |
-| 6 Resilience | Ibrizi Bte Ishak, Mdm | Ong Suan Hong, Ms | Reshpal Kaur, Ms |
-| 6 Empathy | Anisah Bte Osman, Mdm | Narayanasamy Thiagarajan, Mr | Norhaslinda Bte Mokhtar, Ms |
+| 6 Integrity | Shawn Sng Bing Kai, Mr | Nazerah Bte Mohamed, Mdm | Sivodayan Jagatheswari, Mrs |
+| 6 Collaboration | Chan Zi Ping, Ms | Khairunnadiah Binte Razali, Ms | S.Sarasvathy, Mdm | 
+| 6 Adaptability | Ng Wei Chieh, Mr | Wong Fong Ling, Ms | 
+| 6 Respect| Sally Eng Li Hwa, Ms | Kueh Li Li (Mrs Loh) |
+| 6 Resilience | Khor Kian Lum Derek, Mr | Lim Wan Ling, Mdm | Chua Min Li, Ms |
+| 6 Empathy | Guek Swee Ee (Mrs Lim) | Koh Ming Li Marcia, Ms | Tan Tang Eng Hazel, Ms |
