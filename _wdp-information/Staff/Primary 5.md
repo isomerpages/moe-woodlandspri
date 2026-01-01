@@ -7,14 +7,13 @@ variant: markdown
 ---
 ### **Primary 5**
 
-#### **Primary 5 Form Teachers**
+#### **Primary 5 Form Teachers (2026)**
 
 | Class | Form Teachers |  |  |  |
 |---|---|---|---|---|
-| 5 Integrity| Nazerah Bte Mohamed, Mdm | Shawn Sng Bing Kai, Mr | Sivodayan Jagatheswari, Mrs |  
-| 5 Collaboration | Chan Zi Ping, Ms | Khairunnadiah Binte Razali, Ms | S.Sarasvathy, Mdm |
-| 5 Adaptability | Ng Wei Chieh, Mr | Oh Yee Lu Joycelyn (Mrs Chin) | Wong Fong Ling, Ms | Chiam Gok Chiang, Mdm |
-| 5 Respect | Chan Siew Li Doreen, Ms | Kueh Li Li (Mrs Loh) | Suppiah Chandra Sagaran, Mr | Eng Li Hwa Sally, Ms|
-| 5 Resilience | Khor Kian Lum Derek, Mr | Lim Wan Ling, Mdm | 
-| 5 Empathy | Guek Swee Ee (Mrs Lim) | Nicolette Brigette Pereira, Ms |
-|
+| 5 Integrity| Peh Michelle (Mrs Kan) | Arivelagan Theivanai, Mdm | Dhanmathy D/O Panneerselvam, Miss | 
+| 5 Collaboration | Mak Yin Fun Stella, Mdm | Lew Kooi Eng, Ms |
+| 5 Adaptability | Fatin Nazurah Bte Md Yusof, Ms | Koo Jianhua Kenny, Mr |
+| 5 Respect | Kwok Shee Sang Timothy, Mr |  Liyana Dali, Ms |
+| 5 Resilience | Chan Hui-wen Melissa, Ms | Teng Aik Jin, Mr | Rosiah Binte Mokhtar, Ms |
+| 5 Empathy | Fairuzaman Haidzir, Mr | Anisah Bte Osman, Mdm | Ong Suan Hong, Ms |
