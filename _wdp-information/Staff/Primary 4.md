@@ -11,9 +11,9 @@ variant: markdown
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| 4 Integrity | Ang Yan Ling, Ms | Lew Kooi Eng, Ms | Tan Suat Horng, Ms |  
-| 4 Collaboration | Arivelagan Theivanai, Mdm | Neo Siew Bee, Mdm | Tan Yin Fun, Mdm |
-| 4 Adaptability | Lalitha Sathya Prasad, Mrs | Chay Hui Ying, Ms | 
-| 4 Respect | Pak Xin Yan, Ms | Yoong Seek Ling (Mrs Diana Cheng) | Tan Tang Eng Hazel, Ms |
-| 4 Resilience | Lee Soon Hong, Ms | Tamilarasan s/o Palani Welu, Mr |
-| 4 Empathy | Chan Hui-wen Melissa, Ms | Siti Mazelina Bte Abdul Aziz, Mdm | Ramayee D/O Marimuthu, Mdm |
+| 4 Integrity | Chaman Kaur Sandhu, Ms | Lim Yi Xi Elle (Mrs Tan) | 
+| 4 Collaboration | Nur Sabrina Bte Wahid, Mdm | Kieran Christopher Monteiro, Mr | Soo Li Hong, Mdm | 
+| 4 Adaptability | Yunn Aykaye, Ms | Hairani Bte Sani, Mdm | Chay Hui Ying, Ms | 
+| 4 Respect | Leng Xue Li, Ms | Li Shun, Ms | 
+| 4 Resilience | Dhiviya Selva Raju, Ms | Yeo Huay Ling Gwen, Mdm | Li Bo, Mdm | 
+| 4 Empathy | Komathi Jayaraman, Mrs | Viro Kaur (Mrs Singh) |  Ang Yan Ling, Ms | 
