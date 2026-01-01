@@ -22,11 +22,3 @@ variant: markdown
 |Thoraiyah Binte Omar, Mdm|
 |
 
-
-
-|  | |  |  | |
-|---|---|---|---|---|
-| **Teaching & Learning** | 
- |Norlizah Binti Naemat, Mdm | 
- |Tan Geok Choon Jo, Mdm |
- |

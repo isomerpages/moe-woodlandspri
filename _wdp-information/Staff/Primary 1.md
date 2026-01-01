@@ -7,15 +7,15 @@ variant: markdown
 ---
 ### **Primary 1**
 
-#### **Primary 1 Form Teachers**
+#### **Primary 1 Form Teachers (2026)**
 
 | Class | Form Teachers |  |  |
 |---|---|---|---|
-| 1 Integrity  | KP Nirmala (Mrs Menon) | Poh Hui Lin Irene, Ms|  
-| 1 Collaboration | Tan Poh Geok Andrea (Mrs Sim) | Normah, Mdm | Mohamaed Udori Bin Rodi, Mr | 
-| 1 Adaptability | Ng Lay Way Veronica (Mrs Yap) | Sakthivel S/O Muthu, Mr |  
-| 1 Respect | Lee Aik Hao, Mr | Mdm Noorzihan Hussein, Mdm |   
-| 1 Resilience | Chin Junli Barry, Mr | Lim Bee Yan Jovyn, Ms | 
-| 1 Responsibility | Cahaya Nirmala Bte Ahmad, Mdm | Low Lee Ling, Ms | Zuraida Bte Neti, Mdm | 
-| 1 Empathy | Low Hui Yi, Ms | Ramlah Bte Hassan, Mdm |
+| 1 Integrity  | Sum Chia Ling, Ms | Mdm Noorzihan Hussein, Mdm|
+| 1 Collaboration | Ng Chan Joo, Mdm | Siti Nuratika Bte Abdullah, Mdm |
+| 1 Adaptability | Rekha Naidu, Mrs | Pak Xin Yan, Ms |  
+| 1 Respect | Nur Hana Bte Abdul Hamid, Mdm | Muhammad Azri Bahajjajj Bin Shaik | 
+| 1 Resilience | Chan Siew Li Doreen, Ms | Manimegalai d/o Chinna G, Mdm |
+| 1 Responsibility | Ibrizi Bte Ishak, Mdm |  
+| 1 Empathy | Kong Siew Ling Amy (Mrs Soh) | Tan Khar Choo Doris (Mrs Yeo) |
 |
