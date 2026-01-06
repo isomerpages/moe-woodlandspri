@@ -39,7 +39,7 @@ them.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 </li>
 </ul>
-<h3><strong>WDP Rules and Regulations</strong></h3>
+<h3><strong>School Rules and Regulations</strong></h3>
 <h5><strong>A) <u>NATIONAL ANTHEM &amp; PLEDGE</u></strong></h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -117,7 +117,7 @@ shorts) during PE lessons.</p>
 <p><strong>Physical Education (PE) Attire</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PE_attire.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PE_attire.jpg">
 </div>
 <p></p>
 <p><strong>Primary 1-2:</strong> 
@@ -180,6 +180,7 @@ allowed.</p>
 </div>
 </li>
 </ol>
+<h5><strong>D)&nbsp; <u>PROPER BEHAVIOUR</u></strong></h5>
 <p><strong>Creating a Safe and Conducive Learning Environment</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -197,6 +198,7 @@ during curriculum or recess time without the permission of the Principal
 school after curriculum time for remedial lessons, CCA etc are not allowed
 to leave the school compound unless they have a written note from their
 parents and permission is given by the school.</p>
+<p></p>
 </li>
 <li>
 <p>There are designated play areas for students to play safely during recess.
@@ -254,6 +256,7 @@ and parents will be asked to come to school to collect it.</p>
 <p></p>
 <p><strong><em>* smart watches with messaging and/or calling functions</em></strong>
 </p>
+<p></p>
 </li>
 </ol>
 <p><strong>Building a Respectful Community</strong>
@@ -274,6 +277,7 @@ including counselling, safety planning, and regular check-ins. Where appropriate
 we use restorative practices such as guided conversations or mediation
 to help students understand the impact of their actions, make amends and
 mend relationships.</p>
+<p></p>
 </li>
 </ol>
 <p><strong>SERIOUS OFFENCES</strong>
@@ -321,6 +325,7 @@ and its implications.</p>
 <li>
 <p>Students to be detained during recess, and are to bring their own food
 from home and consume it during their detention.</p>
+<p></p>
 </li>
 <li>
 <p>For serious offences, other consequences may include suspension from school,
