@@ -68,10 +68,10 @@ or a letter from the parent or guardian.</p>
 <p></p>
 </li>
 <li>
-<p>Please note that students are not allowed to go on overseas leave on school
-days. Such absence will be reflected as "Absence without Valid reason"
-in the school attendance. No marks will be awarded for any examination
-and weighted assessments during this period.</p>
+<p>Please note that students are <strong><u>not</u></strong> allowed to go
+on overseas leave on school days. Such absence will be reflected as "Absence
+without Valid reason" in the school attendance. No marks will be awarded
+for any examination and weighted assessments during this period.</p>
 </li>
 </ol>
 <h5><strong>C) <u>PROPER ATTIRE – SCHOOL ATTIRE AND PERSONAL APPEARANCE</u></strong></h5>
@@ -180,7 +180,7 @@ allowed.</p>
 </div>
 </li>
 </ol>
-<h5><strong>C) PROPER BEHAVIOUR</strong></h5>
+<h5><strong>D) PROPER BEHAVIOUR</strong></h5>
 <p><strong>Creating a Safe and Conducive Learning Environment</strong>
 </p>
 <ol data-tight="true" class="tight">
