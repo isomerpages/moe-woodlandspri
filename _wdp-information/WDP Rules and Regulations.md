@@ -120,7 +120,6 @@ shorts) during PE lessons.</p>
 <p></p>
 <p><strong>Primary 1-2:</strong> 
 <br>Students can remain in their PE attire throughout the day.</p>
-<p></p>
 <p><strong>Primary 3-6:</strong> 
 <br>Female students are to put on their school skirts before and after PE
 lessons. Male students can remain in their PE attire throughout the day.</p>
