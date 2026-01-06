@@ -75,7 +75,7 @@ and weighted assessments during this period.</p>
 </li>
 </ol>
 <h5><strong>C) <u>PROPER ATTIRE – SCHOOL ATTIRE AND PERSONAL APPEARANCE</u></strong></h5>
-<p><strong>SCHOOL UNIFORM AND PE ATTIRE</strong> 
+<p><strong>SCHOOL UNIFORM AND PE ATTIRE</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -290,127 +290,50 @@ furniture, fire alarm panels, etc.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Students are to queue up to buy food.</p>
-</li>
-<li>
-<p>After eating, all plates and utensils are to be returned to the designated
-returning points. Food remnants left on the table are to be cleared too.</p>
-</li>
-<li>
-<p>All food and drinks are to be consumed only in the canteen premises.</p>
-</li>
-<li>
-<p>Students are to keep the school clean at all times. Littering is not allowed
-anywhere in the school.</p>
-</li>
-<li>
-<p>Litter seen anywhere should be picked up and thrown into a dustbin.</p>
-</li>
-</ol>
-<h5><strong>F) SERIOUS OFFENCES</strong></h5>
-<ol data-tight="true" class="tight">
-<li>
-<p>Students should not vandalise or deface school property e.g. school building,
-furniture, fire alarm panels, etc.</p>
-</li>
-<li>
-<p>Students should not use abusive / vulgar language.</p>
+<p></p>
 </li>
 <li>
 <p>Students should not be involved in stealing, fighting, extortion, vaping
 or smoking.</p>
+<p></p>
+</li>
+<li>
+<p>Students should not use abusive / vulgar language.</p>
+<p></p>
 </li>
 <li>
 <p>Students should not be defiant / rude to the staff of the school.</p>
+<p></p>
 </li>
 <li>
-<p>Bullying in any form is not allowed..</p>
+<p>Bullying in any form is not allowed.</p>
 </li>
 </ol>
-<h5><strong>G) PERSONAL DIGITAL DEVICES (MOBILE DEVICES &amp; SMART WATCHES*)</strong></h5>
+<h5><strong>E)&nbsp; <u>POSSIBLE CONSEQUENCES FOR NON-COMPLIANCE TO SCHOOL RULES</u></strong></h5>
 <ol data-tight="true" class="tight">
-<li>
-<p>Students are strongly discouraged from bringing personal digital devices,
-including mobile phones and smart watches*, to school. Should they need
-to bring one, <strong>its main purpose</strong> should be to contact their
-parents/caregivers on urgent matters. Alternatively, they can use the public
-phones, as well as the phone in the General Office for such matters.</p>
-</li>
-<li>
-<p>Students who bring such devices must turn them off and put them in their
-school bags before school start time. This includes turning off all calling,
-messaging and recording functions in smart watches. Students will bear
-responsibility for safekeeping devices, and the school will not be responsible
-for the loss of any of these items.</p>
-</li>
-<li>
-<p>Students who bring these devices are not to use them during school hours
-including recess, lunch time, CCA and after-school programmes (e.g supplementary/
-enrichment/ remedial lessons). They are only allowed to use them, restricted
-to only communication with their parents/caregivers, at designated areas
-after school hours, i.e. Gate A1, Gate D and the school’s foyer.</p>
-</li>
-<li>
-<p>If any student is caught using any personal digital devices beyond the
-permissible locations or during school hours, the device will be confiscated,
-and parents will be asked to come to school to collect it. Disciplinary
-actions will also be taken against the student for irresponsible and inappropriate
-use of devices.</p>
-</li>
-</ol>
-<p><strong><em>&nbsp;</em></strong><em>* Smart watches with messaging or/and calling functions.</em>
-</p>
-<h5><strong>H) OTHER RULES</strong></h5>
-<ol data-tight="true" class="tight">
-<li>
-<p>Students are not allowed to bring things that will cause distraction to
-the students’ attention in class e.g. trading cards, handheld games and
-other forms of electronic toys and devices, etc.</p>
-</li>
-<li>
-<p>If found, these items will be confiscated and parents will be informed
-to come and collect them within a month. If not collected within a month,
-these items will be disposed as the school sees fit.</p>
-</li>
-<li>
-<p>Absence from school must be explained either by producing a medical certificate
-or a letter from the parent or guardian.</p>
-</li>
-<li>
-<p>Please note that students are not allowed to go on overseas leave on school
-days.</p>
-</li>
-<li>
-<p>When students assemble in the canteen / at the parade square / in the
-hall, they should do so quietly and quickly. Students should move to and
-from their classrooms quietly.</p>
-</li>
-<li>
-<p>Students are only allowed to play in the basketball court (ISH), fitness
-playground and field during recess. Playing is not allowed in other areas,
-for example, in the school hall, along the corridors, staircases, foyer,
-parade square, garden area in between C block and D block, carpark etc.</p>
-</li>
-</ol>
-<h5><strong>POSSIBLE CONSEQUENCES FOR NON-COMPLIANCE TO SCHOOL RULES</strong></h5>
-<ul data-tight="true" class="tight">
 <li>
 <p>Verbal warning by school staff followed by referral to School Counsellor
 for follow-up action.</p>
+<p></p>
 </li>
 <li>
-<p>Referral to the Principal’s / Vice-Principal’s / HOD Student Management’s
-/ Year Head’s and Assistant Year Head’s attention for further action.</p>
+<p>Referral to the Principal's / Vice-Principal's / HOD Student Management's/
+Year Head's and Assistant Year Head's attention for further action.</p>
+<p></p>
 </li>
 <li>
 <p>Parents to be informed by Form Teacher of non-compliance of school rules
 and its implications.</p>
+<p></p>
 </li>
 <li>
 <p>Students to be detained during recess, and are to bring their own food
 from home and consume it during their detention.</p>
 </li>
 <li>
-<p>Suspension from school.</p>
+<p>For serious offences, other consequences may include suspension from school,
+caning (for boys), conduct grade adjustment and ineligibility for scholarship/awards,
+leadership appointments, overseas trips and school team representations.</p>
 </li>
-</ul>
+</ol>
 <p></p>
