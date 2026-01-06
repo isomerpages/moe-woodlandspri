@@ -115,9 +115,8 @@ shorts) during PE lessons.</p>
 <p><strong>Physical Education (PE) Attire</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PE_attire.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_attire2.jpg">
 </div>
-<p></p>
 <p><strong>Primary 1-2:</strong> 
 <br>Students can remain in their PE attire throughout the day.</p>
 <p><strong>Primary 3-6:</strong> 
