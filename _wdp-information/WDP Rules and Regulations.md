@@ -180,7 +180,6 @@ allowed.</p>
 </div>
 </li>
 </ol>
-<h5><strong>D) PROPER BEHAVIOUR</strong></h5>
 <p><strong>Creating a Safe and Conducive Learning Environment</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -226,7 +225,7 @@ will be confiscated and parents will be informed to come and collect them
 within a month.</p>
 </li>
 </ol>
-<p><strong>Creating a Safe and Conducive Learning Environment</strong>
+<p><strong>Guidance on Smart Devices</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -283,13 +282,6 @@ mend relationships.</p>
 <li>
 <p>Students should not vandalise or deface school property e.g. school building,
 furniture, fire alarm panels, etc.</p>
-</li>
-</ol>
-<p></p>
-<h5><strong>E) RECESS AND SCHOOL CLEANLINESS</strong></h5>
-<ol data-tight="true" class="tight">
-<li>
-<p>Students are to queue up to buy food.</p>
 <p></p>
 </li>
 <li>
