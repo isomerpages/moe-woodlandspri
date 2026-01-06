@@ -39,7 +39,7 @@ them.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 </li>
 </ul>
-<h3><strong>School Rules and Regulations</strong></h3>
+<h3><strong>SCHOOL RULES AND REGULATIONS</strong></h3>
 <h5><strong>A) <u>NATIONAL ANTHEM &amp; PLEDGE</u></strong></h5>
 <ul data-tight="true" class="tight">
 <li>
