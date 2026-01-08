@@ -6,13 +6,9 @@ variant: tiptap
 ---
 <h3><strong>SCHOOL RULES AND REGULATIONS</strong></h3>
 <h5><strong>A) <u>NATIONAL ANTHEM &amp; PLEDGE</u></strong></h5>
-<ul data-tight="true" class="tight">
-<li>
 <p>Students who are Singapore citizens must sing the National Anthem and
 take the Pledge. Students will take the Pledge with the right fist placed
 over the heart.</p>
-</li>
-</ul>
 <h5><strong>B) <u>ATTIRE &amp; APPEARANCE</u></strong></h5>
 <ol data-tight="true" class="tight">
 <li>
@@ -40,6 +36,7 @@ the first button at the top.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Male_student_uniform3.jpg">
 </div>
+<p></p>
 </li>
 <li>
 <p><strong>The Female Student's Uniform</strong>
@@ -210,8 +207,8 @@ furniture, fire alarm panels, etc.</p>
 <p></p>
 </li>
 <li>
-<p>Students should not be involved in stealing, fighting,</p>
-<p>extortion, vaping or smoking.</p>
+<p>Students should not be involved in stealing, fighting, extortion, vaping
+or smoking.</p>
 <p></p>
 </li>
 <li>
