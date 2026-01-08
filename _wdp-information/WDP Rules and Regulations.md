@@ -70,6 +70,14 @@ Name Tag should be worn above the school crest.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_attire2.jpg">
 </div>
 <p></p>
+<p><strong>Primary 1-2:</strong>
+</p>
+<p>Students can remain in their PE attire throughout the day.</p>
+<p></p>
+<p>Primary 3-6:</p>
+<p>Female students are to put on their school skirts before and after PE
+lessons. Male students can remain in their PE attire throughout the day.</p>
+<p></p>
 </li>
 <li>
 <p>Male students must neat in appearance, clean shaven and no facial is allowed</p>
