@@ -63,7 +63,7 @@ school uniform. Socks have to be visible above the ankles.</p>
 <p></p>
 </li>
 <li>
-<p> <strong>Physical Education (PE) Attire </strong> - All students must be
+<p><strong>Physical Education (PE) Attire </strong>- All students must be
 in their PE attire (School T-shirt and maroon PE shorts) during PE lessons.
 Name Tag should be worn above the school crest.</p>
 <div class="isomer-image-wrapper">
