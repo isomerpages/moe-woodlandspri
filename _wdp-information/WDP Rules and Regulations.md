@@ -160,7 +160,7 @@ Teacher.</p>
 <p></p>
 </li>
 <li>
-<p>Students who are in school after curriculum time for remedial lessons,
+<p>Students who are in school <u>after curriculum time</u> for remedial lessons,
 CCA etc are not allowed to leave the school compound unless they have a
 written note from their parents and permission is given by the school.</p>
 <p></p>
@@ -210,8 +210,8 @@ furniture, fire alarm panels, etc.</p>
 <p></p>
 </li>
 <li>
-<p>Students should not be involved in stealing,</p>
-<p>fighting, extortion, vaping or smoking.</p>
+<p>Students should not be involved in stealing, fighting,</p>
+<p>extortion, vaping or smoking.</p>
 <p></p>
 </li>
 <li>
