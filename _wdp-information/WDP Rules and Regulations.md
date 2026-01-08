@@ -36,6 +36,7 @@ the first button at the top.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Male_student_uniform3.jpg">
 </div>
+<p></p>
 </li>
 <li>
 <p><strong>The Female Student's Uniform</strong>
