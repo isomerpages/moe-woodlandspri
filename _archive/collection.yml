@@ -1,0 +1,5 @@
+collections:
+  archive:
+    output: true
+    order:
+      - WDP Rules and Regulations.md
