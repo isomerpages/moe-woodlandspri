@@ -33,24 +33,21 @@ the uniform is not allowed</p>
 <p>Students should button up their uniform (PE attire inclusive) except for
 the first button at the top.</p>
 <p></p>
-<p></p>
 </li>
 <li>
-<p><strong>The Male Student’s Uniform - </strong>The shorts should not be
-too tight.</p>
+<p><strong>The Male Student's Uniform</strong>
+<br>The shorts should not be too tight</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Male_student_uniform3.jpg">
 </div>
-<p></p>
 </li>
 <li>
-<p><strong>The Female Student’s Uniform - </strong>The skirt should be at
-knee length and not be too tight.</p>
+<p><strong>The Female Student's Uniform</strong>
+<br>The skirt should be at knee length and not be too tight.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Female_student_uniform.jpg">
 </div>
-<p></p>
 </li>
 <li>
 <p>All students are to wear white shoes without any coloured markings, stripes
@@ -63,19 +60,17 @@ school uniform. Socks have to be visible above the ankles.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Physical Education (PE) Attire </strong>- All students must be
-in their PE attire (School T-shirt and maroon PE shorts) during PE lessons.
-Name Tag should be worn above the school crest.</p>
+<p><strong>Physical Education (PE) Attire</strong> 
+<br>All students must be in their PE attire (School T-shirt and maroon PE
+shorts) during PE lessons. Name Tag should be worn above the school crest.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_attire2.jpg">
 </div>
 <p></p>
-<p><strong>Primary 1-2:</strong>
-</p>
-<p>Students can remain in their PE attire throughout the day.</p>
-<p></p>
-<p>Primary 3-6:</p>
-<p>Female students are to put on their school skirts before and after PE
+<p><strong>Primary 1-2:</strong> 
+<br>Students can remain in their PE attire throughout the day.</p>
+<p><strong>Primary 3-6:</strong> 
+<br>Female students are to put on their school skirts before and after PE
 lessons. Male students can remain in their PE attire throughout the day.</p>
 <p></p>
 </li>
