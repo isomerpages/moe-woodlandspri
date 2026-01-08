@@ -6,13 +6,9 @@ variant: tiptap
 ---
 <h3><strong>SCHOOL RULES AND REGULATIONS</strong></h3>
 <h5><strong>A) <u>NATIONAL ANTHEM &amp; PLEDGE</u></strong></h5>
-<ul data-tight="true" class="tight">
-<li>
 <p>Students who are Singapore citizens must sing the National Anthem and
 take the Pledge. Students will take the Pledge with the right fist placed
 over the heart.</p>
-</li>
-</ul>
 <h5><strong>B) <u>ATTIRE &amp; APPEARANCE</u></strong></h5>
 <ol data-tight="true" class="tight">
 <li>
