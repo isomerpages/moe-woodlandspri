@@ -210,8 +210,8 @@ furniture, fire alarm panels, etc.</p>
 <p></p>
 </li>
 <li>
-<p>Students should not be involved in stealing, fighting,</p>
-<p>extortion, vaping or smoking.</p>
+<p>Students should not be involved in stealing, fighting, extortion, vaping
+or smoking.</p>
 <p></p>
 </li>
 <li>
