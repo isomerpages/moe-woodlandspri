@@ -4,6 +4,16 @@ permalink: /wdp-information/rules-and-regulations/
 description: ""
 variant: tiptap
 ---
+<h3><strong>WOODLANDS PRIMARY SCHOOL DISCIPLINE APPROACH</strong></h3>
+<p>The school aims to promote positive behaviour and instill self-discipline
+in students. Rules governing what constitutes appropriate behaviour are
+established and enforced to maintain a safe and orderly environment conducive
+for optimal learning. The school works in tandem with parents and other
+stakeholders in developing students to be good role models and ambassadors
+of the school. Students are encouraged to make informed decisions and act
+responsibly towards self and others. All these in place would create a
+positive environment enabling students to strive for excellence in all
+their endeavours</p>
 <h3><strong>SCHOOL RULES AND REGULATIONS</strong></h3>
 <h5><strong>A) <u>NATIONAL ANTHEM &amp; PLEDGE</u></strong></h5>
 <p>Students who are Singapore citizens must sing the National Anthem and
