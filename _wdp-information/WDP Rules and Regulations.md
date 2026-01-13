@@ -13,48 +13,97 @@ stakeholders in developing students to be good role models and ambassadors
 of the school. Students are encouraged to make informed decisions and act
 responsibly towards self and others. All these in place would create a
 positive environment enabling students to strive for excellence in all
-their endeavours</p>
-<h3><strong>SCHOOL RULES AND REGULATIONS</strong></h3>
-<h5><strong>A) <u>NATIONAL ANTHEM &amp; PLEDGE</u></strong></h5>
-<p>Students who are Singapore citizens must sing the National Anthem and
-take the Pledge. Students will take the Pledge with the right fist placed
-over the heart.</p>
-<h5><strong>B) <u>ATTIRE &amp; APPEARANCE</u></strong></h5>
-<ol data-tight="true" class="tight">
+their endeavours.</p>
+<p>The school’s approach is based on the following beliefs:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Students are to wear the prescribed school uniform and modification to
-the uniform is not allowed</p>
+<p>Discipline is a learning process, and the goal is to teach students how
+to develop self-discipline and good character.</p>
 <p></p>
 </li>
 <li>
-<p>Shirt (PE shirt inclusive) must be tucked in neatly at all times.</p>
+<p>Disciplinary measures help students understand that their actions carry
+consequences, which helps them learn to take responsibility for their actions.</p>
+<p></p>
+</li>
+<li>
+<p>A whole-school, multi-faceted approach is adopted by working closely with
+the different stakeholders in reinforcing positive behaviour in students.</p>
+<p></p>
+</li>
+<li>
+<p>Discipline will be complemented with counselling or restorative practices
+where the school will partner the different stakeholders to ensure students
+have learnt from their mistakes and work towards positively influencing
+them.</p>
+</li>
+</ul>
+<h3><strong>SCHOOL RULES AND REGULATIONS</strong></h3>
+<h5><strong>A) <u>NATIONAL ANTHEM &amp; PLEDGE</u></strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students who are Singapore citizens must sing the National Anthem and
+take the Pledge. Students will take the Pledge with the right fist placed
+over the heart.</p>
+<p></p>
+</li>
+</ul>
+<h5><strong>B) <u>PUNCTUALITY – ATTENDANCE &amp; TIMELINESS</u></strong></h5>
+<ol data-tight="true" class="tight">
+<li>
+<p>All students are expected to be punctual for school and are required to
+be at the assembly areas by 7.25 a.m. so that the morning assembly can
+start promptly at 7.30 a.m. Students who are not at the assembly areas
+by the time morning assembly commences will be considered late.</p>
+<p></p>
+</li>
+<li>
+<p>When the chime is sounded five minutes before recess ends, students are
+to start assembling at the basketball court.</p>
+<p></p>
+</li>
+<li>
+<p>Absence from school must be explained either by producing a medical certificate
+or a letter from the parent or guardian.</p>
+<p></p>
+</li>
+<li>
+<p>Please note that students are <strong><u>not </u></strong>allowed to go
+on overseas leave on school days. Such absence will be reflected as "Absence
+without Valid reason" in the school attendance. No marks will be awarded
+for any examination and weighted assessments during this period.</p>
+<p></p>
+</li>
+</ol>
+<p><strong>C) <u>PROPER ATTIRE – SCHOOL ATTIRE AND PERSONAL APPEARANCE</u></strong>
+</p>
+<p><strong>SCHOOL UNIFORM AND PE ATTIRE</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students are to wear the prescribed school uniform and modification to
+the uniform is not allowed.</p>
 <p></p>
 </li>
 <li>
 <p>Students must wear their name tags on their school uniform and PE attire.
-(For durability, sew the border of the name tag after ironing it.)</p>
-<p></p>
+Name Tag should be worn above the school crest.&nbsp; Students should button
+up their uniform (PE attire inclusive) except for the first button at the
+top.</p>
 </li>
-<li>
-<p>Students should button up their uniform (PE attire inclusive) except for
-the first button at the top.</p>
-<p></p>
-</li>
+</ol>
+<p>* For detailed information on school uniform requirements and specific
+guidelines, please refer to the Student Handbook provided to all students</p>
+<ol data-tight="true" class="tight">
 <li>
 <p><strong>The Male Student's Uniform</strong>
 <br>The shorts should not be too tight</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Male_student_uniform3.jpg">
-</div>
 <p></p>
 </li>
 <li>
 <p><strong>The Female Student's Uniform</strong>
 <br>The skirt should be at knee length and not be too tight.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Female_student_uniform.jpg">
-</div>
 </li>
 <li>
 <p>All students are to wear white shoes without any coloured markings, stripes
