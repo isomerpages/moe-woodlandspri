@@ -239,7 +239,7 @@ mend relationships</p>
 </ol>
 </li>
 </ol>
-<h5><strong>B) <u>POSSIBLE CONSEQUENCES FOR NON-COMPLIANCE TO SCHOOL RULES</u></strong></h5>
+<h5><strong>E) <u>POSSIBLE CONSEQUENCES FOR NON-COMPLIANCE TO SCHOOL RULES</u></strong></h5>
 <ol data-tight="true" class="tight">
 <li>
 <p>Verbal warning by school staff followed by referral to School Counsellor
