@@ -285,6 +285,16 @@ from home and consume it during their detention.</p>
 <p>For serious offences, other consequences may include suspension from school,
 caning (for boys), conduct grade adjustment and ineligibility for scholarship/awards,
 leadership appointments, overseas trips and school team representations.</p>
+<p></p>
+</li>
+</ol>
+<p><strong>The Male Student's Uniform</strong>
+<br>The shorts should not be too tight</p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>The Female Student's Uniform</strong>
+<br>The skirt should be at knee length and not be too tight.</p>
 </li>
 </ol>
 <p>&nbsp;</p>
