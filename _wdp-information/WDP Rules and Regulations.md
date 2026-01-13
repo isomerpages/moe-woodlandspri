@@ -139,7 +139,7 @@ allowed.</p>
 <p></p>
 </li>
 </ol>
-<h5><strong>D) PROPER BEHAVIOUR</strong></h5>
+<h5><strong>D) <u>PROPER BEHAVIOUR</u></strong></h5>
 <p><strong>Creating a Safe and Conducive Learning Environment</strong>
 </p>
 <ol data-tight="true" class="tight">
