@@ -72,11 +72,9 @@ or a letter from the parent or guardian.</p>
 on overseas leave on school days. Such absence will be reflected as "Absence
 without Valid reason" in the school attendance. No marks will be awarded
 for any examination and weighted assessments during this period.</p>
-<p></p>
 </li>
 </ol>
-<p><strong>C) <u>PROPER ATTIRE – SCHOOL ATTIRE AND PERSONAL APPEARANCE</u></strong>
-</p>
+<h5><strong>C) <u>PROPER ATTIRE-SCHOOL ATTIRE AND PERSONAL APPEARANCE</u></strong></h5>
 <p><strong>SCHOOL UNIFORM AND PE ATTIRE</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -94,34 +92,37 @@ top.</p>
 </ol>
 <p>* For detailed information on school uniform requirements and specific
 guidelines, please refer to the Student Handbook provided to all students</p>
+<p></p>
+<p><strong>PERSONAL APPEARANCE</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>The Male Student's Uniform</strong>
-<br>The shorts should not be too tight</p>
+<p>Male students must be neat in appearance, clean shaven and no facial hair
+is allowed.</p>
 <p></p>
 </li>
 <li>
-<p><strong>The Female Student's Uniform</strong>
-<br>The skirt should be at knee length and not be too tight.</p>
+<p>Male students should have short and neatly combed hair. It should not
+touch the ears, collars, or eyebrows. Spiky/ pointed hair is not allowed.</p>
 <p></p>
 </li>
 <li>
-<p>All students are to wear white shoes without any coloured markings, stripes
-or logos.</p>
+<p>Female students with shoulder length hair or longer should tie their hair.
+The hair / fringe should not touch the eyebrows. Female students should
+only use black / maroon / white hair bands, hair clips or scrunchies. No
+fanciful hair accessories allowed.</p>
 <p></p>
 </li>
 <li>
-<p>All students are to wear standard white school socks as part of their
-school uniform. Socks have to be visible above the ankles.</p>
+<p>The school reserves the right to determine whether the student’s hairstyle
+is acceptable.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Physical Education (PE) Attire</strong> 
-<br>All students must be in their PE attire (School T-shirt and maroon PE
-shorts) during PE lessons. Name Tag should be worn above the school crest.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_attire2.jpg">
-</div>
+<p>Students should retain the natural colour of their hair. They are not
+allowed to colour their hair.</p>
+<p></p>
+<p></p>
 <p></p>
 <p><strong>Primary 1-2:</strong> 
 <br>Students can remain in their PE attire throughout the day.</p>
