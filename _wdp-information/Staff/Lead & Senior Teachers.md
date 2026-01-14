@@ -112,7 +112,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Teacher - Special Education Needs</strong>
+<p><strong>Senior Teacher - Special Educational Needs</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
