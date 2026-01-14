@@ -4,7 +4,21 @@ permalink: /lead-senior-teacher-2/
 variant: tiptap
 description: ""
 ---
-<p>| | |</p>
+<p>### <strong>Lead / Senior Teachers</strong>
+</p>
+<p>&nbsp;</p>
+<p>#### <strong>Lead Teachers</strong>
+</p>
+<p>&nbsp;</p>
+<p>|&nbsp; |&nbsp; |</p>
+<p>|---|---|</p>
+<p>| <strong>Lead Teacher – Physical Education (PE)</strong> | Mishon Lew Kooi
+Eng, Ms|</p>
+<p>&nbsp;</p>
+<p>#### <strong>Senior Teachers</strong>
+</p>
+<p>&nbsp;</p>
+<p>|&nbsp; |&nbsp; |</p>
 <p>|---|---|</p>
 <p>| <strong>Senior Teacher – English</strong> | Chaman Kaur Sandhu, Ms |</p>
 <p>| <strong>Senior Teacher – Mathematics</strong> | Nazerah Bte Mohamed, Mdm
