@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - Learning for Life Programme.md
       - Lead  Senior Teacher 2.md
       - WDP Rules and Regulations.md
