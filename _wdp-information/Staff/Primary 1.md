@@ -16,6 +16,6 @@ variant: markdown
 | 1 Adaptability | Rekha Naidu, Mrs | Pak Xin Yan, Ms |  
 | 1 Respect | Nur Hana Bte Abdul Hamid, Mdm | Muhammad Azri Bahajjajj Bin Shaik | 
 | 1 Resilience | Chan Siew Li Doreen, Ms | Manimegalai d/o Chinna G, Mdm |
-| 1 Responsibility | Ibrizi Bte Ishak, Mdm |  
+| 1 Responsibility | Ibrizi Bte Ishak, Mdm | Annabelle Jidkasame Koh, Ms
 | 1 Empathy | Kong Siew Ling Amy (Mrs Soh) | Tan Khar Choo Doris (Mrs Yeo) |
 |
