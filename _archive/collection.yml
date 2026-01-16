@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Physical Edcuation, Art and Music 2.md
       - Learning for Life Programme 2.md
       - Lead  Senior Teacher 2.md
       - WDP Rules and Regulations.md
