@@ -102,94 +102,6 @@ Outdoor Education, and Performing Arts and Visual Arts.</p>
 </tr>
 </tbody>
 </table>
-<p>Themes:</p>
-<p>P1: Singapore, Our Home
-<br>P2: Mother Earth, Our Planet</p>
-<p>With these two themes, we hope that pupils will see the relatedness across
-the different modules, learn to appreciate our cultures as well as develop
-awareness for environmental issues and work towards conservation and protections
-of our natural resources.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>P1</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>P2</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sports &amp; Games</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Let's Get Active I</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Let's Get Active II</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Outdoor Education</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outdoor, Here We Come! I</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Oudoor, Here We Come! II</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Performing Arts (Music)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dramatize</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Around The World with Music</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Visual Arts</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Let's Travel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Green Artizens</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>How</strong></h4>
 <p>In a nutshell, all Primary 1 and 2 pupils will go through four different
 modules of activities in a year. Each module consists of 7 lessons. During
@@ -230,14 +142,8 @@ and emotional well-being for their initial years in WDP.</p>
 Passport in hand, you can reach the land of your dreams. Create a new building
 in LEGOLAND, see the pandans in Chengdu, climb up to the viewing gallery
 of the Eiffel Tower and many more.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="195" width="255" alt="A group of children wearing clothing
-
-Description automatically generated with low confidence">
-</div>
 <p>Have fun exploring various art media to discover your inner self and realise
 the importance of working with others. Are you ready to take off?</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Visual_Arts_pic.jpg">
 </div>
@@ -254,7 +160,6 @@ collaborative way with others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_Artizens_pic.jpg">
 </div>
-<p>Pupils working on their art pieces using recycled materials.</p>
 <h4><strong>Performing Art</strong></h4>
 <p><strong>P1: Dramatize</strong>
 </p>
