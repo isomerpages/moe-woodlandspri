@@ -24,19 +24,23 @@ school CCAs that contribute to their overall development.</p>
 <h5><strong>Learning Outcomes</strong></h5>
 <p>The learning outcomes for CCA are as follows:
 <br>
-<br>Students will develop and demonstrate:</p>
+</p>
+<p>Students will develop and demonstrate:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>CCE2021 development milestones</p>
 </li>
 <li>
-<p>RIC3H Values &amp; WDP Core Values</p>
+<p>E21CC development milestones</p>
 </li>
 <li>
-<p>Teamwork, Friendship and Sense of Pride</p>
+<p>RIC<sup>3</sup>H Values &amp; WDP Core Values</p>
 </li>
 <li>
-<p>Leadership and Spirit of Service to the community</p>
+<p>Self-directed learning from CCA journalling</p>
+</li>
+<li>
+<p>Leadership and Spirit of service to the community</p>
 </li>
 <li>
 <p>Knowledge, skills and values related to their chosen CCA</p>
