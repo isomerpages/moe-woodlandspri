@@ -32,7 +32,7 @@ fostering a nurturing and values-centred school environment.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MVP_pic.jpg">
 </div>
 <h5><strong>Pervasiveness of Programme<br><u>SPACE (Experience): Sports for all pupils</u></strong></h5>
-<p><strong>P1: Lower Pri Games Carnival<br></strong>Objective of programme:</p>
+<p><strong>P1 - P3: Lower Pri Games Carnival<br></strong>Objective of programme:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Pursue learning with self-directedness and character building through
@@ -57,7 +57,6 @@ and moral values.</p>
 <li>
 <p>To equip students with defined sports skills and to provide recommendations
 to the allocation of sports CCA.</p>
-<p></p>
 </li>
 <li>
 <p>To develop students’ character, leadership and positive attitude through
@@ -85,7 +84,6 @@ groups</p>
 </li>
 <li>
 <p>Adaptability – Adjust to new conditions and environment well</p>
-<p></p>
 </li>
 <li>
 <p>Resilience – Adapt to changes and be able to bounce back quickly when
