@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Performing Arts 2.md
       - Sports and Games 2.md
       - Programme for Active Learning (PAL) 2.md
       - Physical Edcuation, Art and Music 2.md
