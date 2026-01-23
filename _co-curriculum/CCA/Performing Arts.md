@@ -20,7 +20,7 @@ to new heights.</p>
 </div>
 <h4><strong>Handbells and Handchimes Ensemble</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Handbell_pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Handbell_pic__crop_.jpg">
 </div>
 <p>The Handbells and Handchimes Ensemble was established in 2002 and has
 since clinched 5 sliver awards. Recruitment of new members begins in Primary
@@ -34,7 +34,7 @@ for dance and to develop in them a love for the aesthetics. Through participatin
 in various competitions and performances, pupils learn to work as a team
 and gain self- confidence.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_dance_pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_dance_pic__crop_.jpg">
 </div>
 <h4><strong>Malay Dance</strong></h4>
 <p>The Malay dance group aspires to instil self confidence and teamwork through
@@ -46,7 +46,7 @@ develop their non-academic talent by learning both traditional as well
 as contemporary Malay dance techniques. The Malay dance group participates
 actively in various school and community celebrations.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_dance_pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malaly_dance_pic__crop_.jpg">
 </div>
 <h4><strong>Indian Dance</strong></h4>
 <p>Every dancer of Indian Dance is of good character and culturally vibrant.
@@ -56,6 +56,6 @@ grows up to be a refined and gracious citizen. Our Indian Dancers at Woodlands
 Primary School have made significant progress over the years. The troupe
 has performed at both school and community events.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Indian_dance_pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Indian_dance_pic__crop_.jpg">
 </div>
 <p></p>
