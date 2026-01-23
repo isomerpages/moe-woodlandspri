@@ -28,51 +28,34 @@ since clinched 5 sliver awards. Recruitment of new members begins in Primary
 lessons. Pupils who have been identified as having an aptitude and attitude
 will be invited to join the CCA. Further auditions will be conducted to
 confirm the final list of members recruited into the CCA.</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/perfarts4.jpg">
-</div>
 <h4><strong>Chinese Dance</strong></h4>
 <p>Woodlands Primary Chinese Dance aims to instil in pupils their passion
-for dance and to develop in them a love for the aesthetics. Not only will
-pupils learn the traditional Chinese dance steps, they will also be exposed
-to different genres of dances like contemporary and hip hop. Through participating
+for dance and to develop in them a love for the aesthetics. Through participating
 in various competitions and performances, pupils learn to work as a team
 and gain self- confidence.</p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/perfarts5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/perfarts6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_dance_pic.jpg">
 </div>
 <h4><strong>Malay Dance</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/perfarts7.jpg">
-</div>
 <p>The Malay dance group aspires to instil self confidence and teamwork through
 the learning of culture. Through their participation, we hope that the
 dancers will not only learn to express their feelings and appreciate others
 but also to understand the importance of dedication and commitment values
 which are important to the holistic development of the dancer. The dancers
 develop their non-academic talent by learning both traditional as well
-as contemporary Malay dance techniques taught by a qualified and very committed
-dance instructor employed by the school. The Malay dance group participates
+as contemporary Malay dance techniques. The Malay dance group participates
 actively in various school and community celebrations.</p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/perfarts8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_dance_pic.jpg">
 </div>
 <h4><strong>Indian Dance</strong></h4>
 <p>Every dancer of Indian Dance is of good character and culturally vibrant.
 Through a dedicated arts education and caring environment, every dancer
 is nurtured in embracing cultural diversity &amp; camaraderie so that she
-grows up to be a refined and gracious citizen.</p>
+grows up to be a refined and gracious citizen. Our Indian Dancers at Woodlands
+Primary School have made significant progress over the years. The troupe
+has performed at both school and community events.</p>
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/perfarts9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Indian_dance_pic.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/perfarts10.jpg">
-</div>
-<p>Our Indian Dancers at Woodlands Primary School have made significant progress
-over the years. The troupe has performed at both school and community events.
-The dancers are trained by a very experienced dance choreographer, Madam
-Parvathy, who has about 25 years of experience in teaching Indian Dance.
-Our dancers are exposed to both classical and semi-classical dance techniques.</p>
+<p></p>
