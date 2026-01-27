@@ -2,5 +2,12 @@ collections:
   archive:
     output: true
     order:
+      - Clubs 2.md
+      - Uniformd Group 2.md
+      - Performing Arts 2.md
+      - Sports and Games 2.md
+      - Programme for Active Learning (PAL) 2.md
+      - Physical Edcuation, Art and Music 2.md
+      - Learning for Life Programme 2.md
       - Lead  Senior Teacher 2.md
       - WDP Rules and Regulations.md
