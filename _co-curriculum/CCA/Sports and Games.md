@@ -58,6 +58,10 @@ well as incorporating and displaying teamwork and camaraderie.</p>
 <p>Volleyball players exemplify Woodlands Primary School Vision “Gracious
 Woodlanders with the Zest to Excel’.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball_pic_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball_pic_1_2__ed__jpeg.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball_pic_3__ed_.jpg">
 </div>
 <p></p>
