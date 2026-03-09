@@ -119,8 +119,7 @@ variant: tiptap
 <p>9 &amp; 10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Mar, 6 Mar</p>
-<p>or 9 Mar</p>
+<p>2 Mar, 6 Mar or 9 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 Art Museum-based Learning Journey #</p>
