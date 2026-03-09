@@ -44,20 +44,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Attendance &amp; Temperature-Taking Exercise</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All pupils to bring along a working thermometer.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,9 +53,8 @@ variant: tiptap
 <p>Commencement of P6 Remedial Lessons</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Monday, Wednesday and/or Friday</p>
+<p>Every Monday, Wednesdayand/or Friday</p>
 <p>(2.00 – 3.00pm)</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -97,8 +82,7 @@ variant: tiptap
 <p>Commencement of P4 and P5 Remedial Lessons</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Monday, Wednesday and/or Friday</p>
-<p>(2.00 – 3.00pm)</p>
+<p>Every Monday, Wednesday and/or Friday (2.00 – 3.00pm)</p>
 <p></p>
 </td>
 </tr>
@@ -141,8 +125,8 @@ variant: tiptap
 <p>P4 Art Museum-based Learning Journey #</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classes will be scheduled for the LJ on one of these</p>
-<p>dates (12.00pm – 4.30pm)</p>
+<p>Classes will be scheduled for the LJ on one of these dates (12.00pm –
+4.30pm)</p>
 <p></p>
 </td>
 </tr>
@@ -155,9 +139,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 Parent-Child-Teacher Conference</p>
-<p>• 11 Mar (Wed): 2.00-4.30pm (after school)</p>
-<p>• 13 Mar (Fri): 8.00am-3.30pm cum P6 Home-based Learning (HBL)</p>
-<p>r 14 Mar</p>
+<p>• 11 Mar (Wed):</p>
+<p>2.00-</p>
+<p>4.30pm</p>
+<p>(after</p>
+<p>school)</p>
+<p>• 13 Mar</p>
+<p>(Fri):</p>
+<p>8.00am-</p>
+<p>3.30pm</p>
+<p>cum P6</p>
+<p>Home-</p>
+<p>based</p>
+<p>Learning</p>
+<p>(HBL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P6 students only. More details will be provided nearer to the date.</p>
