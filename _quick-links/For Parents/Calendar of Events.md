@@ -221,8 +221,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Mar, 1 Apr</p>
-<p>or 2 Apr</p>
+<p>31 Mar, 1 Apr or 2 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 Overseas Learning Journey (1-day trip)</p>
