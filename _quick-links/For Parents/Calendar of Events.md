@@ -307,8 +307,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 – 23 May</p>
-<p>(Wed – Sat)</p>
+<p>20 - 23 May</p>
+<p>(Wed - Sat)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 Overseas Learning Journey (OLJ) to Danang, Vietnam (4D3N)</p>
