@@ -119,7 +119,9 @@ variant: tiptap
 <p>9 &amp; 10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Mar, 6 Mar or 9 Mar</p>
+<p>2 Mar,</p>
+<p>6 Mar or</p>
+<p>9 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 Art Museum-based Learning Journey #</p>
@@ -139,20 +141,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 Parent-Child-Teacher Conference</p>
-<p>• 11 Mar (Wed):</p>
-<p>2.00-</p>
-<p>4.30pm</p>
-<p>(after</p>
-<p>school)</p>
-<p>• 13 Mar</p>
-<p>(Fri):</p>
-<p>8.00am-</p>
-<p>3.30pm</p>
-<p>cum P6</p>
-<p>Home-</p>
-<p>based</p>
-<p>Learning</p>
-<p>(HBL)</p>
+<p>• 11 Mar (Wed): 2.00-4.30pm (after school)</p>
+<p>• 13 Mar (Fri): 8.00am-3.30pm cum P6 Home-based Learning (HBL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P6 students only. More details will be provided nearer to the date.</p>
@@ -238,7 +228,8 @@ variant: tiptap
 <p>2 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 Overseas Learning Journey (1-day trip)</p>
+<p>P4 Overseas Learning Journey</p>
+<p>(1-day trip)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 classes will be scheduled for the OLJ on one of these days #</p>
@@ -255,7 +246,7 @@ variant: tiptap
 <p>Attendanceand Temperature-taking Exercise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All students to bring along a working thermometer</p>
+<p>All students to bring along a working thermo-meter</p>
 </td>
 </tr>
 <tr>
@@ -320,7 +311,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 - 23 May</p>
+<p>20 -</p>
+<p>23 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 Overseas Learning Journey (OLJ) to Danang, Vietnam (4D3N)</p>
@@ -348,13 +340,15 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 - 29 May</p>
+<p>28 -</p>
+<p>29 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 – P6 Parent-Child-Teacher Conference (PCTC) #</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For all P1-P6 students</p>
+<p>For all</p>
+<p>P1-P6 students</p>
 <p>28 May: 2.00-4.30pm</p>
 <p>29 May: 8.00am-3.30pm</p>
 </td>
@@ -378,7 +372,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 -24 Jun</p>
+<p>23 - 24 Jun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 Supplementary Lessons #</p>
