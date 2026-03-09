@@ -139,8 +139,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 Parent-Child-Teacher Conference</p>
-<p>• 11 Mar (Wed): 2.00-4.30pm (after school)</p>
-<p>• 13 Mar (Fri): 8.00am-3.30pm cum P6 Home-based Learning (HBL)</p>
+<p>* 11 Mar (Wed): 2.00 - 4.30pm (after school)</p>
+<p>* 13 Mar (Fri): 8.00am - 3.30pm cum P6 Home-based Learning (HBL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P6 students only. More details will be provided nearer to the date.</p>
