@@ -202,14 +202,14 @@ variant: tiptap
 <p>1, 3, 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Mar, 10 Apr or 17 Apr</p>
+<p>27 Mar,</p>
+<p>10 Apr or 17 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 Learning Journey (LJ) to the Zoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classes will be scheduled</p>
-<p>for the LJ on one of these dates #</p>
+<p>Classes will be scheduled for the LJ on one of these dates #</p>
 <p></p>
 </td>
 </tr>
@@ -218,7 +218,8 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Mar - 2 Apr</p>
+<p>30 Mar -</p>
+<p>2 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Health Fair &amp; Eye Care Week</p>
@@ -232,14 +233,15 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Mar, 1 Apr or 2 Apr</p>
+<p>31 Mar,</p>
+<p>1 Apr or</p>
+<p>2 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 Overseas Learning Journey (1-day trip)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 classes will be scheduled for the OLJ on</p>
-<p>one of these days #</p>
+<p>P4 classes will be scheduled for the OLJ on one of these days #</p>
 </td>
 </tr>
 <tr>
@@ -250,7 +252,7 @@ variant: tiptap
 <p>1 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Attendance and Temperature-taking Exercise</p>
+<p>Attendanceand Temperature-taking Exercise</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All students to bring along a working thermometer</p>
@@ -309,8 +311,7 @@ variant: tiptap
 <p>P3 Music LJ to the Esplanade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classes will be scheduled for the LJ on one of these</p>
-<p>dates #</p>
+<p>Classes will be scheduled for the LJ on one of these dates #</p>
 <p></p>
 </td>
 </tr>
@@ -377,13 +378,73 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 - 3 Jun</p>
+<p>2-3 Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3 MT Cultural Camp</p>
+<p>P4 Reporters Programme(part of the school’s Applied Learning Programme</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For all P3 pupils (8.30am - 4.00pm).</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -391,11 +452,143 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2-3 Jun</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 Reporters Programme (part of the school’s Applied Learning Programme)
-#</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>) #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For selected P4 students</p>
@@ -432,5 +625,6 @@ variant: tiptap
 </tbody>
 </table>
 <p># Details of programme will be provided closer to the actual date.</p>
+<p></p>
 <h2></h2>
 <p></p>
