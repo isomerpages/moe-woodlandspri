@@ -191,8 +191,7 @@ variant: tiptap
 <p>1, 3, 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Mar,</p>
-<p>10 Apr or 17 Apr</p>
+<p>27 Mar, 10 Apr or 17 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 Learning Journey (LJ) to the Zoo</p>
