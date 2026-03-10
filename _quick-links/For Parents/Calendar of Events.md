@@ -339,9 +339,7 @@ variant: tiptap
 <p>P1 – P6 Parent-Child-Teacher Conference (PCTC) #</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For all P1-P6 students</p>
-<p>28 May: 2.00-4.30pm</p>
-<p>29 May: 8.00am-3.30pm</p>
+<p>For all P1-P6 students 28 May: 2.00-4.30pm 29 May: 8.00am-3.30pm</p>
 </td>
 </tr>
 <tr>
