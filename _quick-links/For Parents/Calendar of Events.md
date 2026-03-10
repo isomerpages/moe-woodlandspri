@@ -53,8 +53,8 @@ variant: tiptap
 <p>Commencement of P6 Remedial Lessons</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Monday, Wednesdayand/or Friday</p>
-<p>(2.00 – 3.00pm)</p>
+<p>Every Monday, Wednesday and/or Friday (2.00 – 3.00pm)</p>
+<p></p>
 </td>
 </tr>
 <tr>
