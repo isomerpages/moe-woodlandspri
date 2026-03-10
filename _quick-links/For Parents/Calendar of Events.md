@@ -236,7 +236,7 @@ variant: tiptap
 <p>1 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Attendanceand Temperature-taking Exercise</p>
+<p>Attendance and Temperature-taking Exercise</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All students to bring along a working thermometer</p>
