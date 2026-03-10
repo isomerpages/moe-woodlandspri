@@ -239,7 +239,7 @@ variant: tiptap
 <p>Attendanceand Temperature-taking Exercise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All students to bring along a working thermo-meter</p>
+<p>All students to bring along a working thermometer</p>
 </td>
 </tr>
 <tr>
