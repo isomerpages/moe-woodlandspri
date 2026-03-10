@@ -44,20 +44,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Attendance &amp; Temperature-Taking Exercise</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All pupils to bring along a working thermometer.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,9 +53,8 @@ variant: tiptap
 <p>Commencement of P6 Remedial Lessons</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Monday, Wednesday and/or Friday</p>
+<p>Every Monday, Wednesdayand/or Friday</p>
 <p>(2.00 – 3.00pm)</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -97,8 +82,7 @@ variant: tiptap
 <p>Commencement of P4 and P5 Remedial Lessons</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Monday, Wednesday and/or Friday</p>
-<p>(2.00 – 3.00pm)</p>
+<p>Every Monday, Wednesday and/or Friday (2.00 – 3.00pm)</p>
 <p></p>
 </td>
 </tr>
@@ -141,8 +125,8 @@ variant: tiptap
 <p>P4 Art Museum-based Learning Journey #</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classes will be scheduled for the LJ on one of these</p>
-<p>dates (12.00pm – 4.30pm)</p>
+<p>Classes will be scheduled for the LJ on one of these dates (12.00pm –
+4.30pm)</p>
 <p></p>
 </td>
 </tr>
@@ -155,9 +139,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 Parent-Child-Teacher Conference</p>
-<p>• 11 Mar (Wed): 2.00-4.30pm (after school)</p>
-<p>• 13 Mar (Fri): 8.00am-3.30pm cum P6 Home-based Learning (HBL)</p>
-<p>r 14 Mar</p>
+<p>* 11 Mar (Wed): 2.00 - 4.30pm (after school)</p>
+<p>* 13 Mar (Fri): 8.00am - 3.30pm cum P6 Home-based Learning (HBL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P6 students only. More details will be provided nearer to the date.</p>
@@ -213,8 +196,7 @@ variant: tiptap
 <p>P3 Learning Journey (LJ) to the Zoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classes will be scheduled</p>
-<p>for the LJ on one of these dates #</p>
+<p>Classes will be scheduled for the LJ on one of these dates #</p>
 <p></p>
 </td>
 </tr>
@@ -223,7 +205,7 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Mar - 2 Apr</p>
+<p>30 Mar – 2 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Health Fair &amp; Eye Care Week</p>
@@ -243,8 +225,7 @@ variant: tiptap
 <p>P4 Overseas Learning Journey (1-day trip)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 classes will be scheduled for the OLJ on</p>
-<p>one of these days #</p>
+<p>P4 classes will be scheduled for the OLJ on one of these days #</p>
 </td>
 </tr>
 <tr>
@@ -255,10 +236,10 @@ variant: tiptap
 <p>1 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Attendance and Temperature-taking Exercise</p>
+<p>Attendanceand Temperature-taking Exercise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All students to bring along a working thermometer</p>
+<p>All students to bring along a working thermo-meter</p>
 </td>
 </tr>
 <tr>
@@ -314,8 +295,7 @@ variant: tiptap
 <p>P3 Music LJ to the Esplanade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classes will be scheduled for the LJ on one of these</p>
-<p>dates #</p>
+<p>Classes will be scheduled for the LJ on one of these dates #</p>
 <p></p>
 </td>
 </tr>
@@ -325,6 +305,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>20 - 23 May</p>
+<p>(Wed - Sat)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 Overseas Learning Journey (OLJ) to Danang, Vietnam (4D3N)</p>
@@ -352,7 +333,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 - 29 May</p>
+<p>28-29 May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 – P6 Parent-Child-Teacher Conference (PCTC) #</p>
@@ -382,36 +363,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 - 3 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3 MT Cultural Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For all P3 pupils (8.30am - 4.00pm).</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2-3 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 Reporters Programme (part of the school’s Applied Learning Programme)
-#</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For selected P4 students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 -24 Jun</p>
+<p>23 - 24 Jun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 Supplementary Lessons #</p>
