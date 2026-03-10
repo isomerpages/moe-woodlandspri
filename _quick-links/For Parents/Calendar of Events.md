@@ -53,8 +53,8 @@ variant: tiptap
 <p>Commencement of P6 Remedial Lessons</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Monday, Wednesdayand/or Friday</p>
-<p>(2.00 – 3.00pm)</p>
+<p>Every Monday, Wednesday and/or Friday (2.00 – 3.00pm)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -236,10 +236,10 @@ variant: tiptap
 <p>1 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Attendanceand Temperature-taking Exercise</p>
+<p>Attendance and Temperature-taking Exercise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All students to bring along a working thermo-meter</p>
+<p>All students to bring along a working thermometer</p>
 </td>
 </tr>
 <tr>
@@ -339,9 +339,7 @@ variant: tiptap
 <p>P1 – P6 Parent-Child-Teacher Conference (PCTC) #</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For all P1-P6 students</p>
-<p>28 May: 2.00-4.30pm</p>
-<p>29 May: 8.00am-3.30pm</p>
+<p>For all P1-P6 students 28 May: 2.00-4.30pm 29 May: 8.00am-3.30pm</p>
 </td>
 </tr>
 <tr>
