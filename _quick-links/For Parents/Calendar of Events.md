@@ -258,6 +258,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Apr</p>
+<p>or 31 Jul</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Social Studies LJ to Asian Civilisation Museum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Classes will be scheduled for the LJ on one of these dates #</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
