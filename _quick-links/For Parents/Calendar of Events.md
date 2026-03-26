@@ -455,6 +455,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>24 – 25 Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Reporters Programme (part of the school’s Applied Learning Programme)
+#</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For selected P5 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>25 Jun</p>
 </td>
 <td rowspan="1" colspan="1">
