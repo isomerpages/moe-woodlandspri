@@ -386,6 +386,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h2><strong>TERM 3</strong></h2>
 <p># Details of programme will be provided closer to the actual date.</p>
 <h2></h2>
 <p></p>
