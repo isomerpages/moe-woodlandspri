@@ -277,8 +277,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 Apr, 24 Apr</p>
-<p>or 28 Apr</p>
+<p>16 Apr, 24 Apr or 28 Apr</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -328,7 +327,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NAPFA – P6 5-item test NAPFA – P4 5-item test</p>
+<p>NAPFA - P6 1.6km run</p>
+<p>NAPFA - P4 1.6km run</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>During curriculum hours #</p>
