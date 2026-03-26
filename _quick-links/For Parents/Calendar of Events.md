@@ -419,10 +419,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mother-Tongue Language Fortnight Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>During curriculum hours</p>
 </td>
 </tr>
 <tr>
