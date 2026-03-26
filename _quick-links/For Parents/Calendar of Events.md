@@ -622,16 +622,21 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 Aug</p>
+<p>13 Aug</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>PSLE Oral Exams Day 1</p>
+<p>PSLE Oral Exams Day 2</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>After curriculum hours. Students will be assigned on which day they will
+sit for their EL/FEL and MTL/FMTL oral exams.</p>
 </td>
 </tr>
 <tr>
