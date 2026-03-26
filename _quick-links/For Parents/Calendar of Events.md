@@ -608,16 +608,16 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10 Aug (Mon)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Public Holiday (in-lieu of National Day)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students will return to school on 11 Aug (Tue).</p>
 </td>
 </tr>
 <tr>
