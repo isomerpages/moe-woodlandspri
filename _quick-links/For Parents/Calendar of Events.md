@@ -509,9 +509,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Jul</p>
-<p>– 11 Jul</p>
-<p></p>
+<p>2 Jul-11 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mother-Tongue Language Fortnight Activities</p>
@@ -522,7 +520,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Jul</p>
@@ -531,7 +529,7 @@ variant: tiptap
 <p>Home-based learning day for P1-P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All students do not need to report to school.</p>
+<p>All students <u>do not</u> need to report to school.</p>
 </td>
 </tr>
 <tr>
