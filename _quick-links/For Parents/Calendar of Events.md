@@ -274,6 +274,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 Apr, 24 Apr</p>
+<p>or 28 Apr</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 LJ to Indian Heritage Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Classes will be scheduled for the LJ on one of these</p>
+<p>dates #</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -298,6 +316,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>For all P4 to P6 student leaders (2.00-4.30pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 May</p>
+<p>15 May</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NAPFA – P6 5-item test NAPFA – P4 5-item test</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>During curriculum hours #</p>
 </td>
 </tr>
 <tr>
@@ -328,6 +362,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>For selected P5 students only #</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 May</p>
+<p>22 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NAPFA – P6 5-item test NAPFA – P4 5-item test</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>During curriculum hours #</p>
 </td>
 </tr>
 <tr>
