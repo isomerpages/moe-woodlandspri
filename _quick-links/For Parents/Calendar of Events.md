@@ -704,7 +704,7 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 <p>21 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P6 Prelim – HMT Paper 1 &amp; 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -715,13 +715,27 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teachers’ Day Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students will be dismissed at 10.30am.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Sep (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers’ Day (School Holiday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will return to school on 14 Sep (Mon).</p>
 </td>
 </tr>
 <tr>
@@ -729,24 +743,12 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>10 – 11 Sep</p>
+<p>(Thu-Fri)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>P6 Supplementary lessons</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
