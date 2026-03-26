@@ -594,16 +594,16 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>7 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Day celebration cum Lower Primary Games Carnival</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students will be dismissed at 10.30am</p>
 </td>
 </tr>
 <tr>
