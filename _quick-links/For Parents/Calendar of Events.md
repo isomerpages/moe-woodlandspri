@@ -635,16 +635,73 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>After curriculum hours. Students will be assigned on which day they will
-sit for their EL/FEL and MTL/FMTL oral exams.</p>
+<p>P1- P5 students do not</p>
+<p>need to report to school.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Prelim – EL/FEL Paper 1 &amp; 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Prelim – MA/FMA Paper 1 &amp; 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Prelim – MTL/FMTL Paper 1 &amp; 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Prelim – SC/FSC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
