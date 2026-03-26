@@ -351,7 +351,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>20 - 23 May</p>
@@ -366,7 +366,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>20 May</p>
@@ -395,7 +395,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>28-29 May</p>
@@ -712,7 +712,7 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Sep</p>
@@ -740,7 +740,7 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sep Hols</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10 – 11 Sep</p>
