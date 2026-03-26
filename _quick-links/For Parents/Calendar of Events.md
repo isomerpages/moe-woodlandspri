@@ -743,8 +743,7 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 <p>Sep Hols</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 – 11 Sep</p>
-<p>(Thu-Fri)</p>
+<p>10-11 Sep (Thu-Fri)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
