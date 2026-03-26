@@ -567,27 +567,29 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>22 Jul</p>
+<p>24 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P6 Prelim Oral Day 1 P6 Prelim Oral Day 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>After curriculum hours. Students will be assigned on which day they will
+sit for their EL/FEL and MTL/FMTL oral exams.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P6 Prelim Listening Comprehension (LC) – EL/FEL &amp; MTL/FMTL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>During curriculum hours</p>
 </td>
 </tr>
 <tr>
