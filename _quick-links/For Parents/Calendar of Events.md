@@ -633,7 +633,8 @@ variant: tiptap
 <p>24 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 Prelim Oral Day 1 P6 Prelim Oral Day 2</p>
+<p>P6 Prelim Oral Day 1</p>
+<p>P6 Prelim Oral Day 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>After curriculum hours. Students will be assigned on which day they will
