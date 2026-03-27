@@ -149,8 +149,9 @@ variant: tiptap
 </tbody>
 </table>
 <h2><strong>TERM 2</strong></h2>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -170,6 +171,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Remarks</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -183,6 +187,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>All students to report back to school on 24 Mar (Tue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -199,6 +206,9 @@ variant: tiptap
 <p>Classes will be scheduled for the LJ on one of these dates #</p>
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -212,6 +222,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>During curriculum hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -227,6 +240,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P4 classes will be scheduled for the OLJ on one of these days #</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -241,6 +257,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>All students to bring along a working thermometer</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -251,6 +270,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Good Friday (Public Holiday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -270,6 +292,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Classes will be scheduled for the LJ on one of these dates #</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -283,8 +308,9 @@ variant: tiptap
 <p>P5 LJ to Indian Heritage Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classes will be scheduled for the LJ on one of these</p>
-<p>dates #</p>
+<p>Classes will be scheduled for the LJ on one of these dates #</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -297,6 +323,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Labour Day (Public Holiday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -315,6 +344,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>For all P4 to P6 student leaders (2.00-4.30pm)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -332,6 +364,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>During curriculum hours #</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -345,6 +380,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Classes will be scheduled for the LJ on one of these dates #</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -362,6 +400,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>For selected P5 students only #</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -377,6 +418,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>During curriculum hours #</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -390,6 +434,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>All students to report back to school on 28 May (Thu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -405,6 +452,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>For all P1-P6 students 28 May: 2.00-4.30pm 29 May: 8.00am-3.30pm</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -418,6 +468,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>For all P3 students (8.30am to 4.00pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -434,6 +487,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>For selected P4 students</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -444,6 +500,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 Supplementary Lessons #</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -463,6 +522,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>For selected P5 students</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -473,6 +535,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 Learning Journey to Sungei Buloh #</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
