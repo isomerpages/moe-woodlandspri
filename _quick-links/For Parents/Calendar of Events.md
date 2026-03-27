@@ -698,8 +698,7 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1- P5 students do not</p>
-<p>need to report to school.</p>
+<p>P1-P5 students do not need to report to school.</p>
 </td>
 </tr>
 <tr>
