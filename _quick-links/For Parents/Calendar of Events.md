@@ -308,7 +308,7 @@ variant: tiptap
 <p>P5 LJ to Indian Heritage Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classes will be scheduled for the LJ on one of these dates #</p>
+<p>Classes will be scheduled for the LJ on one these dates #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
