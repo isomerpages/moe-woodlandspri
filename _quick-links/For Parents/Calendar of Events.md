@@ -358,8 +358,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NAPFA - P6 1.6km run</p>
-<p>NAPFA - P4 1.6km run</p>
+<p>NAPFA - P6 5-item test</p>
+<p>NAPFA - P4 5-item test</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>During curriculum hours #</p>
