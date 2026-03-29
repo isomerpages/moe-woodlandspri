@@ -5,4 +5,4 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>2026 PSLE Examination Timetable</strong></h3>
-<p>TBD</p>
+<p>Info TBD.</p>
