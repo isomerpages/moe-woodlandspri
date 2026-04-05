@@ -31,15 +31,6 @@ sections:
       alt: Image alt text
       image: /images/News Letters/newsletter_2025.jpg
   - infopic:
-      title: Joint Year-End School Holidays Advisory
-      id: infopic
-      description: School holidays are coming. Stay safe by following the tips in the
-        Joint Year-End Holidays Advisory.
-      button: Start Reading
-      url: /files/Joint Advisory/2025_End_Of_Year_Joint_Advisory.pdf
-      alt: Image alt text
-      image: /images/2025_EOY_Joint_Advisory.png
-  - infopic:
       title: Play-Based Learning with Prime Minister
       id: infopic
       description: On Tuesday, 17th September 2024, Prime Minister Lawrence Wong made
@@ -57,7 +48,7 @@ sections:
       button: Learn More
       url: /curriculum/llp/
       alt: Image alt text
-      image: /images/homepage-ALP-image1.png
+      image: /images/homepage_ALP_image_2025.png
   - infopic:
       title: Applied Learning Programme
       description: ALP is a six-year programme that integrates English and Mother
