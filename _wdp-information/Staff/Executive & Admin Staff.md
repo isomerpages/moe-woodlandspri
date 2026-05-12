@@ -39,8 +39,8 @@ Chew Xiuzi, Ms|
 | **Operations Support Officers** | 
 |Badariah Binte Atan, Mdm (Admin) |
 |Ng Kim Seng, Mr |
-|Sabiah Binte Ariffin, Mdm |
 |Oh Guek Hong, Mdm |
 |Phea Ah Ai, Mdm|
 |Sim Siew Tee, Mdm|
+|Wong Yoke Thong, Mr |
 |
