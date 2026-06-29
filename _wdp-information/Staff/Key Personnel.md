@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD CCE (Covering)</strong>
+<p><strong>HOD CCE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
