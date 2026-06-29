@@ -6,6 +6,7 @@ third_nav_title: For Students
 variant: markdown
 ---
 ### **For Students**
+*   [School Library Online](https://schoolibrary.moe.edu.sg/woodlandspri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 *   [Leave of Absence ( LOA ) Scheme](https://www.woodlandspri.moe.edu.sg/quick-links/for-students/loa/)
 *   [HBL Info](https://www.woodlandspri.moe.edu.sg/quick-links/for-students/hbl-info/)
 *   [Student Learning Space ( SLS )](https://www.woodlandspri.moe.edu.sg/quick-links/for-students/sls/)
