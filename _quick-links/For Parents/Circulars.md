@@ -9,3 +9,4 @@ variant: markdown
 
 * [Start of Term 1 Letter](/files/Term_1_Letter_2026.pdf)
 * [Start of Term 2 Letter](/files/Term_2_Letter_2026.pdf)
+* [Start of Term 3 Letter](/files/Term_3_Letter_2026.pdf)
