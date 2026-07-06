@@ -1106,10 +1106,10 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>29 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>EOY Exams (P3-P5) - Mathematics / FMA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1120,10 +1120,10 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>30 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>EOY Exams (P5) - HMTL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
