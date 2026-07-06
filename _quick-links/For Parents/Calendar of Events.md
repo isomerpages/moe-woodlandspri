@@ -1131,13 +1131,27 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>9 Nove</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Holiday (in-lieu of Deepavali)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will return to school on 10 Nov</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Games Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1148,10 +1162,10 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P5 Games Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1162,18 +1176,73 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>12 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Games Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Admin Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All students do not neet to report to school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Games Day Finale</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Appreiation Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prize-Giving Day 2026 #</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Only for all prize recipents and selected invited student guests</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br># Details of programme will be provided closer to the actual date.</p>
+<p># Details of programme will be provided closer to the actual date.</p>
 <h2></h2>
-<p></p>
+<p>9</p>
