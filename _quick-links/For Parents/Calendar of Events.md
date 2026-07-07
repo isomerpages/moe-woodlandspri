@@ -861,6 +861,8 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>16 Jul</p>
+<p></p>
+<p></p>
 <p>18 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -965,10 +967,10 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 <p>2 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Children's Day (School Holidaya0</p>
+<p>Children's Day (School Holiday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will return to school on 5 Oct (Mon)</p>
+<p>Students will return to school on 5 Oct (Mon).</p>
 </td>
 </tr>
 <tr>
@@ -979,7 +981,7 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 <p>5 Oct - 7 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 #D2N Camp #</p>
+<p>P5 3D2N Camp #</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1023,10 +1025,10 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 <p>12 - 14 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PSLE Marking Execise</p>
+<p>PSLE Marking Exercise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All students do not need to report to school</p>
+<p>All students do not need to report to school.</p>
 </td>
 </tr>
 <tr>
