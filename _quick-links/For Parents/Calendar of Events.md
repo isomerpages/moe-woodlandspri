@@ -818,6 +818,433 @@ sit for their EL/FEL and MTL/FMTL oral exams.</p>
 </tr>
 </tbody>
 </table>
+<h2><strong>TERM 4</strong></h2>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Week</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Key Events</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE Listening Comprehension</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 to P5 students do not need to report to school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 Jul</p>
+<p></p>
+<p></p>
+<p>18 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 EOY Oral Exams - EL</p>
+<p>P5 EOY Oral Exams - MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 -23 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Study Break</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All other students (P1-P5) are required to report to school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 EOY Oral Exams - EL</p>
+<p>P4 EOY Oral Exams - MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 EOY Oral Exams - MTL</p>
+<p>P4 EOY Oral Exams - EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 Sep - 30 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE Written Exams</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All other students (P1 - P5) are required to report to school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Leaders Summit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Children's Day Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will be dismissed at 10.30.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Children's Day (School Holiday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will return to school on 5 Oct (Mon).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Oct - 7 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 3D2N Camp #</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EOY Exams (P3-P4) - EL LC</p>
+<p>EOY - Exams (P3-P4) - MTL Paper 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EOY Exams (P3-P4) - EL Paper 1</p>
+<p>EOY Exams (P3-P4) - MTL LC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 - 14 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE Marking Exercise</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All students do not need to report to school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EOY Exams (P5) - EL LC</p>
+<p>EOY Exams (P5) - MTL Paper1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EOY Exams (P5) - EL Paper 1</p>
+<p>EOY Exams (P5) MTL LC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EOY Exams (P3-P5) - EL / FEL Paper 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EOY Exams (P3-P5) - Science / FSC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EOY Exams (P3-P5) - MTL/FMTL Paper 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EOY Exams (P3-P5) - Mathematics / FMA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EOY Exams (P5) - HMTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 Nove</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Holiday (in-lieu of Deepavali)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will return to school on 10 Nov</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Games Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Games Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Games Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Admin Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All students do not neet to report to school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Games Day Finale</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Appreiation Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prize-Giving Day 2026 #</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Only for all prize recipents and selected invited student guests</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p># Details of programme will be provided closer to the actual date.</p>
 <h2></h2>
-<p></p>
+<p>9</p>
