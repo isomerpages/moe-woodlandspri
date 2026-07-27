@@ -14,7 +14,6 @@ variant: markdown
 | Hairani Bte Sani, Mdm |
 | Harshad Bin Ismail, Mr |
 | Ibrizi Bte Ishak, Mdm |
-| Misliana Bte Roslinor, Mdm |
 | Mohamaed Udori Bin Rodi, Mr|
 | Muhammad Azri Bahajjajj Bin Shaik, Mr  
 | Sharifah Hafsah Bte Md Hanifa, Mdm |
