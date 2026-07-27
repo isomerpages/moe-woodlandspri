@@ -26,3 +26,4 @@ variant: markdown
 | Woo Wai Kwan, Mdm |
 | Xu Bin Benny, Mr |
 | Zhao Xiao Fei, Mdm |
+| Sherry Shi Yuan, Ms |
