@@ -24,7 +24,6 @@ Stall 8 | Tan Yap Keng, Ms
 Michelle Tan Geok Tin, Ms (Supervisor) |
 |
 
-
 |  | |  |  | |
 |---|---|---|---|---|
 | **Library Assistant** | 
